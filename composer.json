@@ -1,0 +1,29 @@
+{
+  "name": "dmhendricks/file-icon-vectors",
+  "type": "component",
+  "description": "A collection of file type icons in SVG format.",
+  "keywords": [ "file", "icon", "svg", "css" ],
+  "license": "MIT",
+  "authors": [
+    "Daniel M. Hendricks",
+    "Redbooth (https://redbooth.com/)"
+  ],
+  "support": {
+    "issues": "https://github.com/dmhendricks/dmhendricks/file-icon-vectors"
+  },
+  "style": "css/file-icon-vectors.css",
+  "sass": "scss/file-icon-vectors.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmhendricks/file-icon-vectors.git"
+  },
+  "extra": {
+    "component": {
+      "name": "file-icon-vectors",
+      "files": [
+        "css/**",
+        "icons/**"
+      ]
+    }
+  }
+}
