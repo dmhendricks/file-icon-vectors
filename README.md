@@ -6,4 +6,9 @@ The future home of a collection of file type icons in SVG format. Original desig
 
 * Create initial SVGs
 * Create CSS files
-* Package & submit to [cdnjs](https://cdnjs.com)
+* Register with Bower, Packagist
+* Add to CDN
+
+## Attribution
+
+* [Android icon](https://github.com/dmhendricks/file-icon-vectors/blob/master/icons/modern/apk.svg) made by <a href="https://www.flaticon.com/authors/google" title="Google">Google</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
