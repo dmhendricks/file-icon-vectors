@@ -18,5 +18,6 @@ This project is currently a work-in-progress.
 
 ## Attribution
 
-* [Android icon](https://github.com/dmhendricks/file-icon-vectors/blob/master/icons/modern/apk.svg) made by [Google](https://www.flaticon.com/authors/google) from [www.flaticon.com](https://www.flaticon.com/)
-* [Box icon]() made by [Rockicon](https://thenounproject.com/rockicon/) from [www.flaticon.com](https://www.flaticon.com/)
+* [Android icon](https://www.flaticon.com/free-icon/android-logo_61120) made by [Google](https://www.flaticon.com/authors/google) from [www.flaticon.com](https://www.flaticon.com/)
+* [Box icon](https://thenounproject.com/term/box/895233/) made by [Rockicon](https://thenounproject.com/rockicon/) from [thenounproject.com](https://thenounproject.com/)
+* [Photograph icon](https://thenounproject.com/search/?q=photo&i=1223579) made by [iconomania](https://thenounproject.com/iconomania/) from [thenounproject.com](https://thenounproject.com/)
