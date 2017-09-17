@@ -33,3 +33,5 @@ If you have [feedback, bugs or requests](https://github.com/dmhendricks/file-ico
 * [Windows icon](https://thenounproject.com/dev137/collection/basic-tools/?i=1152714) made by [Dev Patel](https://thenounproject.com/dev137/) from [thenounproject.com](https://thenounproject.com/)
 * [Key icon](https://thenounproject.com/il.capitano/collection/user-interface/?i=894526) made by [il Capitano](https://thenounproject.com/il.capitano/) from [thenounproject.com](https://thenounproject.com/)
 * [Command Prompt icon](https://thenounproject.com/ArtZ91/collection/micronicons/?i=413231) made by [Arthur Shlain](https://thenounproject.com/ArtZ91/) from [thenounproject.com](https://thenounproject.com/)
+* [Playlist icon](https://thenounproject.com/nikhilbapna/collection/music/?i=1229062) made by [Nikhil Bapna](https://thenounproject.com/nikhilbapna/) from [thenounproject.com](https://thenounproject.com/)
+* [Ringtone icon](https://thenounproject.com/sarcodius/collection/phone-call-icons/?i=740278) made by [Tawny Whatmore](https://thenounproject.com/sarcodius/) from [thenounproject.com](https://thenounproject.com/)
