@@ -35,3 +35,7 @@ If you have [feedback, bugs or requests](https://github.com/dmhendricks/file-ico
 * [Command Prompt icon](https://thenounproject.com/ArtZ91/collection/micronicons/?i=413231) made by [Arthur Shlain](https://thenounproject.com/ArtZ91/) from [thenounproject.com](https://thenounproject.com/)
 * [Playlist icon](https://thenounproject.com/nikhilbapna/collection/music/?i=1229062) made by [Nikhil Bapna](https://thenounproject.com/nikhilbapna/) from [thenounproject.com](https://thenounproject.com/)
 * [Ringtone icon](https://thenounproject.com/sarcodius/collection/phone-call-icons/?i=740278) made by [Tawny Whatmore](https://thenounproject.com/sarcodius/) from [thenounproject.com](https://thenounproject.com/)
+
+### Icons 101
+
+* [BitTorrent icon](http://www.icons101.com/icon/id_73504/setid_2388/Minimalist_Black_Icons__WIP_by_noshery/bittorrent) made by [noshery](http://www.icons101.com/artist/id_2388/noshery) from [www.icons101.com](http://www.icons101.com/)
