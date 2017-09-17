@@ -25,6 +25,7 @@ If you have [feedback, bugs or requests](https://github.com/dmhendricks/file-ico
 * [Android icon](https://www.flaticon.com/free-icon/android-logo_61120) made by [Google](https://www.flaticon.com/authors/google) from [www.flaticon.com](https://www.flaticon.com/)
 * [Lock icon](https://www.flaticon.com/free-icon/lock_483408) made by [Those Icons](https://www.flaticon.com/authors/those-icons) from [www.flaticon.com](https://www.flaticon.com/)
 * [DTD icon](https://www.flaticon.com/free-icon/dtd-file-format-extension_29547) made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/)
+* [Publisher icon](https://www.flaticon.com/free-icon/microsoft-publisher_2118) made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/)
 
 #### The Noun Project
 
@@ -36,6 +37,6 @@ If you have [feedback, bugs or requests](https://github.com/dmhendricks/file-ico
 * [Playlist icon](https://thenounproject.com/nikhilbapna/collection/music/?i=1229062) made by [Nikhil Bapna](https://thenounproject.com/nikhilbapna/) from [thenounproject.com](https://thenounproject.com/)
 * [Ringtone icon](https://thenounproject.com/sarcodius/collection/phone-call-icons/?i=740278) made by [Tawny Whatmore](https://thenounproject.com/sarcodius/) from [thenounproject.com](https://thenounproject.com/)
 
-### Icons 101
+#### Icons 101
 
 * [BitTorrent icon](http://www.icons101.com/icon/id_73504/setid_2388/Minimalist_Black_Icons__WIP_by_noshery/bittorrent) made by [noshery](http://www.icons101.com/artist/id_2388/noshery) from [www.icons101.com](http://www.icons101.com/)
