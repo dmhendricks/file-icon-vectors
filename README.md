@@ -30,6 +30,10 @@ Many icons modified from [The Noun Project](https://thenounproject.com/) via [Pr
 * [Lock icon](https://www.flaticon.com/free-icon/lock_483408) made by [Those Icons](https://www.flaticon.com/authors/those-icons) from [www.flaticon.com](https://www.flaticon.com/)
 * [DTD icon](https://www.flaticon.com/free-icon/dtd-file-format-extension_29547) made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/)
 * [Publisher icon](https://www.flaticon.com/free-icon/microsoft-publisher_2118) made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/)
+* [Firefox icon](https://www.flaticon.com/free-icon/firefox-logotype_1602) made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/)
+
+
+<div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 
 #### Icons 101
 
