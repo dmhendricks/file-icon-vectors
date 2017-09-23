@@ -7,7 +7,7 @@
 
 A collection of file type vector (SVG) icons. Original designs/inspirations by [Redbooth](https://github.com/redbooth/free-file-icons) and [Erlen Masson][https://www.sketchappsources.com/svg-resource/1856-vector-file-type-icons-sketch-freebie-resource.html].
 
-This project is currently a work-in-progress.
+**This project is currently a work-in-progress.**
 
 If you have [feedback, bugs or requests](https://github.com/dmhendricks/file-icon-vectors/issues), please feel free to post them.
 
@@ -18,11 +18,20 @@ If you have [feedback, bugs or requests](https://github.com/dmhendricks/file-ico
 * Register with Packagist, Bower
 * Add to CDN
 
+## Licensing & Copyright
+
+All original and derivative content is licensed under [The MIT License](https://github.com/dmhendricks/file-icon-vectors/blob/master/LICENSE) with the following notable exceptions:
+
+* Icons made by [Freepik](https://www.flaticon.com/authors/freepik/) (listed below) are licensed under the [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/) license.
+* The Apache OpenOffice "orb" logo is licensed under the [Apache License 2.0](https://openoffice.apache.org/license.html) and are copyright [The Apache Software Foundation](https://www.apache.org/)
+
+If there is an error or omission related to copyrighted work contained in this repository, please [let me know](https://github.com/dmhendricks/file-icon-vectors/issues/) and I will rectify.
+
 ## Attribution
 
 #### The Noun Project
 
-Many icons modified from [The Noun Project](https://thenounproject.com/) via [Pro Membership](https://thenounproject.com/dmhendricks/).
+Many icons were used and modified in the creation of these sets from [The Noun Project](https://thenounproject.com/) via [Pro Membership](https://thenounproject.com/dmhendricks/).
 
 #### Flaticon
 
@@ -31,9 +40,6 @@ Many icons modified from [The Noun Project](https://thenounproject.com/) via [Pr
 * [DTD icon](https://www.flaticon.com/free-icon/dtd-file-format-extension_29547) made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/)
 * [Publisher icon](https://www.flaticon.com/free-icon/microsoft-publisher_2118) made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/)
 * [Firefox icon](https://www.flaticon.com/free-icon/firefox-logotype_1602) made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/)
-
-
-<div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 
 #### Icons 101
 
