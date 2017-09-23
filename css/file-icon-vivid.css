@@ -55,6 +55,10 @@
   background-image: url("../icons/vivid/aac.svg");
 }
 
+.fiv-viv.fiv-icon-ai {
+  background-image: url("../icons/vivid/ai.svg");
+}
+
 .fiv-viv.fiv-icon-aif {
   background-image: url("../icons/vivid/aif.svg");
 }
@@ -69,6 +73,10 @@
 
 .fiv-viv.fiv-icon-amr {
   background-image: url("../icons/vivid/amr.svg");
+}
+
+.fiv-viv.fiv-icon-apk {
+  background-image: url("../icons/vivid/apk.svg");
 }
 
 .fiv-viv.fiv-icon-app {
