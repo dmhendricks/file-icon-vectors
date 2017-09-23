@@ -5,10 +5,9 @@
   "main": "css/file-icon-vectors.min.css",
   "license": "MIT",
   "ignore": [
-      "**/.*",
-      "sass",
-      "*.json",
-      "*.md"
+    "**/.*",
+    "sass",
+    "*.json"
   ],
   "keywords": [
     "file",
