@@ -1,0 +1,879 @@
+.fiv-background, .fiv-cla {
+  background-size: contain;
+  background-position: 50%;
+  background-repeat: no-repeat;
+}
+
+.fiv-cla {
+  position: relative;
+  display: inline-block;
+  line-height: 1em;
+  width: 0.72 * 1em;
+}
+.fiv-cla:before {
+  content: '\00a0';
+}
+
+.fiv-icon-3g2 {
+  background-image: url("../icons/classic/3g2.svg");
+}
+
+.fiv-icon-3ga {
+  background-image: url("../icons/classic/3ga.svg");
+}
+
+.fiv-icon-3gp {
+  background-image: url("../icons/classic/3gp.svg");
+}
+
+.fiv-icon-7z {
+  background-image: url("../icons/classic/7z.svg");
+}
+
+.fiv-icon-aa {
+  background-image: url("../icons/classic/aa.svg");
+}
+
+.fiv-icon-aac {
+  background-image: url("../icons/classic/aac.svg");
+}
+
+.fiv-icon-ai {
+  background-image: url("../icons/classic/ai.svg");
+}
+
+.fiv-icon-aif {
+  background-image: url("../icons/classic/aif.svg");
+}
+
+.fiv-icon-aifc {
+  background-image: url("../icons/classic/aifc.svg");
+}
+
+.fiv-icon-aiff {
+  background-image: url("../icons/classic/aiff.svg");
+}
+
+.fiv-icon-amr {
+  background-image: url("../icons/classic/amr.svg");
+}
+
+.fiv-icon-apk {
+  background-image: url("../icons/classic/apk.svg");
+}
+
+.fiv-icon-app {
+  background-image: url("../icons/classic/app.svg");
+}
+
+.fiv-icon-asax {
+  background-image: url("../icons/classic/asax.svg");
+}
+
+.fiv-icon-ascx {
+  background-image: url("../icons/classic/ascx.svg");
+}
+
+.fiv-icon-ash {
+  background-image: url("../icons/classic/ash.svg");
+}
+
+.fiv-icon-ashx {
+  background-image: url("../icons/classic/ashx.svg");
+}
+
+.fiv-icon-asmx {
+  background-image: url("../icons/classic/asmx.svg");
+}
+
+.fiv-icon-asp {
+  background-image: url("../icons/classic/asp.svg");
+}
+
+.fiv-icon-aspx {
+  background-image: url("../icons/classic/aspx.svg");
+}
+
+.fiv-icon-asx {
+  background-image: url("../icons/classic/asx.svg");
+}
+
+.fiv-icon-au {
+  background-image: url("../icons/classic/au.svg");
+}
+
+.fiv-icon-aup {
+  background-image: url("../icons/classic/aup.svg");
+}
+
+.fiv-icon-avi {
+  background-image: url("../icons/classic/avi.svg");
+}
+
+.fiv-icon-axd {
+  background-image: url("../icons/classic/axd.svg");
+}
+
+.fiv-icon-bash {
+  background-image: url("../icons/classic/bash.svg");
+}
+
+.fiv-icon-bat {
+  background-image: url("../icons/classic/bat.svg");
+}
+
+.fiv-icon-bin {
+  background-image: url("../icons/classic/bin.svg");
+}
+
+.fiv-icon-blank {
+  background-image: url("../icons/classic/blank.svg");
+}
+
+.fiv-icon-bmp {
+  background-image: url("../icons/classic/bmp.svg");
+}
+
+.fiv-icon-bpg {
+  background-image: url("../icons/classic/bpg.svg");
+}
+
+.fiv-icon-browser {
+  background-image: url("../icons/classic/browser.svg");
+}
+
+.fiv-icon-bz2 {
+  background-image: url("../icons/classic/bz2.svg");
+}
+
+.fiv-icon-c {
+  background-image: url("../icons/classic/c.svg");
+}
+
+.fiv-icon-cab {
+  background-image: url("../icons/classic/cab.svg");
+}
+
+.fiv-icon-caf {
+  background-image: url("../icons/classic/caf.svg");
+}
+
+.fiv-icon-cal {
+  background-image: url("../icons/classic/cal.svg");
+}
+
+.fiv-icon-cd {
+  background-image: url("../icons/classic/cd.svg");
+}
+
+.fiv-icon-cer {
+  background-image: url("../icons/classic/cer.svg");
+}
+
+.fiv-icon-class {
+  background-image: url("../icons/classic/class.svg");
+}
+
+.fiv-icon-com {
+  background-image: url("../icons/classic/com.svg");
+}
+
+.fiv-icon-compile {
+  background-image: url("../icons/classic/compile.svg");
+}
+
+.fiv-icon-config {
+  background-image: url("../icons/classic/config.svg");
+}
+
+.fiv-icon-cpp {
+  background-image: url("../icons/classic/cpp.svg");
+}
+
+.fiv-icon-cr2 {
+  background-image: url("../icons/classic/cr2.svg");
+}
+
+.fiv-icon-crt {
+  background-image: url("../icons/classic/crt.svg");
+}
+
+.fiv-icon-cs {
+  background-image: url("../icons/classic/cs.svg");
+}
+
+.fiv-icon-csh {
+  background-image: url("../icons/classic/csh.svg");
+}
+
+.fiv-icon-csproj {
+  background-image: url("../icons/classic/csproj.svg");
+}
+
+.fiv-icon-css {
+  background-image: url("../icons/classic/css.svg");
+}
+
+.fiv-icon-csv {
+  background-image: url("../icons/classic/csv.svg");
+}
+
+.fiv-icon-cue {
+  background-image: url("../icons/classic/cue.svg");
+}
+
+.fiv-icon-dat {
+  background-image: url("../icons/classic/dat.svg");
+}
+
+.fiv-icon-db {
+  background-image: url("../icons/classic/db.svg");
+}
+
+.fiv-icon-dbf {
+  background-image: url("../icons/classic/dbf.svg");
+}
+
+.fiv-icon-deb {
+  background-image: url("../icons/classic/deb.svg");
+}
+
+.fiv-icon-dll {
+  background-image: url("../icons/classic/dll.svg");
+}
+
+.fiv-icon-dmg {
+  background-image: url("../icons/classic/dmg.svg");
+}
+
+.fiv-icon-dng {
+  background-image: url("../icons/classic/dng.svg");
+}
+
+.fiv-icon-doc {
+  background-image: url("../icons/classic/doc.svg");
+}
+
+.fiv-icon-docx {
+  background-image: url("../icons/classic/docx.svg");
+}
+
+.fiv-icon-dot {
+  background-image: url("../icons/classic/dot.svg");
+}
+
+.fiv-icon-dotx {
+  background-image: url("../icons/classic/dotx.svg");
+}
+
+.fiv-icon-dpj {
+  background-image: url("../icons/classic/dpj.svg");
+}
+
+.fiv-icon-dtd {
+  background-image: url("../icons/classic/dtd.svg");
+}
+
+.fiv-icon-eot {
+  background-image: url("../icons/classic/eot.svg");
+}
+
+.fiv-icon-eps {
+  background-image: url("../icons/classic/eps.svg");
+}
+
+.fiv-icon-exe {
+  background-image: url("../icons/classic/exe.svg");
+}
+
+.fiv-icon-f4v {
+  background-image: url("../icons/classic/f4v.svg");
+}
+
+.fiv-icon-flac {
+  background-image: url("../icons/classic/flac.svg");
+}
+
+.fiv-icon-flv {
+  background-image: url("../icons/classic/flv.svg");
+}
+
+.fiv-icon-gadget {
+  background-image: url("../icons/classic/gadget.svg");
+}
+
+.fiv-icon-gem {
+  background-image: url("../icons/classic/gem.svg");
+}
+
+.fiv-icon-gif {
+  background-image: url("../icons/classic/gif.svg");
+}
+
+.fiv-icon-gitignore {
+  background-image: url("../icons/classic/gitignore.svg");
+}
+
+.fiv-icon-gpg {
+  background-image: url("../icons/classic/gpg.svg");
+}
+
+.fiv-icon-gz {
+  background-image: url("../icons/classic/gz.svg");
+}
+
+.fiv-icon-h {
+  background-image: url("../icons/classic/h.svg");
+}
+
+.fiv-icon-htm {
+  background-image: url("../icons/classic/htm.svg");
+}
+
+.fiv-icon-html {
+  background-image: url("../icons/classic/html.svg");
+}
+
+.fiv-icon-ics {
+  background-image: url("../icons/classic/ics.svg");
+}
+
+.fiv-icon-iff {
+  background-image: url("../icons/classic/iff.svg");
+}
+
+.fiv-icon-image {
+  background-image: url("../icons/classic/image.svg");
+}
+
+.fiv-icon-img {
+  background-image: url("../icons/classic/img.svg");
+}
+
+.fiv-icon-iso {
+  background-image: url("../icons/classic/iso.svg");
+}
+
+.fiv-icon-jar {
+  background-image: url("../icons/classic/jar.svg");
+}
+
+.fiv-icon-java {
+  background-image: url("../icons/classic/java.svg");
+}
+
+.fiv-icon-jbg {
+  background-image: url("../icons/classic/jbg.svg");
+}
+
+.fiv-icon-jpe {
+  background-image: url("../icons/classic/jpe.svg");
+}
+
+.fiv-icon-jpeg {
+  background-image: url("../icons/classic/jpeg.svg");
+}
+
+.fiv-icon-jpg {
+  background-image: url("../icons/classic/jpg.svg");
+}
+
+.fiv-icon-js {
+  background-image: url("../icons/classic/js.svg");
+}
+
+.fiv-icon-json {
+  background-image: url("../icons/classic/json.svg");
+}
+
+.fiv-icon-jsp {
+  background-image: url("../icons/classic/jsp.svg");
+}
+
+.fiv-icon-key {
+  background-image: url("../icons/classic/key.svg");
+}
+
+.fiv-icon-ksh {
+  background-image: url("../icons/classic/ksh.svg");
+}
+
+.fiv-icon-less {
+  background-image: url("../icons/classic/less.svg");
+}
+
+.fiv-icon-licx {
+  background-image: url("../icons/classic/licx.svg");
+}
+
+.fiv-icon-log {
+  background-image: url("../icons/classic/log.svg");
+}
+
+.fiv-icon-m2v {
+  background-image: url("../icons/classic/m2v.svg");
+}
+
+.fiv-icon-m3u {
+  background-image: url("../icons/classic/m3u.svg");
+}
+
+.fiv-icon-m3u8 {
+  background-image: url("../icons/classic/m3u8.svg");
+}
+
+.fiv-icon-m4a {
+  background-image: url("../icons/classic/m4a.svg");
+}
+
+.fiv-icon-m4r {
+  background-image: url("../icons/classic/m4r.svg");
+}
+
+.fiv-icon-m4v {
+  background-image: url("../icons/classic/m4v.svg");
+}
+
+.fiv-icon-master {
+  background-image: url("../icons/classic/master.svg");
+}
+
+.fiv-icon-md {
+  background-image: url("../icons/classic/md.svg");
+}
+
+.fiv-icon-mdb {
+  background-image: url("../icons/classic/mdb.svg");
+}
+
+.fiv-icon-mdf {
+  background-image: url("../icons/classic/mdf.svg");
+}
+
+.fiv-icon-mid {
+  background-image: url("../icons/classic/mid.svg");
+}
+
+.fiv-icon-midi {
+  background-image: url("../icons/classic/midi.svg");
+}
+
+.fiv-icon-mkv {
+  background-image: url("../icons/classic/mkv.svg");
+}
+
+.fiv-icon-mov {
+  background-image: url("../icons/classic/mov.svg");
+}
+
+.fiv-icon-mp2 {
+  background-image: url("../icons/classic/mp2.svg");
+}
+
+.fiv-icon-mp3 {
+  background-image: url("../icons/classic/mp3.svg");
+}
+
+.fiv-icon-mp4 {
+  background-image: url("../icons/classic/mp4.svg");
+}
+
+.fiv-icon-mpa {
+  background-image: url("../icons/classic/mpa.svg");
+}
+
+.fiv-icon-mpe {
+  background-image: url("../icons/classic/mpe.svg");
+}
+
+.fiv-icon-mpeg {
+  background-image: url("../icons/classic/mpeg.svg");
+}
+
+.fiv-icon-mpg {
+  background-image: url("../icons/classic/mpg.svg");
+}
+
+.fiv-icon-mpga {
+  background-image: url("../icons/classic/mpga.svg");
+}
+
+.fiv-icon-msi {
+  background-image: url("../icons/classic/msi.svg");
+}
+
+.fiv-icon-msu {
+  background-image: url("../icons/classic/msu.svg");
+}
+
+.fiv-icon-nef {
+  background-image: url("../icons/classic/nef.svg");
+}
+
+.fiv-icon-odb {
+  background-image: url("../icons/classic/odb.svg");
+}
+
+.fiv-icon-odt {
+  background-image: url("../icons/classic/odt.svg");
+}
+
+.fiv-icon-ogg {
+  background-image: url("../icons/classic/ogg.svg");
+}
+
+.fiv-icon-ogv {
+  background-image: url("../icons/classic/ogv.svg");
+}
+
+.fiv-icon-otf {
+  background-image: url("../icons/classic/otf.svg");
+}
+
+.fiv-icon-ott {
+  background-image: url("../icons/classic/ott.svg");
+}
+
+.fiv-icon-ovf {
+  background-image: url("../icons/classic/ovf.svg");
+}
+
+.fiv-icon-p12 {
+  background-image: url("../icons/classic/p12.svg");
+}
+
+.fiv-icon-p7b {
+  background-image: url("../icons/classic/p7b.svg");
+}
+
+.fiv-icon-pages {
+  background-image: url("../icons/classic/pages.svg");
+}
+
+.fiv-icon-part {
+  background-image: url("../icons/classic/part.svg");
+}
+
+.fiv-icon-pdb {
+  background-image: url("../icons/classic/pdb.svg");
+}
+
+.fiv-icon-pdf {
+  background-image: url("../icons/classic/pdf.svg");
+}
+
+.fiv-icon-pem {
+  background-image: url("../icons/classic/pem.svg");
+}
+
+.fiv-icon-pfx {
+  background-image: url("../icons/classic/pfx.svg");
+}
+
+.fiv-icon-pgp {
+  background-image: url("../icons/classic/pgp.svg");
+}
+
+.fiv-icon-php {
+  background-image: url("../icons/classic/php.svg");
+}
+
+.fiv-icon-png {
+  background-image: url("../icons/classic/png.svg");
+}
+
+.fiv-icon-pps {
+  background-image: url("../icons/classic/pps.svg");
+}
+
+.fiv-icon-ppsx {
+  background-image: url("../icons/classic/ppsx.svg");
+}
+
+.fiv-icon-ppt {
+  background-image: url("../icons/classic/ppt.svg");
+}
+
+.fiv-icon-pptx {
+  background-image: url("../icons/classic/pptx.svg");
+}
+
+.fiv-icon-prop {
+  background-image: url("../icons/classic/prop.svg");
+}
+
+.fiv-icon-ps {
+  background-image: url("../icons/classic/ps.svg");
+}
+
+.fiv-icon-psd {
+  background-image: url("../icons/classic/psd.svg");
+}
+
+.fiv-icon-psp {
+  background-image: url("../icons/classic/psp.svg");
+}
+
+.fiv-icon-pub {
+  background-image: url("../icons/classic/pub.svg");
+}
+
+.fiv-icon-py {
+  background-image: url("../icons/classic/py.svg");
+}
+
+.fiv-icon-qt {
+  background-image: url("../icons/classic/qt.svg");
+}
+
+.fiv-icon-ra {
+  background-image: url("../icons/classic/ra.svg");
+}
+
+.fiv-icon-ram {
+  background-image: url("../icons/classic/ram.svg");
+}
+
+.fiv-icon-rar {
+  background-image: url("../icons/classic/rar.svg");
+}
+
+.fiv-icon-raw {
+  background-image: url("../icons/classic/raw.svg");
+}
+
+.fiv-icon-rb {
+  background-image: url("../icons/classic/rb.svg");
+}
+
+.fiv-icon-rdf {
+  background-image: url("../icons/classic/rdf.svg");
+}
+
+.fiv-icon-resx {
+  background-image: url("../icons/classic/resx.svg");
+}
+
+.fiv-icon-rm {
+  background-image: url("../icons/classic/rm.svg");
+}
+
+.fiv-icon-rpm {
+  background-image: url("../icons/classic/rpm.svg");
+}
+
+.fiv-icon-rtf {
+  background-image: url("../icons/classic/rtf.svg");
+}
+
+.fiv-icon-rub {
+  background-image: url("../icons/classic/rub.svg");
+}
+
+.fiv-icon-sass {
+  background-image: url("../icons/classic/sass.svg");
+}
+
+.fiv-icon-scss {
+  background-image: url("../icons/classic/scss.svg");
+}
+
+.fiv-icon-sdm {
+  background-image: url("../icons/classic/sdm.svg");
+}
+
+.fiv-icon-sh {
+  background-image: url("../icons/classic/sh.svg");
+}
+
+.fiv-icon-sitemap {
+  background-image: url("../icons/classic/sitemap.svg");
+}
+
+.fiv-icon-skin {
+  background-image: url("../icons/classic/skin.svg");
+}
+
+.fiv-icon-sln {
+  background-image: url("../icons/classic/sln.svg");
+}
+
+.fiv-icon-sql {
+  background-image: url("../icons/classic/sql.svg");
+}
+
+.fiv-icon-svg {
+  background-image: url("../icons/classic/svg.svg");
+}
+
+.fiv-icon-sys {
+  background-image: url("../icons/classic/sys.svg");
+}
+
+.fiv-icon-tar {
+  background-image: url("../icons/classic/tar.svg");
+}
+
+.fiv-icon-tcsh {
+  background-image: url("../icons/classic/tcsh.svg");
+}
+
+.fiv-icon-tex {
+  background-image: url("../icons/classic/tex.svg");
+}
+
+.fiv-icon-tga {
+  background-image: url("../icons/classic/tga.svg");
+}
+
+.fiv-icon-tgz {
+  background-image: url("../icons/classic/tgz.svg");
+}
+
+.fiv-icon-tif {
+  background-image: url("../icons/classic/tif.svg");
+}
+
+.fiv-icon-tiff {
+  background-image: url("../icons/classic/tiff.svg");
+}
+
+.fiv-icon-torrent {
+  background-image: url("../icons/classic/torrent.svg");
+}
+
+.fiv-icon-ts {
+  background-image: url("../icons/classic/ts.svg");
+}
+
+.fiv-icon-tsv {
+  background-image: url("../icons/classic/tsv.svg");
+}
+
+.fiv-icon-ttf {
+  background-image: url("../icons/classic/ttf.svg");
+}
+
+.fiv-icon-txt {
+  background-image: url("../icons/classic/txt.svg");
+}
+
+.fiv-icon-udf {
+  background-image: url("../icons/classic/udf.svg");
+}
+
+.fiv-icon-vb {
+  background-image: url("../icons/classic/vb.svg");
+}
+
+.fiv-icon-vbproj {
+  background-image: url("../icons/classic/vbproj.svg");
+}
+
+.fiv-icon-vcd {
+  background-image: url("../icons/classic/vcd.svg");
+}
+
+.fiv-icon-vcs {
+  background-image: url("../icons/classic/vcs.svg");
+}
+
+.fiv-icon-vdi {
+  background-image: url("../icons/classic/vdi.svg");
+}
+
+.fiv-icon-vmdk {
+  background-image: url("../icons/classic/vmdk.svg");
+}
+
+.fiv-icon-vob {
+  background-image: url("../icons/classic/vob.svg");
+}
+
+.fiv-icon-war {
+  background-image: url("../icons/classic/war.svg");
+}
+
+.fiv-icon-wav {
+  background-image: url("../icons/classic/wav.svg");
+}
+
+.fiv-icon-webinfo {
+  background-image: url("../icons/classic/webinfo.svg");
+}
+
+.fiv-icon-webm {
+  background-image: url("../icons/classic/webm.svg");
+}
+
+.fiv-icon-webp {
+  background-image: url("../icons/classic/webp.svg");
+}
+
+.fiv-icon-wma {
+  background-image: url("../icons/classic/wma.svg");
+}
+
+.fiv-icon-wmv {
+  background-image: url("../icons/classic/wmv.svg");
+}
+
+.fiv-icon-woff {
+  background-image: url("../icons/classic/woff.svg");
+}
+
+.fiv-icon-woff2 {
+  background-image: url("../icons/classic/woff2.svg");
+}
+
+.fiv-icon-wsf {
+  background-image: url("../icons/classic/wsf.svg");
+}
+
+.fiv-icon-xcf {
+  background-image: url("../icons/classic/xcf.svg");
+}
+
+.fiv-icon-xls {
+  background-image: url("../icons/classic/xls.svg");
+}
+
+.fiv-icon-xlsx {
+  background-image: url("../icons/classic/xlsx.svg");
+}
+
+.fiv-icon-xml {
+  background-image: url("../icons/classic/xml.svg");
+}
+
+.fiv-icon-xpi {
+  background-image: url("../icons/classic/xpi.svg");
+}
+
+.fiv-icon-xrb {
+  background-image: url("../icons/classic/xrb.svg");
+}
+
+.fiv-icon-xspf {
+  background-image: url("../icons/classic/xspf.svg");
+}
+
+.fiv-icon-xz {
+  background-image: url("../icons/classic/xz.svg");
+}
+
+.fiv-icon-yml {
+  background-image: url("../icons/classic/yml.svg");
+}
+
+.fiv-icon-z {
+  background-image: url("../icons/classic/z.svg");
+}
+
+.fiv-icon-zip {
+  background-image: url("../icons/classic/zip.svg");
+}
+
+.fiv-icon-zsh {
+  background-image: url("../icons/classic/zsh.svg");
+}

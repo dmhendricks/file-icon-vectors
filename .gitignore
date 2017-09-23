@@ -1,6 +1,13 @@
 .DS_Store
 node_modules
-src/
-dev/
 *.bak
+
+# Dev Dependencies
+sass/
+dev/
+src/
+package.json
+gulpfile.js
+
+# Future Families
 icons/distinct/
