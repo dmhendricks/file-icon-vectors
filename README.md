@@ -5,7 +5,7 @@
 
 # File Vector Icons
 
-A collection of file type vector (SVG) icons. Original designs/inspirations by [Redbooth](https://github.com/redbooth/free-file-icons) and [Erlen Masson][https://www.sketchappsources.com/svg-resource/1856-vector-file-type-icons-sketch-freebie-resource.html].
+A collection of file type vector (SVG) icons. Original designs/inspirations by [Redbooth](https://github.com/redbooth/free-file-icons) and [Erlen Masson](https://www.sketchappsources.com/svg-resource/1856-vector-file-type-icons-sketch-freebie-resource.html).
 
 **This project is currently a work-in-progress.**
 
