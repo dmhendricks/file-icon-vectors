@@ -5,6 +5,7 @@ node_modules
 # Dev Dependencies
 dev/
 src/
+demo/
 package.json
 gulpfile.js
 
