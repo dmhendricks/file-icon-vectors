@@ -238,6 +238,10 @@
   background-image: url("../icons/classic/deb.svg");
 }
 
+.fiv-cla.fiv-icon-dgn {
+  background-image: url("../icons/classic/dgn.svg");
+}
+
 .fiv-cla.fiv-icon-dll {
   background-image: url("../icons/classic/dll.svg");
 }
@@ -274,6 +278,14 @@
   background-image: url("../icons/classic/dtd.svg");
 }
 
+.fiv-cla.fiv-icon-dwg {
+  background-image: url("../icons/classic/dwg.svg");
+}
+
+.fiv-cla.fiv-icon-dxf {
+  background-image: url("../icons/classic/dxf.svg");
+}
+
 .fiv-cla.fiv-icon-eot {
   background-image: url("../icons/classic/eot.svg");
 }
@@ -282,12 +294,20 @@
   background-image: url("../icons/classic/eps.svg");
 }
 
+.fiv-cla.fiv-icon-epub {
+  background-image: url("../icons/classic/epub.svg");
+}
+
 .fiv-cla.fiv-icon-exe {
   background-image: url("../icons/classic/exe.svg");
 }
 
 .fiv-cla.fiv-icon-f4v {
   background-image: url("../icons/classic/f4v.svg");
+}
+
+.fiv-cla.fiv-icon-fb2 {
+  background-image: url("../icons/classic/fb2.svg");
 }
 
 .fiv-cla.fiv-icon-flac {
@@ -332,6 +352,10 @@
 
 .fiv-cla.fiv-icon-html {
   background-image: url("../icons/classic/html.svg");
+}
+
+.fiv-cla.fiv-icon-ibooks {
+  background-image: url("../icons/classic/ibooks.svg");
 }
 
 .fiv-cla.fiv-icon-ics {
@@ -394,6 +418,10 @@
   background-image: url("../icons/classic/key.svg");
 }
 
+.fiv-cla.fiv-icon-kf8 {
+  background-image: url("../icons/classic/kf8.svg");
+}
+
 .fiv-cla.fiv-icon-ksh {
   background-image: url("../icons/classic/ksh.svg");
 }
@@ -406,8 +434,16 @@
   background-image: url("../icons/classic/licx.svg");
 }
 
+.fiv-cla.fiv-icon-lit {
+  background-image: url("../icons/classic/lit.svg");
+}
+
 .fiv-cla.fiv-icon-log {
   background-image: url("../icons/classic/log.svg");
+}
+
+.fiv-cla.fiv-icon-lua {
+  background-image: url("../icons/classic/lua.svg");
 }
 
 .fiv-cla.fiv-icon-m2v {
@@ -460,6 +496,10 @@
 
 .fiv-cla.fiv-icon-mkv {
   background-image: url("../icons/classic/mkv.svg");
+}
+
+.fiv-cla.fiv-icon-mobi {
+  background-image: url("../icons/classic/mobi.svg");
 }
 
 .fiv-cla.fiv-icon-mov {
@@ -702,8 +742,20 @@
   background-image: url("../icons/classic/sql.svg");
 }
 
+.fiv-cla.fiv-icon-step {
+  background-image: url("../icons/classic/step.svg");
+}
+
+.fiv-cla.fiv-icon-stl {
+  background-image: url("../icons/classic/stl.svg");
+}
+
 .fiv-cla.fiv-icon-svg {
   background-image: url("../icons/classic/svg.svg");
+}
+
+.fiv-cla.fiv-icon-swift {
+  background-image: url("../icons/classic/swift.svg");
 }
 
 .fiv-cla.fiv-icon-sys {
