@@ -2,12 +2,15 @@
   "name": "file-icon-vectors",
   "description": "A collection of file type icons in SVG format.",
   "version": "0.1.0",
-  "main": "css/file-icon-vectors.min.css",
+  "main": [
+    "css/file-icon-classic.min.css",
+    "css/file-icon-vivid.min.css",
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
     "sass",
-    "*.json"
+    "composer.json"
   ],
   "keywords": [
     "file",
