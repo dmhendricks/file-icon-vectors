@@ -7,18 +7,55 @@
 
 # File Vector Icons
 
-A collection of file type vector (SVG) icons. Original designs/inspirations by [Redbooth](https://github.com/redbooth/free-file-icons) and [Erlen Masson](https://www.sketchappsources.com/svg-resource/1856-vector-file-type-icons-sketch-freebie-resource.html).
+A collection of file type vector (SVG) icons.
 
 **This project is currently a work-in-progress.**
 
 If you have [feedback, bugs or requests](https://github.com/dmhendricks/file-icon-vectors/issues), please feel free to post them.
 
-## TODO
+## Usage
 
-* Create initial SVGs
-* Create SASS/CSS files
-* Register with Packagist, Bower
-* Add to CDN
+Currently, there are two icon sets in the `icons` directory - "Classic" (which expands on the [Redbooth](https://github.com/redbooth/free-file-icons) designs and "Vivid" (which borrows inspiration from [Erlen Masson](https://www.sketchappsources.com/svg-resource/1856-vector-file-type-icons-sketch-freebie-resource.html)).
+
+To uae, simply link to one or both of the CSS files in the `css` directory.
+
+```
+<link rel="stylesheet" href="css/file-icon-classic.css" />
+<link rel="stylesheet" href="css/file-icon-vivid.css" />
+```
+
+From there, you can use CSS classes to display the icons:
+
+```
+<span class="fiv-cla fiv-icon-ppt"></span>
+<span class="fiv-cla fiv-icon-xls"></span>
+<span class="fiv-viv fiv-icon-pdf"></span>
+<span class="fiv-viv fiv-icon-wav"></span>
+```
+
+Notice that the classes contain wither `flv-cla` for the Classic set or `flv-viv` for the Vivid set.
+
+If you want to override the size of the icons, you can do so with CSS:
+
+```
+<style>
+   .fiv-cla, .fiv-viv { font-size: 3em; }
+</style>
+```
+
+## Goals
+
+Before I create an initial release and add these libraries to Packagist and Bower, I want to:
+
+* Finish up missing icons in both sets.
+
+### Future Items
+
+* Create a demo page for all sets
+* Add the libraries to a CDN
+* Add additional libraries, such as square icons, et al
+* Replace icons licensed under [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/). If you find them useful, [donations](https://paypal.me/danielhendricks) are appreciated to assist in this matter.
+* For now, the OpenOffice images will have generic icons, pending approval from the Apache Foundation to use their logo.
 
 ## Licensing & Copyright
 

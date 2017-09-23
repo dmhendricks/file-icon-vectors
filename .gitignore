@@ -3,7 +3,6 @@ node_modules
 *.bak
 
 # Dev Dependencies
-sass/
 dev/
 src/
 package.json
