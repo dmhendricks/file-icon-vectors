@@ -75,7 +75,6 @@ Many icons were used and modified in the creation of these sets from [The Noun P
 #### Flaticon - [flaticon.com](https://www.flaticon.com/)
 
 * [Android icon](https://www.flaticon.com/free-icon/android-logo_61120) made by [Google](https://www.flaticon.com/authors/google)
-* [Lock icon](https://www.flaticon.com/free-icon/lock_483408) made by [Those Icons](https://www.flaticon.com/authors/those-icons)
 * [DTD icon](https://www.flaticon.com/free-icon/dtd-file-format-extension_29547) made by [Freepik](https://www.flaticon.com/authors/freepik)
 * [Publisher icon](https://www.flaticon.com/free-icon/microsoft-publisher_2118) made by [Freepik](https://www.flaticon.com/authors/freepik)
 * [Firefox icon](https://www.flaticon.com/free-icon/firefox-logotype_1602) made by [Freepik](https://www.flaticon.com/authors/freepik)
