@@ -303,6 +303,10 @@
   background-image: url("../icons/vivid/eot.svg");
 }
 
+.fiv-viv.fiv-icon-eps {
+  background-image: url("../icons/vivid/eps.svg");
+}
+
 .fiv-viv.fiv-icon-epub {
   background-image: url("../icons/vivid/epub.svg");
 }
@@ -373,6 +377,10 @@
 
 .fiv-viv.fiv-icon-img {
   background-image: url("../icons/vivid/img.svg");
+}
+
+.fiv-viv.fiv-icon-indd {
+  background-image: url("../icons/vivid/indd.svg");
 }
 
 .fiv-viv.fiv-icon-iso {
@@ -591,6 +599,10 @@
   background-image: url("../icons/vivid/prop.svg");
 }
 
+.fiv-viv.fiv-icon-ps {
+  background-image: url("../icons/vivid/ps.svg");
+}
+
 .fiv-viv.fiv-icon-psd {
   background-image: url("../icons/vivid/psd.svg");
 }
@@ -661,6 +673,10 @@
 
 .fiv-viv.fiv-icon-stl {
   background-image: url("../icons/vivid/stl.svg");
+}
+
+.fiv-viv.fiv-icon-svg {
+  background-image: url("../icons/vivid/svg.svg");
 }
 
 .fiv-viv.fiv-icon-swift {

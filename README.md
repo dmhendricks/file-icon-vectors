@@ -64,11 +64,7 @@ Before I create an initial release and add these libraries to Packagist and Bowe
 
 ## Legal Stuff
 
-### Required Attribution
+### Attribution
 
 * [Android icon](https://www.flaticon.com/free-icon/android-logo_61120) made by [Google](https://www.flaticon.com/authors/google) via [flaticon.com](https://www.flaticon.com/)
 * [BitTorrent icon](http://www.icons101.com/icon/id_73504/setid_2388/Minimalist_Black_Icons__WIP_by_noshery/bittorrent) made by [noshery](http://www.icons101.com/artist/id_2388/noshery) from [icons101.com](http://www.icons101.com/) (in the lowest quality possible)
-
-### The Apache Un-License
-
-[The Apache Software Foundation](https://www.apache.org/) denied my request to use their "orb" logo for the vivid set. The icons used for the classic set are licensed MIT, but they don't work well with the vivid design. As such, I used similar generic icons for [ClosedOffice](https://arstechnica.com/information-technology/2017/09/massive-equifax-hack-reportedly-started-4-months-before-it-was-detected/) on the vivid set as I did for Microsoft.
