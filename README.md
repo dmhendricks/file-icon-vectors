@@ -11,7 +11,8 @@ A collection of file type vector (SVG) icons.
 
 **This project is currently a work-in-progress.**
 
-If you have [feedback, bugs or requests](https://github.com/dmhendricks/file-icon-vectors/issues), please feel free to post them.
+* If you have [feedback, bugs or requests](https://github.com/dmhendricks/file-icon-vectors/issues), please feel free to post them.
+* I paid to license many of the icons used in these sets. [Donations](https://paypal.me/danielhendricks) are appreciated.
 
 ## Usage
 
@@ -43,6 +44,12 @@ If you want to override the size of the icons, you can do so with CSS:
 </style>
 ```
 
+If you prefer, you may also use `.fiv-size-md`, `.fiv-size-lg` and `.fiv-size-xl` to modify the icon sizes.
+
+```
+<span class="fiv-viv fiv-icon-pdf fiv-size-lg"></span>
+```
+
 ## Goals
 
 Before I create an initial release and add these libraries to Packagist and Bower, I want to:
@@ -64,4 +71,4 @@ Before I create an initial release and add these libraries to Packagist and Bowe
 
 ### The Apache Un-License
 
-[The Apache Software Foundation](https://www.apache.org/) denied my request to use their "orb" logo for the vivid set. The icon used for the classic set it licensed MIT, but it doesn't work well with the vivid design. As such, I will use the same generic icons for ClosedOffice as I did for Microsoft.
+[The Apache Software Foundation](https://www.apache.org/) denied my request to use their "orb" logo for the vivid set. The icon used for the classic set it licensed MIT, but it doesn't work well with the vivid design. As such, I used the same generic icons for [ClosedOffice](https://arstechnica.com/information-technology/2017/09/massive-equifax-hack-reportedly-started-4-months-before-it-was-detected/) on the vivid set as I did for Microsoft.
