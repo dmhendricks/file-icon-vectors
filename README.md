@@ -56,15 +56,13 @@ Before I create an initial release and add these libraries to Packagist and Bowe
 * Add the libraries to a CDN
 * Add additional libraries, such as square icons, et al
 
-## Licensing & Copyright
-
-All original and derivative content is licensed under [The MIT License](https://github.com/dmhendricks/file-icon-vectors/blob/master/LICENSE) with the following exceptions:
-
-* The Apache OpenOffice "orb" logo is licensed under the [Apache License 2.0](https://openoffice.apache.org/license.html) and is copyright [The Apache Software Foundation](https://www.apache.org/)
-
-If there is an error or omission related to copyrighted work contained in this repository, please [let me know](https://github.com/dmhendricks/file-icon-vectors/issues/) and I will rectify.
-
 ## Required Attribution
 
 * [Android icon](https://www.flaticon.com/free-icon/android-logo_61120) made by [Google](https://www.flaticon.com/authors/google) via [flaticon.com](https://www.flaticon.com/)
-* [BitTorrent icon](http://www.icons101.com/icon/id_73504/setid_2388/Minimalist_Black_Icons__WIP_by_noshery/bittorrent) made by [noshery](http://www.icons101.com/artist/id_2388/noshery) from [icons101.com](http://www.icons101.com/)
+* [BitTorrent icon](http://www.icons101.com/icon/id_73504/setid_2388/Minimalist_Black_Icons__WIP_by_noshery/bittorrent) made by [noshery](http://www.icons101.com/artist/id_2388/noshery) from [icons101.com](http://www.icons101.com/) (in the lowest quality possible)
+
+## Required Copyright
+
+* The Apache OpenOffice "orb" logo is copyright [The Apache Software Foundation](https://www.apache.org/)
+
+If there is an error or omission related to copyright/attribution contained in this repository, please [let me know](https://github.com/dmhendricks/file-icon-vectors/issues/) and I will rectify.
