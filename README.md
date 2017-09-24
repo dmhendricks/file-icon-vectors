@@ -34,7 +34,7 @@ From there, you can use CSS classes to display the icons:
 <span class="fiv-viv fiv-icon-wav"></span>
 ```
 
-Notice that the classes contain wither `flv-cla` for the Classic set or `flv-viv` for the Vivid set.
+Notice that the classes contain either `flv-cla` for the Classic set or `flv-viv` for the Vivid set.
 
 If you want to override the size of the icons, you can do so with CSS:
 
@@ -44,7 +44,7 @@ If you want to override the size of the icons, you can do so with CSS:
 </style>
 ```
 
-If you prefer, you may also use `.fiv-size-md`, `.fiv-size-lg` and `.fiv-size-xl` to modify the icon sizes.
+If you prefer, you may also use `.fiv-size-md`, `.fiv-size-lg` and `.fiv-size-xl` to modify the icon sizes:
 
 ```
 <span class="fiv-viv fiv-icon-pdf fiv-size-lg"></span>
@@ -71,4 +71,4 @@ Before I create an initial release and add these libraries to Packagist and Bowe
 
 ### The Apache Un-License
 
-[The Apache Software Foundation](https://www.apache.org/) denied my request to use their "orb" logo for the vivid set. The icon used for the classic set it licensed MIT, but it doesn't work well with the vivid design. As such, I used the same generic icons for [ClosedOffice](https://arstechnica.com/information-technology/2017/09/massive-equifax-hack-reportedly-started-4-months-before-it-was-detected/) on the vivid set as I did for Microsoft.
+[The Apache Software Foundation](https://www.apache.org/) denied my request to use their "orb" logo for the vivid set. The icon used for the classic set it licensed MIT, but it doesn't work well with the vivid design. As such, I used similar generic icons for [ClosedOffice](https://arstechnica.com/information-technology/2017/09/massive-equifax-hack-reportedly-started-4-months-before-it-was-detected/) on the vivid set as I did for Microsoft.
