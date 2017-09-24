@@ -123,6 +123,10 @@
   background-image: url("../icons/vivid/au.svg");
 }
 
+.fiv-viv.fiv-icon-aup {
+  background-image: url("../icons/vivid/aup.svg");
+}
+
 .fiv-viv.fiv-icon-avi {
   background-image: url("../icons/vivid/avi.svg");
 }
@@ -263,6 +267,10 @@
   background-image: url("../icons/vivid/dmg.svg");
 }
 
+.fiv-viv.fiv-icon-dng {
+  background-image: url("../icons/vivid/dng.svg");
+}
+
 .fiv-viv.fiv-icon-doc {
   background-image: url("../icons/vivid/doc.svg");
 }
@@ -303,12 +311,20 @@
   background-image: url("../icons/vivid/exe.svg");
 }
 
+.fiv-viv.fiv-icon-f4v {
+  background-image: url("../icons/vivid/f4v.svg");
+}
+
 .fiv-viv.fiv-icon-fb2 {
   background-image: url("../icons/vivid/fb2.svg");
 }
 
 .fiv-viv.fiv-icon-flac {
   background-image: url("../icons/vivid/flac.svg");
+}
+
+.fiv-viv.fiv-icon-flv {
+  background-image: url("../icons/vivid/flv.svg");
 }
 
 .fiv-viv.fiv-icon-gadget {
@@ -459,6 +475,10 @@
   background-image: url("../icons/vivid/midi.svg");
 }
 
+.fiv-viv.fiv-icon-mkv {
+  background-image: url("../icons/vivid/mkv.svg");
+}
+
 .fiv-viv.fiv-icon-mobi {
   background-image: url("../icons/vivid/mobi.svg");
 }
@@ -483,6 +503,14 @@
   background-image: url("../icons/vivid/mpa.svg");
 }
 
+.fiv-viv.fiv-icon-mpe {
+  background-image: url("../icons/vivid/mpe.svg");
+}
+
+.fiv-viv.fiv-icon-mpeg {
+  background-image: url("../icons/vivid/mpeg.svg");
+}
+
 .fiv-viv.fiv-icon-mpg {
   background-image: url("../icons/vivid/mpg.svg");
 }
@@ -501,6 +529,10 @@
 
 .fiv-viv.fiv-icon-ogg {
   background-image: url("../icons/vivid/ogg.svg");
+}
+
+.fiv-viv.fiv-icon-ogv {
+  background-image: url("../icons/vivid/ogv.svg");
 }
 
 .fiv-viv.fiv-icon-otf {
@@ -553,6 +585,10 @@
 
 .fiv-viv.fiv-icon-py {
   background-image: url("../icons/vivid/py.svg");
+}
+
+.fiv-viv.fiv-icon-qt {
+  background-image: url("../icons/vivid/qt.svg");
 }
 
 .fiv-viv.fiv-icon-rar {
@@ -691,6 +727,10 @@
   background-image: url("../icons/vivid/wav.svg");
 }
 
+.fiv-viv.fiv-icon-webm {
+  background-image: url("../icons/vivid/webm.svg");
+}
+
 .fiv-viv.fiv-icon-wma {
   background-image: url("../icons/vivid/wma.svg");
 }
@@ -705,6 +745,14 @@
 
 .fiv-viv.fiv-icon-woff2 {
   background-image: url("../icons/vivid/woff2.svg");
+}
+
+.fiv-viv.fiv-icon-xls {
+  background-image: url("../icons/vivid/xls.svg");
+}
+
+.fiv-viv.fiv-icon-xlsx {
+  background-image: url("../icons/vivid/xlsx.svg");
 }
 
 .fiv-viv.fiv-icon-xml {
