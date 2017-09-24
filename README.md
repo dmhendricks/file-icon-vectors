@@ -48,7 +48,7 @@ If you want to override the size of the icons, you can do so with CSS:
 Before I create an initial release and add these libraries to Packagist and Bower, I want to:
 
 * Finish up missing icons in both sets.
-* For now, the OpenOffice images will have generic icons, pending approval from the Apache Foundation to use their logo. **Update: Since they are being pricks about it, I will have to come up with something else.**
+* For now, the OpenOffice images will have generic icons, pending approval from the Apache Foundation to use their logo. **Update: They are not cooperative.**
 
 ### Future Items
 
@@ -64,7 +64,7 @@ All original and derivative content is licensed under [The MIT License](https://
 
 If there is an error or omission related to copyrighted work contained in this repository, please [let me know](https://github.com/dmhendricks/file-icon-vectors/issues/) and I will rectify.
 
-## Attribution
+## Required Attribution
 
 * [Android icon](https://www.flaticon.com/free-icon/android-logo_61120) made by [Google](https://www.flaticon.com/authors/google) via [flaticon.com](https://www.flaticon.com/)
 * [BitTorrent icon](http://www.icons101.com/icon/id_73504/setid_2388/Minimalist_Black_Icons__WIP_by_noshery/bittorrent) made by [noshery](http://www.icons101.com/artist/id_2388/noshery) from [icons101.com](http://www.icons101.com/)
