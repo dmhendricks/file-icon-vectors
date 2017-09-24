@@ -551,6 +551,10 @@
   background-image: url("../icons/vivid/pdf.svg");
 }
 
+.fiv-viv.fiv-icon-pem {
+  background-image: url("../icons/vivid/pem.svg");
+}
+
 .fiv-viv.fiv-icon-php {
   background-image: url("../icons/vivid/php.svg");
 }
