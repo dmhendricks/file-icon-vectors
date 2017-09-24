@@ -48,37 +48,23 @@ If you want to override the size of the icons, you can do so with CSS:
 Before I create an initial release and add these libraries to Packagist and Bower, I want to:
 
 * Finish up missing icons in both sets.
+* For now, the OpenOffice images will have generic icons, pending approval from the Apache Foundation to use their logo. **Update: Since they are being pricks about it, I will have to come up with something else.**
 
 ### Future Items
 
 * Create a demo page for all sets
 * Add the libraries to a CDN
 * Add additional libraries, such as square icons, et al
-* Replace icons licensed under [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/). If you find them useful, [donations](https://paypal.me/danielhendricks) are appreciated to assist in this matter.
-* For now, the OpenOffice images will have generic icons, pending approval from the Apache Foundation to use their logo.
 
 ## Licensing & Copyright
 
-All original and derivative content is licensed under [The MIT License](https://github.com/dmhendricks/file-icon-vectors/blob/master/LICENSE) with the following notable exceptions:
+All original and derivative content is licensed under [The MIT License](https://github.com/dmhendricks/file-icon-vectors/blob/master/LICENSE) with the following exceptions:
 
-* Icons made by [Freepik](https://www.flaticon.com/authors/freepik/) (listed below) are licensed under the [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/) license.
 * The Apache OpenOffice "orb" logo is licensed under the [Apache License 2.0](https://openoffice.apache.org/license.html) and is copyright [The Apache Software Foundation](https://www.apache.org/)
 
 If there is an error or omission related to copyrighted work contained in this repository, please [let me know](https://github.com/dmhendricks/file-icon-vectors/issues/) and I will rectify.
 
 ## Attribution
 
-#### The Noun Project
-
-Many icons were used and modified in the creation of these sets from [The Noun Project](https://thenounproject.com/) via [Pro Membership](https://thenounproject.com/dmhendricks/).
-
-#### Flaticon - [flaticon.com](https://www.flaticon.com/)
-
-* [Android icon](https://www.flaticon.com/free-icon/android-logo_61120) made by [Google](https://www.flaticon.com/authors/google)
-* [DTD icon](https://www.flaticon.com/free-icon/dtd-file-format-extension_29547) made by [Freepik](https://www.flaticon.com/authors/freepik)
-* [Publisher icon](https://www.flaticon.com/free-icon/microsoft-publisher_2118) made by [Freepik](https://www.flaticon.com/authors/freepik)
-* [Firefox icon](https://www.flaticon.com/free-icon/firefox-logotype_1602) made by [Freepik](https://www.flaticon.com/authors/freepik)
-
-#### Icons 101 - [icons101.com](http://www.icons101.com/)
-
-* [BitTorrent icon](http://www.icons101.com/icon/id_73504/setid_2388/Minimalist_Black_Icons__WIP_by_noshery/bittorrent) made by [noshery](http://www.icons101.com/artist/id_2388/noshery)
+* [Android icon](https://www.flaticon.com/free-icon/android-logo_61120) made by [Google](https://www.flaticon.com/authors/google) via [flaticon.com](https://www.flaticon.com/)
+* [BitTorrent icon](http://www.icons101.com/icon/id_73504/setid_2388/Minimalist_Black_Icons__WIP_by_noshery/bittorrent) made by [noshery](http://www.icons101.com/artist/id_2388/noshery) from [icons101.com](http://www.icons101.com/)
