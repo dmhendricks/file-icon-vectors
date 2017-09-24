@@ -71,4 +71,4 @@ Before I create an initial release and add these libraries to Packagist and Bowe
 
 ### The Apache Un-License
 
-[The Apache Software Foundation](https://www.apache.org/) denied my request to use their "orb" logo for the vivid set. The icon used for the classic set it licensed MIT, but it doesn't work well with the vivid design. As such, I used similar generic icons for [ClosedOffice](https://arstechnica.com/information-technology/2017/09/massive-equifax-hack-reportedly-started-4-months-before-it-was-detected/) on the vivid set as I did for Microsoft.
+[The Apache Software Foundation](https://www.apache.org/) denied my request to use their "orb" logo for the vivid set. The icons used for the classic set are licensed MIT, but they don't work well with the vivid design. As such, I used similar generic icons for [ClosedOffice](https://arstechnica.com/information-technology/2017/09/massive-equifax-hack-reportedly-started-4-months-before-it-was-detected/) on the vivid set as I did for Microsoft.
