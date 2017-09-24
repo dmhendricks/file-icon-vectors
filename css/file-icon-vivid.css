@@ -139,6 +139,10 @@
   background-image: url("../icons/vivid/bat.svg");
 }
 
+.fiv-viv.fiv-icon-bin {
+  background-image: url("../icons/vivid/bin.svg");
+}
+
 .fiv-viv.fiv-icon-blank {
   background-image: url("../icons/vivid/blank.svg");
 }
@@ -149,6 +153,10 @@
 
 .fiv-viv.fiv-icon-bpg {
   background-image: url("../icons/vivid/bpg.svg");
+}
+
+.fiv-viv.fiv-icon-browser {
+  background-image: url("../icons/vivid/browser.svg");
 }
 
 .fiv-viv.fiv-icon-bz2 {
@@ -171,12 +179,40 @@
   background-image: url("../icons/vivid/cal.svg");
 }
 
+.fiv-viv.fiv-icon-cd {
+  background-image: url("../icons/vivid/cd.svg");
+}
+
+.fiv-viv.fiv-icon-cer {
+  background-image: url("../icons/vivid/cer.svg");
+}
+
+.fiv-viv.fiv-icon-class {
+  background-image: url("../icons/vivid/class.svg");
+}
+
 .fiv-viv.fiv-icon-com {
   background-image: url("../icons/vivid/com.svg");
 }
 
+.fiv-viv.fiv-icon-compile {
+  background-image: url("../icons/vivid/compile.svg");
+}
+
+.fiv-viv.fiv-icon-config {
+  background-image: url("../icons/vivid/config.svg");
+}
+
 .fiv-viv.fiv-icon-cpp {
   background-image: url("../icons/vivid/cpp.svg");
+}
+
+.fiv-viv.fiv-icon-cr2 {
+  background-image: url("../icons/vivid/cr2.svg");
+}
+
+.fiv-viv.fiv-icon-crt {
+  background-image: url("../icons/vivid/crt.svg");
 }
 
 .fiv-viv.fiv-icon-cs {
@@ -187,6 +223,10 @@
   background-image: url("../icons/vivid/csh.svg");
 }
 
+.fiv-viv.fiv-icon-csproj {
+  background-image: url("../icons/vivid/csproj.svg");
+}
+
 .fiv-viv.fiv-icon-css {
   background-image: url("../icons/vivid/css.svg");
 }
@@ -195,8 +235,28 @@
   background-image: url("../icons/vivid/cue.svg");
 }
 
+.fiv-viv.fiv-icon-dat {
+  background-image: url("../icons/vivid/dat.svg");
+}
+
+.fiv-viv.fiv-icon-db {
+  background-image: url("../icons/vivid/db.svg");
+}
+
+.fiv-viv.fiv-icon-dbf {
+  background-image: url("../icons/vivid/dbf.svg");
+}
+
+.fiv-viv.fiv-icon-deb {
+  background-image: url("../icons/vivid/deb.svg");
+}
+
 .fiv-viv.fiv-icon-dgn {
   background-image: url("../icons/vivid/dgn.svg");
+}
+
+.fiv-viv.fiv-icon-dll {
+  background-image: url("../icons/vivid/dll.svg");
 }
 
 .fiv-viv.fiv-icon-dmg {
@@ -251,8 +311,20 @@
   background-image: url("../icons/vivid/flac.svg");
 }
 
+.fiv-viv.fiv-icon-gadget {
+  background-image: url("../icons/vivid/gadget.svg");
+}
+
+.fiv-viv.fiv-icon-gem {
+  background-image: url("../icons/vivid/gem.svg");
+}
+
 .fiv-viv.fiv-icon-gif {
   background-image: url("../icons/vivid/gif.svg");
+}
+
+.fiv-viv.fiv-icon-gitignore {
+  background-image: url("../icons/vivid/gitignore.svg");
 }
 
 .fiv-viv.fiv-icon-gz {
@@ -367,8 +439,16 @@
   background-image: url("../icons/vivid/m4v.svg");
 }
 
+.fiv-viv.fiv-icon-master {
+  background-image: url("../icons/vivid/master.svg");
+}
+
 .fiv-viv.fiv-icon-md {
   background-image: url("../icons/vivid/md.svg");
+}
+
+.fiv-viv.fiv-icon-mdb {
+  background-image: url("../icons/vivid/mdb.svg");
 }
 
 .fiv-viv.fiv-icon-mid {
@@ -431,6 +511,10 @@
   background-image: url("../icons/vivid/ovf.svg");
 }
 
+.fiv-viv.fiv-icon-pdb {
+  background-image: url("../icons/vivid/pdb.svg");
+}
+
 .fiv-viv.fiv-icon-pdf {
   background-image: url("../icons/vivid/pdf.svg");
 }
@@ -457,6 +541,10 @@
 
 .fiv-viv.fiv-icon-pptx {
   background-image: url("../icons/vivid/pptx.svg");
+}
+
+.fiv-viv.fiv-icon-prop {
+  background-image: url("../icons/vivid/prop.svg");
 }
 
 .fiv-viv.fiv-icon-psd {
@@ -511,6 +599,10 @@
   background-image: url("../icons/vivid/sh.svg");
 }
 
+.fiv-viv.fiv-icon-sitemap {
+  background-image: url("../icons/vivid/sitemap.svg");
+}
+
 .fiv-viv.fiv-icon-sln {
   background-image: url("../icons/vivid/sln.svg");
 }
@@ -525,6 +617,10 @@
 
 .fiv-viv.fiv-icon-swift {
   background-image: url("../icons/vivid/swift.svg");
+}
+
+.fiv-viv.fiv-icon-sys {
+  background-image: url("../icons/vivid/sys.svg");
 }
 
 .fiv-viv.fiv-icon-tar {
@@ -561,6 +657,10 @@
 
 .fiv-viv.fiv-icon-vb {
   background-image: url("../icons/vivid/vb.svg");
+}
+
+.fiv-viv.fiv-icon-vbproj {
+  background-image: url("../icons/vivid/vbproj.svg");
 }
 
 .fiv-viv.fiv-icon-vcd {
