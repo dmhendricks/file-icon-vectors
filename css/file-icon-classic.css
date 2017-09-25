@@ -395,6 +395,10 @@
   background-image: url("../icons/classic/img.svg");
 }
 
+.fiv-cla.fiv-icon-indd {
+  background-image: url("../icons/classic/indd.svg");
+}
+
 .fiv-cla.fiv-icon-iso {
   background-image: url("../icons/classic/iso.svg");
 }
@@ -405,10 +409,6 @@
 
 .fiv-cla.fiv-icon-java {
   background-image: url("../icons/classic/java.svg");
-}
-
-.fiv-cla.fiv-icon-jbg {
-  background-image: url("../icons/classic/jbg.svg");
 }
 
 .fiv-cla.fiv-icon-jpe {
@@ -737,10 +737,6 @@
 
 .fiv-cla.fiv-icon-scss {
   background-image: url("../icons/classic/scss.svg");
-}
-
-.fiv-cla.fiv-icon-sdm {
-  background-image: url("../icons/classic/sdm.svg");
 }
 
 .fiv-cla.fiv-icon-sh {
