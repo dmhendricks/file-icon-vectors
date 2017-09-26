@@ -54,7 +54,7 @@ If you prefer, you may also use `.fiv-size-md`, `.fiv-size-lg` and `.fiv-size-xl
 
 Before I create an initial release and add these libraries to Packagist and Bower, I want to:
 
-* Finish up missing icons in both sets.
+* Add additional Adobe Suite, Microsoft Office extensions
 
 ### Future Items
 
@@ -67,4 +67,5 @@ Before I create an initial release and add these libraries to Packagist and Bowe
 ### Attribution
 
 * [Android icon](https://www.flaticon.com/free-icon/android-logo_61120) made by [Google](https://www.flaticon.com/authors/google) via [flaticon.com](https://www.flaticon.com/)
-* [BitTorrent icon](http://www.icons101.com/icon/id_73504/setid_2388/Minimalist_Black_Icons__WIP_by_noshery/bittorrent) made by [noshery](http://www.icons101.com/artist/id_2388/noshery) from [icons101.com](http://www.icons101.com/) (in the lowest quality possible)
+* Low-quality [BitTorrent icon](http://www.icons101.com/icon/id_73504/setid_2388/Minimalist_Black_Icons__WIP_by_noshery/bittorrent) made by [noshery](http://www.icons101.com/artist/id_2388/noshery) from [icons101.com](http://www.icons101.com/)
+* Low-quality [GIMP Icon](https://icons8.com/icon/39867/gimp#filled) provided by [Icons8 LLC](https://icons8.com/)
