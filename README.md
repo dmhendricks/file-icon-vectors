@@ -14,6 +14,14 @@ A collection of file type vector (SVG) icons.
 * If you have [feedback, bugs or requests](https://github.com/dmhendricks/file-icon-vectors/issues), please feel free to post them.
 * I paid to license many of the icons used in these sets. [Donations](https://paypal.me/danielhendricks) are appreciated.
 
+## Installation
+
+To install via Composer:
+
+```
+composer require dmhendricks/file-icon-vectors
+```
+
 ## Usage
 
 Currently, there are two icon sets in the `icons` directory - "Classic" (which expands on the [Redbooth](https://github.com/redbooth/free-file-icons) designs and "Vivid" (which borrows inspiration from [Erlen Masson](https://www.sketchappsources.com/svg-resource/1856-vector-file-type-icons-sketch-freebie-resource.html)).
@@ -51,8 +59,6 @@ If you prefer, you may also use `.fiv-size-md`, `.fiv-size-lg` and `.fiv-size-xl
 ```
 
 ## Goals
-
-Before I create an initial release and add these libraries to Packagist and Bower, I want to:
 
 * Add additional Adobe Suite, Microsoft Office extensions
 
