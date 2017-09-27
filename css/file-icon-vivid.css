@@ -55,6 +55,18 @@
   background-image: url("../icons/vivid/aac.svg");
 }
 
+.fiv-viv.fiv-icon-accdb {
+  background-image: url("../icons/vivid/accdb.svg");
+}
+
+.fiv-viv.fiv-icon-accdt {
+  background-image: url("../icons/vivid/accdt.svg");
+}
+
+.fiv-viv.fiv-icon-adn {
+  background-image: url("../icons/vivid/adn.svg");
+}
+
 .fiv-viv.fiv-icon-ai {
   background-image: url("../icons/vivid/ai.svg");
 }
@@ -989,6 +1001,10 @@
 
 .fiv-viv.fiv-icon-xpi {
   background-image: url("../icons/vivid/xpi.svg");
+}
+
+.fiv-viv.fiv-icon-xps {
+  background-image: url("../icons/vivid/xps.svg");
 }
 
 .fiv-viv.fiv-icon-xrb {
