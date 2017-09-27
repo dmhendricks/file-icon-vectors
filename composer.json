@@ -6,8 +6,16 @@
   "keywords": [ "file", "icon", "svg", "css" ],
   "license": "MIT",
   "authors": [
-    "Daniel M. Hendricks",
-    "Redbooth (https://redbooth.com/)"
+    {
+      "name": "Daniel M. Hendricks",
+      "homepage": "https://danhendricks.com",
+      "role": "Developer"
+    },
+    {
+      "name": "Redbooth",
+      "homepage": "https://github.com/redbooth/free-file-icons",
+      "role": "Contributor"
+    },
   ],
   "support": {
     "issues": "https://github.com/dmhendricks/dmhendricks/file-icon-vectors"
