@@ -14,6 +14,13 @@ A collection of file type vector (SVG) icons.
 * If you have [feedback, bugs or requests](https://github.com/dmhendricks/file-icon-vectors/issues), please feel free to post them.
 * I paid to license many of the icons used in these sets. [Donations](https://paypal.me/danielhendricks) are appreciated.
 
+## Icon Sets
+
+Currently, there are two icon sets in the `icons` directory:
+
+* **Classic** - An expansion of the Redboot [free-file-icons](https://github.com/redbooth/free-file-icons) designs.
+* **Vivid** - Inspired by [Erlen Masson](https://www.sketchappsources.com/svg-resource/1856-vector-file-type-icons-sketch-freebie-resource.html)
+
 ## Installation
 
 To install via Composer:
@@ -24,9 +31,7 @@ composer require dmhendricks/file-icon-vectors
 
 ## Usage
 
-Currently, there are two icon sets in the `icons` directory - "Classic" (which expands on the [Redbooth](https://github.com/redbooth/free-file-icons) designs and "Vivid" (which borrows inspiration from [Erlen Masson](https://www.sketchappsources.com/svg-resource/1856-vector-file-type-icons-sketch-freebie-resource.html)).
-
-To uae, simply link to one or both of the CSS files in the `css` directory.
+To display a file icon, simply link to one or both of the icon set CSS files in the `css` directory:
 
 ```
 <link rel="stylesheet" href="css/file-icon-classic.css" />
@@ -70,8 +75,13 @@ If you prefer, you may also use `.fiv-size-md`, `.fiv-size-lg` and `.fiv-size-xl
 
 ## Legal Stuff
 
+All icons used in the creation of this library were licensed MIT or purchased royalty-free, with exceptions noted below.
+
+If you feel that you have a copyright issue, please feel free to [post it](https://github.com/dmhendricks/file-icon-vectors/issues).
+
 ### Attribution
 
 * [Android icon](https://www.flaticon.com/free-icon/android-logo_61120) made by [Google](https://www.flaticon.com/authors/google) via [flaticon.com](https://www.flaticon.com/)
-* Low-quality [BitTorrent icon](http://www.icons101.com/icon/id_73504/setid_2388/Minimalist_Black_Icons__WIP_by_noshery/bittorrent) made by [noshery](http://www.icons101.com/artist/id_2388/noshery) from [icons101.com](http://www.icons101.com/)
-* Low-quality [GIMP Icon](https://icons8.com/icon/39867/gimp#filled) provided by [Icons8 LLC](https://icons8.com/)
+* [BitTorrent icon](http://www.icons101.com/icon/id_73504/setid_2388/Minimalist_Black_Icons__WIP_by_noshery/bittorrent) made by [noshery](http://www.icons101.com/artist/id_2388/noshery) from [icons101.com](http://www.icons101.com/)
+* [GIMP Icon](https://icons8.com/icon/39867/gimp#filled) provided by [Icons8 LLC](https://icons8.com/)
+* Vivid set [Folder Icon](https://www.iconfinder.com/icons/173016/close_folder_icon) made by [Snip Master](https://www.iconfinder.com/snipicons) from [Iconfinder](https://www.iconfinder.com)

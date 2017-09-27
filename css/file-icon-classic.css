@@ -391,6 +391,10 @@
   background-image: url("../icons/classic/flv.svg");
 }
 
+.fiv-cla.fiv-icon-folder {
+  background-image: url("../icons/classic/folder.svg");
+}
+
 .fiv-cla.fiv-icon-gadget {
   background-image: url("../icons/classic/gadget.svg");
 }
