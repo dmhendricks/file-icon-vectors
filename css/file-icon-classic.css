@@ -71,6 +71,10 @@
   background-image: url("../icons/classic/aiff.svg");
 }
 
+.fiv-cla.fiv-icon-ait {
+  background-image: url("../icons/classic/ait.svg");
+}
+
 .fiv-cla.fiv-icon-amr {
   background-image: url("../icons/classic/amr.svg");
 }
@@ -349,6 +353,10 @@
 
 .fiv-cla.fiv-icon-fb2 {
   background-image: url("../icons/classic/fb2.svg");
+}
+
+.fiv-cla.fiv-icon-fla {
+  background-image: url("../icons/classic/fla.svg");
 }
 
 .fiv-cla.fiv-icon-flac {
@@ -817,6 +825,14 @@
 
 .fiv-cla.fiv-icon-svg {
   background-image: url("../icons/classic/svg.svg");
+}
+
+.fiv-cla.fiv-icon-swd {
+  background-image: url("../icons/classic/swd.svg");
+}
+
+.fiv-cla.fiv-icon-swf {
+  background-image: url("../icons/classic/swf.svg");
 }
 
 .fiv-cla.fiv-icon-swift {
