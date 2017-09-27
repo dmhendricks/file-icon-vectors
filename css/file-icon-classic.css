@@ -311,12 +311,24 @@
   background-image: url("../icons/classic/doc.svg");
 }
 
+.fiv-cla.fiv-icon-docb {
+  background-image: url("../icons/classic/docb.svg");
+}
+
+.fiv-cla.fiv-icon-docm {
+  background-image: url("../icons/classic/docm.svg");
+}
+
 .fiv-cla.fiv-icon-docx {
   background-image: url("../icons/classic/docx.svg");
 }
 
 .fiv-cla.fiv-icon-dot {
   background-image: url("../icons/classic/dot.svg");
+}
+
+.fiv-cla.fiv-icon-dotm {
+  background-image: url("../icons/classic/dotm.svg");
 }
 
 .fiv-cla.fiv-icon-dotx {
@@ -599,6 +611,10 @@
   background-image: url("../icons/classic/mpa.svg");
 }
 
+.fiv-cla.fiv-icon-mpd {
+  background-image: url("../icons/classic/mpd.svg");
+}
+
 .fiv-cla.fiv-icon-mpe {
   background-image: url("../icons/classic/mpe.svg");
 }
@@ -613,6 +629,14 @@
 
 .fiv-cla.fiv-icon-mpga {
   background-image: url("../icons/classic/mpga.svg");
+}
+
+.fiv-cla.fiv-icon-mpp {
+  background-image: url("../icons/classic/mpp.svg");
+}
+
+.fiv-cla.fiv-icon-mpt {
+  background-image: url("../icons/classic/mpt.svg");
 }
 
 .fiv-cla.fiv-icon-msi {
@@ -645,6 +669,10 @@
 
 .fiv-cla.fiv-icon-ogv {
   background-image: url("../icons/classic/ogv.svg");
+}
+
+.fiv-cla.fiv-icon-ost {
+  background-image: url("../icons/classic/ost.svg");
 }
 
 .fiv-cla.fiv-icon-otf {
@@ -707,6 +735,18 @@
   background-image: url("../icons/classic/png.svg");
 }
 
+.fiv-cla.fiv-icon-po {
+  background-image: url("../icons/classic/po.svg");
+}
+
+.fiv-cla.fiv-icon-pot {
+  background-image: url("../icons/classic/pot.svg");
+}
+
+.fiv-cla.fiv-icon-potx {
+  background-image: url("../icons/classic/potx.svg");
+}
+
 .fiv-cla.fiv-icon-pps {
   background-image: url("../icons/classic/pps.svg");
 }
@@ -717,6 +757,10 @@
 
 .fiv-cla.fiv-icon-ppt {
   background-image: url("../icons/classic/ppt.svg");
+}
+
+.fiv-cla.fiv-icon-pptm {
+  background-image: url("../icons/classic/pptm.svg");
 }
 
 .fiv-cla.fiv-icon-pptx {
@@ -737,6 +781,10 @@
 
 .fiv-cla.fiv-icon-psp {
   background-image: url("../icons/classic/psp.svg");
+}
+
+.fiv-cla.fiv-icon-pst {
+  background-image: url("../icons/classic/pst.svg");
 }
 
 .fiv-cla.fiv-icon-pub {
@@ -817,6 +865,14 @@
 
 .fiv-cla.fiv-icon-skin {
   background-image: url("../icons/classic/skin.svg");
+}
+
+.fiv-cla.fiv-icon-sldm {
+  background-image: url("../icons/classic/sldm.svg");
+}
+
+.fiv-cla.fiv-icon-sldx {
+  background-image: url("../icons/classic/sldx.svg");
 }
 
 .fiv-cla.fiv-icon-sln {
@@ -943,6 +999,10 @@
   background-image: url("../icons/classic/wav.svg");
 }
 
+.fiv-cla.fiv-icon-wbk {
+  background-image: url("../icons/classic/wbk.svg");
+}
+
 .fiv-cla.fiv-icon-webinfo {
   background-image: url("../icons/classic/webinfo.svg");
 }
@@ -987,12 +1047,32 @@
   background-image: url("../icons/classic/xcf.svg");
 }
 
+.fiv-cla.fiv-icon-xlm {
+  background-image: url("../icons/classic/xlm.svg");
+}
+
 .fiv-cla.fiv-icon-xls {
   background-image: url("../icons/classic/xls.svg");
 }
 
+.fiv-cla.fiv-icon-xlsm {
+  background-image: url("../icons/classic/xlsm.svg");
+}
+
 .fiv-cla.fiv-icon-xlsx {
   background-image: url("../icons/classic/xlsx.svg");
+}
+
+.fiv-cla.fiv-icon-xlt {
+  background-image: url("../icons/classic/xlt.svg");
+}
+
+.fiv-cla.fiv-icon-xltm {
+  background-image: url("../icons/classic/xltm.svg");
+}
+
+.fiv-cla.fiv-icon-xltx {
+  background-image: url("../icons/classic/xltx.svg");
 }
 
 .fiv-cla.fiv-icon-xml {
