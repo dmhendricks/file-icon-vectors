@@ -21,6 +21,8 @@ Currently, there are two icon sets in the `icons` directory:
 * **Classic** - An expansion of the Redboot [free-file-icons](https://github.com/redbooth/free-file-icons) designs.
 * **Vivid** - Inspired by [Erlen Masson](https://www.sketchappsources.com/svg-resource/1856-vector-file-type-icons-sketch-freebie-resource.html)
 
+#### Demo: [View Icon Sets](https://danhendricks.com/demo/github/dmhendricks/file-icon-vectors/demo/)
+
 ## Installation
 
 To install via Composer:
@@ -69,7 +71,7 @@ If you prefer, you may also use `.fiv-size-md`, `.fiv-size-lg` and `.fiv-size-xl
 
 ### Future Items
 
-* Create a demo page for all sets
+* Fix inconsistent sizing issues in classic set
 * Add the libraries to a CDN
 * Add additional libraries, such as square icons, et al
 

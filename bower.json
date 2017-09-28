@@ -9,8 +9,7 @@
   "license": "MIT",
   "ignore": [
     "**/.*",
-    "sass",
-    "composer.json"
+    "*.json"
   ],
   "keywords": [
     "file",

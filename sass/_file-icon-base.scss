@@ -13,6 +13,7 @@ $file-icon-css-path: '../icons' !default;
     display: inline-block;
     line-height: 1em;
     width: #{$mult}em;
+
     &:before {
       content: '\00a0';
     }
