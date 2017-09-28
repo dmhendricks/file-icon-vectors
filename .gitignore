@@ -2,12 +2,12 @@
 node_modules
 *.bak
 
-# Dev Dependencies
+# Dev Stuff
 dev/
 src/
-demo/
 package.json
 gulpfile.js
 
 # Future Families
 icons/distinct/
+icons/square/
