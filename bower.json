@@ -9,11 +9,14 @@
   "license": "MIT",
   "ignore": [
     "**/.*",
-    "*.json"
+    "composer.json",
+    "gulpfile.js",
+    "package.json"
   ],
   "keywords": [
     "file",
     "icons",
+    "vectors",
     "svg",
     "css"
   ],
@@ -22,9 +25,5 @@
       "name": "Daniel M. Hendricks",
       "homepage": "https://danhendricks.com/"
     }
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/dmhendricks/file-icon-vectors.git"
-  }
+  ]
 }
