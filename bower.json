@@ -2,10 +2,6 @@
   "name": "file-icon-vectors",
   "description": "A collection of file type icons in SVG format.",
   "version": "0.8.0",
-  "main": [
-    "css/file-icon-classic.css",
-    "css/file-icon-vivid.css"
-  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -27,5 +23,9 @@
       "name": "Daniel M. Hendricks",
       "homepage": "https://danhendricks.com/"
     }
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dmhendricks/file-icon-vectors.git"
+  }
 }
