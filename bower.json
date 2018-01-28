@@ -4,7 +4,7 @@
   "version": "0.8.0",
   "main": [
     "css/file-icon-classic.css",
-    "css/file-icon-vivid.css",
+    "css/file-icon-vivid.css"
   ],
   "license": "MIT",
   "ignore": [
