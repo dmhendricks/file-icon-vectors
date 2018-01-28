@@ -27,7 +27,13 @@ Currently, there are two icon sets in the `icons` directory:
 
 ## Installation
 
-To install via Composer:
+To install with Bower:
+
+```
+bower install file-icon-vectors
+```
+
+To install with Composer:
 
 ```
 composer require dmhendricks/file-icon-vectors
