@@ -1,6 +1,6 @@
 /*!
  * File Icon Vectors 0.8.0 (https://github.com/dmhendricks/file-icon-vectors)
- * Copyright 2017 Daniel M. Hendricks (https://www.danhendricks.com)
+ * Copyright 2018 Daniel M. Hendricks (https://www.danhendricks.com)
  * Licensed under MIT (https://github.com/dmhendricks/file-icon-vectors/blob/master/LICENSE)
  */
 .fiv-background, .fiv-viv { background-size: contain; background-position: 50%; background-repeat: no-repeat; }
@@ -492,9 +492,21 @@
 
 .fiv-viv.fiv-icon-vdi { background-image: url("../icons/vivid/vdi.svg"); }
 
+.fiv-viv.fiv-icon-vdx { background-image: url("../icons/vivid/vdx.svg"); }
+
 .fiv-viv.fiv-icon-vmdk { background-image: url("../icons/vivid/vmdk.svg"); }
 
 .fiv-viv.fiv-icon-vob { background-image: url("../icons/vivid/vob.svg"); }
+
+.fiv-viv.fiv-icon-vsd { background-image: url("../icons/vivid/vsd.svg"); }
+
+.fiv-viv.fiv-icon-vss { background-image: url("../icons/vivid/vss.svg"); }
+
+.fiv-viv.fiv-icon-vst { background-image: url("../icons/vivid/vst.svg"); }
+
+.fiv-viv.fiv-icon-vsx { background-image: url("../icons/vivid/vsx.svg"); }
+
+.fiv-viv.fiv-icon-vtx { background-image: url("../icons/vivid/vtx.svg"); }
 
 .fiv-viv.fiv-icon-war { background-image: url("../icons/vivid/war.svg"); }
 

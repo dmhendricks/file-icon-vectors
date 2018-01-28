@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 72 100" enable-background="new 0 0 72 100" xml:space="preserve">
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="36" y1="97" x2="36" y2="-1" gradientTransform="matrix(1 0 0 1 0 2)">
+		<stop  offset="5.000000e-03" style="stop-color:#37539D"/>
+		<stop  offset="0.1882" style="stop-color:#4A69BF"/>
+		<stop  offset="0.5658" style="stop-color:#7088CD"/>
+		<stop  offset="1" style="stop-color:#A8B7E1"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M45,1l27,26.7V99H0V1H45z"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="0" y1="50" x2="72" y2="50">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path fill="url(#SVGID_2_)" fill-opacity="0" stroke="#37539D" stroke-width="2" d="M45,1l27,26.7V99H0V1H45z"/>
+</g>
+<g>
+	
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="45.075" y1="25.775" x2="58.575" y2="12.275" gradientTransform="matrix(1 0 0 1 0 2)">
+		<stop  offset="5.000000e-03" style="stop-color:#DFF1FA"/>
+		<stop  offset="0.6035" style="stop-color:#C6D0EB"/>
+		<stop  offset="1" style="stop-color:#37539D"/>
+	</linearGradient>
+	<path fill="url(#SVGID_3_)" d="M45,1l27,26.7H45V1z"/>
+	<path fill-opacity="0" stroke="#37539D" stroke-width="2" stroke-linejoin="bevel" d="M45,1l27,26.7H45V1z"/>
+</g>
+<g enable-background="new    ">
+	<path fill="#FFFFFF" d="M15.9,91.1L8.8,71.2h4.4l5.1,14.7l4.9-14.7h4.3l-7.2,19.8H15.9z"/>
+	<path fill="#FFFFFF" d="M34,91.1V74.6H28v-3.4H44v3.4H38v16.5H34z"/>
+	<path fill="#FFFFFF" d="M44.6,91.1l6.8-10.4l-6.2-9.5h4.7l4,6.4l3.9-6.4h4.7l-6.2,9.6l6.8,10.2h-4.9l-4.4-6.9l-4.5,6.9H44.6z"/>
+</g>
+<g>
+	<g>
+		<polygon fill="#37539D" points="17.1,32.3 38.4,28.2 38.4,64 17.1,60.1 		"/>
+	</g>
+	<g>
+		<path fill="#37539D" d="M53.3,60.5H35.2c-0.9,0-1.6-0.7-1.6-1.6V33.4c0-0.9,0.7-1.6,1.6-1.6h18.1c0.9,0,1.6,0.7,1.6,1.6v25.5
+			C54.9,59.8,54.2,60.5,53.3,60.5z M35.2,33.3c-0.1,0-0.2,0.1-0.2,0.2V59c0,0.1,0.1,0.2,0.2,0.2h18.1c0.1,0,0.2-0.1,0.2-0.2V33.4
+			c0-0.1-0.1-0.2-0.2-0.2L35.2,33.3z"/>
+	</g>
+	<rect x="36" y="49" fill="none" stroke="#37539D" stroke-width="2" stroke-miterlimit="10" width="6" height="6"/>
+	
+		<rect x="44.1" y="37.1" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -14.4061 44.5993)" fill="none" stroke="#37539D" stroke-width="2" stroke-miterlimit="10" width="5.1" height="5.1"/>
+	<line fill="none" stroke="#37539D" stroke-width="2" stroke-miterlimit="10" x1="43" y1="39.8" x2="38" y2="39.8"/>
+	<line fill="none" stroke="#37539D" stroke-width="2" stroke-miterlimit="10" x1="47" y1="43" x2="47" y2="52"/>
+	<line fill="none" stroke="#37539D" stroke-width="2" stroke-miterlimit="10" x1="42" y1="52" x2="48" y2="52"/>
+	<g>
+		<path fill="#A8B7E1" stroke="#A8B7E1" stroke-width="0.75" stroke-miterlimit="10" d="M23,41.2h2.1l2.3,6.9
+			c0.2,0.6,0.4,1.6,0.4,1.6l0,0c0,0,0.2-0.9,0.4-1.6l2.4-6.9h2.1l-3.9,10.6h-1.9L23,41.2z"/>
+	</g>
+</g>
+</svg>
