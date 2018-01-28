@@ -3,12 +3,14 @@
   "description": "A collection of file type icons in SVG format.",
   "version": "0.8.0",
   "main": [
-    "css/file-icon-classic.min.css",
-    "css/file-icon-vivid.min.css",
+    "css/file-icon-classic.css",
+    "css/file-icon-vivid.css",
   ],
   "license": "MIT",
   "ignore": [
     "**/.*",
+    "demo",
+    "sass",
     "composer.json",
     "gulpfile.js",
     "package.json"
