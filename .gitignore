@@ -1,12 +1,11 @@
 .DS_Store
 node_modules
 *.bak
+package-lock.json
+composer.lock
 
 # Dev Stuff
 dev/
-src/
-package.json
-gulpfile.js
 
 # Future Families
 icons/distinct/
