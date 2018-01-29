@@ -9,16 +9,14 @@
 
 # File Vector Icons
 
-A collection of file type vector (SVG) icons.
-
-**This project is currently a work-in-progress.**
+A collection of file type SVG icons.
 
 * If you have [feedback, bugs or requests](https://github.com/dmhendricks/file-icon-vectors/issues), please feel free to post them.
 * I paid to license many of the icons used in these sets. [Donations](https://paypal.me/danielhendricks) are appreciated.
 
 ## Icon Sets
 
-Currently, there are two icon sets in the `icons` directory:
+Currently, there are two icon sets in the `dist/icons` directory:
 
 * **Classic** - An expansion of the Redboot [free-file-icons](https://github.com/redbooth/free-file-icons) designs.
 * **Vivid** - Inspired by [Erlen Masson](https://www.sketchappsources.com/svg-resource/1856-vector-file-type-icons-sketch-freebie-resource.html)
@@ -44,8 +42,8 @@ composer require dmhendricks/file-icon-vectors
 To display a file icon, simply link to one or both of the icon set CSS files in the `css` directory:
 
 ```
-<link rel="stylesheet" href="css/file-icon-classic.css" />
-<link rel="stylesheet" href="css/file-icon-vivid.css" />
+<link rel="stylesheet" href="dist/file-icon-classic.min.css" />
+<link rel="stylesheet" href="dist/file-icon-vivid.min.css" />
 ```
 
 From there, you can use CSS classes to display the icons:
@@ -75,9 +73,9 @@ If you prefer, you may also use `.fiv-size-md`, `.fiv-size-lg` and `.fiv-size-xl
 
 ## TODO
 
-* Fix inconsistent sizing issues in classic set
+* Fix inconsistent sizing in classic set
 * Add additional Adobe Suite, Microsoft Office icons
-* Add to Bower, NPM, CDN
+* Add to NPM, CDN
 * Add additional libraries, such as square icons, et al
 
 ## Legal Stuff
