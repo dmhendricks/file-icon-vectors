@@ -6,10 +6,10 @@
   "ignore": [
     "**/.*",
     "demo",
-    "sass",
+    "src",
     "composer.json",
-    "gulpfile.js",
-    "package.json"
+    "package.json",
+    "gulpfile.js"
   ],
   "keywords": [
     "file",
