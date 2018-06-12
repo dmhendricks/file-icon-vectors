@@ -1,7 +1,8 @@
 [![Author](https://img.shields.io/badge/author-Daniel%20M.%20Hendricks-lightgrey.svg?colorB=9900cc )](https://www.danhendricks.com?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors)
 [![Release](https://img.shields.io/github/release/dmhendricks/file-icon-vectors.svg)](https://github.com/dmhendricks/file-icon-vectors/releases)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](https://raw.githubusercontent.com/dmhendricks/file-icon-vectors/master/LICENSE)
-[![Total Downloads](https://img.shields.io/packagist/dt/dmhendricks/file-icon-vectors.svg)](https://packagist.org/packages/dmhendricks/file-icon-vectors)
+[![GitHub Downloads](https://img.shields.io/packagist/dt/dmhendricks/file-icon-vectors.svg)](https://github.com/dmhendricks/file-icon-vectors/releases)
+[![NPM](https://img.shields.io/npm/v/file-icon-vectors.svg)](https://www.npmjs.com/package/file-icon-vectors)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/danielhendricks)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/dmhendricks/file-icon-vectors.svg?style=social)](https://twitter.com/danielhendricks)
 
@@ -19,7 +20,7 @@ Currently, there are two icon sets in the `dist/icons` directory:
 * **Classic** - An expansion of the Redboot [free-file-icons](https://github.com/redbooth/free-file-icons) designs.
 * **Vivid** - Inspired by [Erlen Masson](https://www.sketchappsources.com/svg-resource/1856-vector-file-type-icons-sketch-freebie-resource.html)
 
-#### Demo: [View Icon Sets](https://danhendricks.com/demo/github/dmhendricks/file-icon-vectors/demo/) :eyes:
+#### :pushpin: Demo: [View Icon Sets](https://danhendricks.com/demo/github/dmhendricks/file-icon-vectors/demo/)
 
 ## Installation
 
@@ -41,7 +42,9 @@ bower install file-icon-vectors
 composer require dmhendricks/file-icon-vectors
 ```
 
-## Usage
+## Instructions
+
+### Include Stylesheets
 
 To display a file icon, simply link to one or both of the icon set CSS files in the `css` directory:
 
@@ -50,12 +53,21 @@ To display a file icon, simply link to one or both of the icon set CSS files in 
 <link rel="stylesheet" href="dist/file-icon-vivid.min.css" />
 ```
 
-Alternatively, you can link to a CDN:
+##### CDN: unpkg
 
 ```html
 <link rel="stylesheet" href="https://unpkg.com/file-icon-vectors/dist/file-icon-classic.min.css" />
 <link rel="stylesheet" href="https://unpkg.com/file-icon-vectors/dist/file-icon-vivid.min.css" />
 ```
+
+##### CDN: jsDelivr
+
+```html
+<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors/dist/file-icon-classic.min.css" />
+<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors/dist/file-icon-vivid.min.css" />
+```
+
+### Usage
 
 From there, you can use CSS classes to display the icons:
 
@@ -101,6 +113,6 @@ If you feel that you have a copyright issue, please feel free to [post it](https
 * [GIMP Icon](https://icons8.com/icon/39867/gimp#filled) provided by [Icons8 LLC](https://icons8.com/)
 * Vivid set [Folder Icon](https://www.iconfinder.com/icons/173016/close_folder_icon) made by [Snip Master](https://www.iconfinder.com/snipicons) from [Iconfinder](https://www.iconfinder.com)
 
-## Screenshot
+## Screenshot - Vivid Collection
 
-![Icons Preview](https://unpkg.com/file-icon-vectors/screenshot.png "Icons Preview")
+![Vivid Icon Collection](https://unpkg.com/file-icon-vectors/screenshot.png "Vivid Icon Collection")
