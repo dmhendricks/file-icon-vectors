@@ -1,6 +1,9 @@
+# File Vector Icons
+
 A collection of file type SVG icons, licensed MIT and available for free use for your applications.
 
-# File Vector Icons
+* If you have [feedback, bugs or requests](https://github.com/dmhendricks/file-icon-vectors/issues), please feel free to post them.
+* I paid to license many of the icons used in these sets. [Donations](https://paypal.me/danielhendricks) are appreciated.
 
 [![Author](https://img.shields.io/badge/author-Daniel%20M.%20Hendricks-lightgrey.svg?colorB=9900cc )](https://www.danhendricks.com?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors)
 [![Release](https://img.shields.io/github/release/dmhendricks/file-icon-vectors.svg)](https://github.com/dmhendricks/file-icon-vectors/releases)
@@ -9,11 +12,6 @@ A collection of file type SVG icons, licensed MIT and available for free use for
 [![Bower](https://img.shields.io/bower/v/file-icon-vectors.svg)](https://github.com/dmhendricks/file-icon-vectors)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/danielhendricks)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/dmhendricks/file-icon-vectors.svg?style=social)](https://twitter.com/danielhendricks)
-
-A collection of file type SVG icons.
-
-* If you have [feedback, bugs or requests](https://github.com/dmhendricks/file-icon-vectors/issues), please feel free to post them.
-* I paid to license many of the icons used in these sets. [Donations](https://paypal.me/danielhendricks) are appreciated.
 
 ## Icon Sets
 
@@ -93,4 +91,4 @@ If you feel that you have a copyright issue, please feel free to [post it](https
 
 ## Screenshot
 
-![Icons Preview](https://raw.githubusercontent.com/dmhendricks/file-icon-vectors/master/screenshot.png "Icons Preview")
+![Icons Preview](https://unpkg.com/file-icon-vectors@0.8.0/screenshot.png "Icons Preview")
