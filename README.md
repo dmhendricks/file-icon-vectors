@@ -67,6 +67,13 @@ To display a file icon, simply link to one or both of the icon set CSS files in 
 <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors/dist/file-icon-vivid.min.css" />
 ```
 
+##### CDN: RawGit
+
+```html
+<link rel="stylesheet" href="https://cdn.rawgit.com/dmhendricks/file-icon-vectors/0.8.1/dist/file-icon-classic.min.css" />
+<link rel="stylesheet" href="https://cdn.rawgit.com/dmhendricks/file-icon-vectors/0.8.1/dist/file-icon-vivid.min.css" />
+```
+
 ### Usage
 
 From there, you can use CSS classes to display the icons:
