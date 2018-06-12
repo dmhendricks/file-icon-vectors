@@ -3,7 +3,7 @@
 A collection of file type SVG icons, licensed MIT and available for free use for your applications.
 
 * If you have [feedback, bugs or requests](https://github.com/dmhendricks/file-icon-vectors/issues), please feel free to post them.
-* I paid to license many of the icons used in these sets. [Donations](https://paypal.me/danielhendricks) are appreciated.
+* I pay to license many of the icons used in these sets. [Donations](https://paypal.me/danielhendricks) are appreciated.
 
 [![Author](https://img.shields.io/badge/author-Daniel%20M.%20Hendricks-lightgrey.svg?colorB=9900cc )](https://www.danhendricks.com?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors)
 [![Release](https://img.shields.io/github/release/dmhendricks/file-icon-vectors.svg)](https://github.com/dmhendricks/file-icon-vectors/releases)
@@ -24,15 +24,21 @@ Currently, there are two icon sets in the `dist/icons` directory:
 
 ## Installation
 
-To install with Bower:
+#### NPM
 
+```bash
+npm install file-icon-vectors
 ```
+
+#### Bower
+
+```bash
 bower install file-icon-vectors
 ```
 
-To install with Composer:
+#### Composer
 
-```
+```bash
 composer require dmhendricks/file-icon-vectors
 ```
 
@@ -73,8 +79,8 @@ If you prefer, you may also use `.fiv-size-md`, `.fiv-size-lg` and `.fiv-size-xl
 ## TODO
 
 * Fix inconsistent sizing in classic set
-* Publish to NPM
-* Add additional libraries, such as square icons, et al
+* Add CDN instructions
+* Add additional library sets
 
 ## Legal Stuff
 
