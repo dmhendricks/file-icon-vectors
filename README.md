@@ -45,14 +45,21 @@ composer require dmhendricks/file-icon-vectors
 
 To display a file icon, simply link to one or both of the icon set CSS files in the `css` directory:
 
-```
+```html
 <link rel="stylesheet" href="dist/file-icon-classic.min.css" />
 <link rel="stylesheet" href="dist/file-icon-vivid.min.css" />
 ```
 
+Alternatively, you can link to a CDN:
+
+```html
+<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors/dist/file-icon-classic.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors/dist/file-icon-vivid.min.css" />
+```
+
 From there, you can use CSS classes to display the icons:
 
-```
+```html
 <span class="fiv-cla fiv-icon-ppt"></span>
 <span class="fiv-cla fiv-icon-xls"></span>
 <span class="fiv-viv fiv-icon-pdf"></span>
@@ -63,7 +70,7 @@ Notice that the classes contain either `flv-cla` for the Classic set or `flv-viv
 
 If you want to override the size of the icons, you can do so with CSS:
 
-```
+```html
 <style>
    .fiv-cla, .fiv-viv { font-size: 3em; }
 </style>
@@ -71,7 +78,7 @@ If you want to override the size of the icons, you can do so with CSS:
 
 If you prefer, you may also use `.fiv-size-md`, `.fiv-size-lg` and `.fiv-size-xl` to modify the icon sizes:
 
-```
+```html
 <span class="fiv-viv fiv-icon-pdf fiv-size-lg"></span>
 ```
 
