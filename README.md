@@ -20,7 +20,7 @@ Currently, there are two icon sets in the `dist/icons` directory:
 * **Classic** - An expansion of the Redboot [free-file-icons](https://github.com/redbooth/free-file-icons) designs.
 * **Vivid** - Inspired by [Erlen Masson](https://www.sketchappsources.com/svg-resource/1856-vector-file-type-icons-sketch-freebie-resource.html)
 
-#### Demo: [View Icon Sets](https://danhendricks.com/demo/github/dmhendricks/file-icon-vectors/demo/)
+#### Demo: [View Icon Sets](https://danhendricks.com/demo/github/dmhendricks/file-icon-vectors/demo/) :eyes:
 
 ## Installation
 
@@ -88,3 +88,7 @@ If you feel that you have a copyright issue, please feel free to [post it](https
 * [BitTorrent icon](http://www.icons101.com/icon/id_73504/setid_2388/Minimalist_Black_Icons__WIP_by_noshery/bittorrent) made by [noshery](http://www.icons101.com/artist/id_2388/noshery) from [icons101.com](http://www.icons101.com/)
 * [GIMP Icon](https://icons8.com/icon/39867/gimp#filled) provided by [Icons8 LLC](https://icons8.com/)
 * Vivid set [Folder Icon](https://www.iconfinder.com/icons/173016/close_folder_icon) made by [Snip Master](https://www.iconfinder.com/snipicons) from [Iconfinder](https://www.iconfinder.com)
+
+## Screenshot
+
+![Icons Preview](https://raw.githubusercontent.com/dmhendricks/file-icon-vectors/master/screenshot.png "Icons Preview")
