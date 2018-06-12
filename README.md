@@ -126,4 +126,4 @@ If you feel that you have a copyright issue, please feel free to [post it](https
 
 ## Screenshot - Vivid Collection
 
-![Vivid Icon Collection](https://unpkg.com/file-icon-vectors/screenshot.png "Vivid Icon Collection")
+![Vivid Icon Collection](https://cdn.danhendricks.com/demo/github/dmhendricks/file-icon-vectors/demo/screenshot.png "Vivid Icon Collection")
