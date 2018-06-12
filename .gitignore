@@ -8,5 +8,5 @@ composer.lock
 dev/
 
 # Future Families
-icons/distinct/
-icons/square/
+dist/icons/distinct/
+dist/icons/square/
