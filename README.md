@@ -85,8 +85,8 @@ If you prefer, you may also use `.fiv-size-md`, `.fiv-size-lg` and `.fiv-size-xl
 ## TODO
 
 * Fix inconsistent sizing in classic set
-* Add CDN instructions
 * Add additional library sets
+* Improve Gulp automation tasks
 
 ## Legal Stuff
 
@@ -103,4 +103,4 @@ If you feel that you have a copyright issue, please feel free to [post it](https
 
 ## Screenshot
 
-![Icons Preview](https://unpkg.com/file-icon-vectors@0.8.0/screenshot.png "Icons Preview")
+![Icons Preview](https://unpkg.com/file-icon-vectors/screenshot.png "Icons Preview")

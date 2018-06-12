@@ -1,7 +1,7 @@
 {
   "name": "file-icon-vectors",
   "description": "A collection of file type icons in SVG format.",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "license": "MIT",
   "ignore": [
     "**/.*",
