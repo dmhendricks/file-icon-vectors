@@ -8,10 +8,12 @@
 
 # File Vector Icons
 
-A collection of file type SVG icons, licensed MIT and available for free use for your applications.
+A collection of file type/extension SVG icons, licensed MIT and available free for use in your applications.
 
-* If you have [feedback, bugs or requests](https://github.com/dmhendricks/file-icon-vectors/issues), please feel free to post them.
-* I pay to license many of the icons used in these sets. [Donations](https://paypal.me/danielhendricks) are appreciated.
+* :ant: Please post [feedback or issues](https://github.com/dmhendricks/file-icon-vectors/issues).
+* :heart: I pay to license many of the icons used in these sets. **[Donations](https://paypal.me/danielhendricks) are appreciated**.
+* :bulb: If you have an idea, such as new icon requests, additional collections/designs, and/or are willing to contribute a library/design, please [let me know](https://github.com/dmhendricks/file-icon-vectors/issues)! My time is limited, but I will get to it eventually.
+* :star: If you use this library to create something cool, [tell me](https://twitter.com/danielhendricks) about it!
 
 ## Icon Sets
 
@@ -55,12 +57,16 @@ To display a file icon, simply link to one or both of the icon set CSS files in 
 
 ##### CDN: unpkg
 
+Recommended for performance.
+
 ```html
 <link rel="stylesheet" href="https://unpkg.com/file-icon-vectors/dist/file-icon-classic.min.css" />
 <link rel="stylesheet" href="https://unpkg.com/file-icon-vectors/dist/file-icon-vivid.min.css" />
 ```
 
 ##### CDN: jsDelivr
+
+Supports both HTTP and HTTPS.
 
 ```html
 <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors/dist/file-icon-classic.min.css" />
