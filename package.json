@@ -1,6 +1,7 @@
 {
   "name": "file-icon-vectors",
   "author": "Daniel M. Hendricks",
+  "version": "0.8.0",
   "license": "MIT",
   "keywords": [
     "file",
