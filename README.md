@@ -90,6 +90,7 @@ From there, you can use CSS classes to display the icons:
 <span class="fiv-cla fiv-icon-xls"></span>
 <span class="fiv-viv fiv-icon-pdf"></span>
 <span class="fiv-viv fiv-icon-wav"></span>
+<span class="fiv-sqo fiv-icon-doc"></span>
 ```
 
 Notice that the classes contain either `flv-cla` for the Classic set or `flv-viv` for the Vivid set.
@@ -98,7 +99,7 @@ If you want to override the size of the icons, you can do so with CSS:
 
 ```html
 <style>
-   .fiv-cla, .fiv-viv { font-size: 3em; }
+   .fiv-cla, .fiv-viv, .fiv-sqo { font-size: 3em; }
 </style>
 ```
 
@@ -108,11 +109,13 @@ If you prefer, you may also use `.fiv-size-md`, `.fiv-size-lg` and `.fiv-size-xl
 <span class="fiv-viv fiv-icon-pdf fiv-size-lg"></span>
 ```
 
-## TODO
+## Special Thanks
 
-* Fix inconsistent sizing in classic set
-* Add additional library sets
-* Improve Gulp automation tasks
+- [unpkg](https://unpkg.com/) and [jsDelivr](https://www.jsdelivr.com/)
+- [Markdown Editor](https://jbt.github.io/markdown-editor/) by James Taylor
+- [SVG optimiser](http://petercollingridge.appspot.com/svg-optimiser) by Peter Collingridge
+- [SVGito](http://sketchmaster.com/svg-optimizer/) by [Sketch Master](http://sketchmaster.com/)
+- [Gulp](https://gulpjs.com/) and [Sass](https://sass-lang.com/)
 
 ## Legal Stuff
 
