@@ -20,7 +20,7 @@ var notify        = require( 'gulp-notify' );
 const AUTOPREFIXER_BROWSERS = [ 'last 2 version', '> 1%', 'ie >= 9', 'ie_mob >= 10', 'ff >= 30', 'chrome >= 34', 'safari >= 7', 'opera >= 23', 'ios >= 7', 'android >= 4', 'bb >= 10' ];
 
 gulp.task( 'sassTask', function () {
-  gulp.src( [ './src/scss/file-icon-classic.scss', './src/scss/file-icon-vivid.scss' ] )
+  gulp.src( [ './src/scss/file-icon-classic.scss', './src/scss/file-icon-vivid.scss', './src/scss/file-icon-square-o.scss' ] )
     .pipe( sass( {
       outputStyle: 'expanded' } ) )
     .on( 'error', console.error.bind( console ) )
