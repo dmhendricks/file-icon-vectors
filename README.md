@@ -24,6 +24,7 @@ Currently, there are two icon sets in the `dist/icons` directory:
 * **Vivid** - Inspired by [Erlen Masson](https://www.sketchappsources.com/svg-resource/1856-vector-file-type-icons-sketch-freebie-resource.html?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors)
 * **Square Outline** (in progress) - Modified from and inspired by [Cotne Nazarashvili](https://github.com/thecotne/square-file-icons)
 
+**NB!** The Square Outline collection is not yet available via `npm` or CDN.
 
 ### :pushpin: Demo: [View Icon Sets](https://danhendricks.com/demo/github/dmhendricks/file-icon-vectors/demo/?utm_source=danhendricks.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors)
 
@@ -119,7 +120,7 @@ If you prefer, you may also use `.fiv-size-md`, `.fiv-size-lg` and `.fiv-size-xl
 
 Even though I'm paying for them, thanks also to [Adobe](https://www.adobe.com/?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors), [The Noun Project](https://thenounproject.com/?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors) and [FlatIcon](https://www.flaticon.com/?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors) for providing great tools and services. :+1: :smile:
 
-[![Analytics](https://ga-beacon.appspot.com/UA-67333102-2/dmhendricks/file-icon-vectors)](https://github.com/dmhendricks/file-icon-vectors)
+[![Analytics](https://ga-beacon.appspot.com/UA-67333102-2/dmhendricks/file-icon-vectors?flat)](https://ga-beacon.appspot.com/?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors)
 
 ## Legal Stuff
 
