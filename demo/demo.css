@@ -1,7 +1,7 @@
 body { margin: 2em auto 0; }
 footer { margin-top: 2.5em; margin-bottom: 1.5em; padding-top: 1em; border-top: 1px solid #ccc; }
 
-.fiv-cla, .fiv-viv { font-size: 3.5em; margin: .5em 0 2px; }
+.fiv-cla, .fiv-viv, .fiv-sqo { font-size: 3.5em; margin: .5em 0 2px; }
 .icon-desc { font-size: .85em; text-align: center; }
 
 #github { margin-top: .5em; max-width: 160px; }
