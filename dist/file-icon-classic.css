@@ -664,6 +664,10 @@
   background-image: url("icons/classic/odb.svg");
 }
 
+.fiv-cla.fiv-icon-ods {
+  background-image: url("icons/classic/ods.svg");
+}
+
 .fiv-cla.fiv-icon-odt {
   background-image: url("icons/classic/odt.svg");
 }
