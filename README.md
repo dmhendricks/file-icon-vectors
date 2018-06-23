@@ -117,7 +117,7 @@ If you prefer, you may also use `.fiv-size-md`, `.fiv-size-lg` and `.fiv-size-xl
 - [SVGito](http://sketchmaster.com/svg-optimizer/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors) by [Sketch Master](http://sketchmaster.com/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors)
 - [Gulp](https://gulpjs.com/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors) and [Sass](https://sass-lang.com/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors)
 
-Even though I'm paying for them, thanks also to [Adobe](https://www.adobe.com/), [The Noun Project](https://thenounproject.com/) and [FlatIcon](https://www.flaticon.com/) for providing great tools and services. :+1: :smile:
+Even though I'm paying for them, thanks also to [Adobe](https://www.adobe.com/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors), [The Noun Project](https://thenounproject.com/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors) and [FlatIcon](https://www.flaticon.com/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors) for providing great tools and services. :+1: :smile:
 
 ## Legal Stuff
 
