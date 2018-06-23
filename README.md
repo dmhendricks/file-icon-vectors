@@ -21,7 +21,7 @@ A collection of file type/extension SVG icons, licensed MIT and available free f
 Currently, there are two icon sets in the `dist/icons` directory:
 
 * **Classic** - An expansion of the Redboot [free-file-icons](https://github.com/redbooth/free-file-icons) designs.
-* **Vivid** - Inspired by [Erlen Masson](https://www.sketchappsources.com/svg-resource/1856-vector-file-type-icons-sketch-freebie-resource.html)
+* **Vivid** - Inspired by [Erlen Masson](https://www.sketchappsources.com/svg-resource/1856-vector-file-type-icons-sketch-freebie-resource.html?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors)
 * **Square Outline** (in progress) - Modified from and inspired by [Cotne Nazarashvili](https://github.com/thecotne/square-file-icons)
 
 
@@ -111,11 +111,13 @@ If you prefer, you may also use `.fiv-size-md`, `.fiv-size-lg` and `.fiv-size-xl
 
 ## Special Thanks
 
-- [unpkg](https://unpkg.com/) and [jsDelivr](https://www.jsdelivr.com/)
-- [Markdown Editor](https://jbt.github.io/markdown-editor/) by James Taylor
-- [SVG optimiser](http://petercollingridge.appspot.com/svg-optimiser) by Peter Collingridge
-- [SVGito](http://sketchmaster.com/svg-optimizer/) by [Sketch Master](http://sketchmaster.com/)
-- [Gulp](https://gulpjs.com/) and [Sass](https://sass-lang.com/)
+- [unpkg](https://unpkg.com/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors) and [jsDelivr](https://www.jsdelivr.com/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors)
+- [Markdown Editor](https://jbt.github.io/markdown-editor/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors) by James Taylor
+- [SVG optimiser](http://petercollingridge.appspot.com/svg-optimiser?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors) by Peter Collingridge
+- [SVGito](http://sketchmaster.com/svg-optimizer/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors) by [Sketch Master](http://sketchmaster.com/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors)
+- [Gulp](https://gulpjs.com/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors) and [Sass](https://sass-lang.com/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors)
+
+Even though I'm paying for them, thanks also to [Adobe](https://www.adobe.com/), [The Noun Project](https://thenounproject.com/) and [FlatIcon](https://www.flaticon.com/) for providing great tools and services. :+1: :smile:
 
 ## Legal Stuff
 
@@ -125,10 +127,10 @@ If you feel that you have a copyright issue, please feel free to [post it](https
 
 ### Attribution
 
-* [Android icon](https://www.flaticon.com/free-icon/android-logo_61120) made by [Google](https://www.flaticon.com/authors/google) via [flaticon.com](https://www.flaticon.com/)
-* [BitTorrent icon](http://www.icons101.com/icon/id_73504/setid_2388/Minimalist_Black_Icons__WIP_by_noshery/bittorrent) made by [noshery](http://www.icons101.com/artist/id_2388/noshery) from [icons101.com](http://www.icons101.com/)
-* [GIMP Icon](https://icons8.com/icon/39867/gimp#filled) provided by [Icons8 LLC](https://icons8.com/)
-* Vivid set [Folder Icon](https://www.iconfinder.com/icons/173016/close_folder_icon) made by [Snip Master](https://www.iconfinder.com/snipicons) from [Iconfinder](https://www.iconfinder.com)
+* [Android icon](https://www.flaticon.com/free-icon/android-logo_61120?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors) made by [Google](https://www.flaticon.com/authors/google?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors) via [flaticon.com](https://www.flaticon.com/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors)
+* [BitTorrent icon](http://www.icons101.com/icon/id_73504/setid_2388/Minimalist_Black_Icons__WIP_by_noshery/bittorrent?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors) made by [noshery](http://www.icons101.com/artist/id_2388/noshery) from [icons101.com](http://www.icons101.com/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors)
+* [GIMP Icon](https://icons8.com/icon/39867/gimp#filled) provided by [Icons8 LLC](https://icons8.com/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors)
+* Vivid set [Folder Icon](https://www.iconfinder.com/icons/173016/close_folder_icon) made by [Snip Master](https://www.iconfinder.com/snipicons) from [Iconfinder](https://www.iconfinder.com?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors)
 
 ## Screenshot - Vivid Collection
 
