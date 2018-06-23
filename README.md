@@ -131,7 +131,8 @@ If you feel that you have a copyright issue, please feel free to [post it](https
 
 * [Android icon](https://www.flaticon.com/free-icon/android-logo_61120?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors) made by [Google](https://www.flaticon.com/authors/google?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors) via [flaticon.com](https://www.flaticon.com/?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors)
 * [BitTorrent icon](http://www.icons101.com/icon/id_73504/setid_2388/Minimalist_Black_Icons__WIP_by_noshery/bittorrent?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors) made by [noshery](http://www.icons101.com/artist/id_2388/noshery) from [icons101.com](http://www.icons101.com/?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors)
-* [GIMP Icon](https://icons8.com/icon/39867/gimp#filled) provided by [Icons8 LLC](https://icons8.com/?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors)
+* [GIMP Icon](https://icons8.com/icon/39867/gimp) provided by [Icons8 LLC](https://icons8.com/?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors)
+* [Git Icon](https://icons8.com/icon/44898/git) provided by [Icons8 LLC](https://icons8.com/?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors)
 * Vivid set [Folder Icon](https://www.iconfinder.com/icons/173016/close_folder_icon) made by [Snip Master](https://www.iconfinder.com/snipicons) from [Iconfinder](https://www.iconfinder.com?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors)
 
 ## Screenshot - Vivid Collection
