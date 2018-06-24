@@ -532,6 +532,10 @@
   background-image: url("icons/vivid/lit.svg");
 }
 
+.fiv-viv.fiv-icon-lock {
+  background-image: url("icons/vivid/lock.svg");
+}
+
 .fiv-viv.fiv-icon-log {
   background-image: url("icons/vivid/log.svg");
 }
