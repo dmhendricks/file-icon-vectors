@@ -340,6 +340,14 @@
   background-image: url("icons/square-o/iso.svg");
 }
 
+.fiv-sqo.fiv-icon-jar {
+  background-image: url("icons/square-o/jar.svg");
+}
+
+.fiv-sqo.fiv-icon-java {
+  background-image: url("icons/square-o/java.svg");
+}
+
 .fiv-sqo.fiv-icon-jpe {
   background-image: url("icons/square-o/jpe.svg");
 }
@@ -622,6 +630,10 @@
 
 .fiv-sqo.fiv-icon-vob {
   background-image: url("icons/square-o/vob.svg");
+}
+
+.fiv-sqo.fiv-icon-war {
+  background-image: url("icons/square-o/war.svg");
 }
 
 .fiv-sqo.fiv-icon-wav {
