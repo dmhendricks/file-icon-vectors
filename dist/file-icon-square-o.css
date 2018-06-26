@@ -404,6 +404,10 @@
   background-image: url("icons/square-o/json.svg");
 }
 
+.fiv-sqo.fiv-icon-jsx {
+  background-image: url("icons/square-o/jsx.svg");
+}
+
 .fiv-sqo.fiv-icon-key {
   background-image: url("icons/square-o/key.svg");
 }
