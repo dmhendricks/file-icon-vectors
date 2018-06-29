@@ -135,7 +135,7 @@ If you feel that you have a copyright issue, please feel free to [post it](https
 * [GIMP Icon](https://icons8.com/icon/39867/gimp) provided by [Icons8 LLC](https://icons8.com/?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors)
 * [Sass](https://www.onlinewebfonts.com/icon/411905), [Globe](https://www.onlinewebfonts.com/icon/336552) icons provided by [oNline Web Fonts](http://www.onlinewebfonts.com?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors)
 * Vivid set [Folder Icon](https://www.iconfinder.com/icons/173016/close_folder_icon) made by [Snip Master](https://www.iconfinder.com/snipicons) from [Iconfinder](https://www.iconfinder.com?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors)
-* [Classic Windows Logo](https://www.iconfinder.com/icons/173016/close_folder_icon) icon from [Wdwdbot](https://commons.wikimedia.org/wiki/User:Wdwdbot) at [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Microsoft_Logo_Wingdings_Font.svg?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors)
+* [Classic Windows Logo](https://commons.wikimedia.org/wiki/File:Microsoft_Logo_Wingdings_Font.svg?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors) icon from [Wdwdbot](https://commons.wikimedia.org/wiki/User:Wdwdbot) at [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors)
 
 ## Screenshot - Vivid Collection
 
