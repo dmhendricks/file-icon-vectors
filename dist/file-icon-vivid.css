@@ -160,6 +160,10 @@
   background-image: url("icons/vivid/aze.svg");
 }
 
+.fiv-viv.fiv-icon-bak {
+  background-image: url("icons/vivid/bak.svg");
+}
+
 .fiv-viv.fiv-icon-bash {
   background-image: url("icons/vivid/bash.svg");
 }
@@ -806,6 +810,10 @@
 
 .fiv-viv.fiv-icon-py {
   background-image: url("icons/vivid/py.svg");
+}
+
+.fiv-viv.fiv-icon-pyc {
+  background-image: url("icons/vivid/pyc.svg");
 }
 
 .fiv-viv.fiv-icon-qt {
