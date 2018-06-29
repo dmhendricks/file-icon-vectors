@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><style type="text/css">  
 	.st0{fill:#FFFFFF;}
 	.st1{fill:#666666;}
-	.st2{fill:#0F768C;}
-</style><rect class="st0" width="100" height="100"/><path class="st1" d="M100 100H0V0h100V100zM9.7 90h80.7V10H9.7"/><path class="st2" d="M26.4 23.5L30.9 73 51 78.5 71 73l4.6-49.5H26.4zM63.5 64.8L51 68.3l-12.7-3.5 -0.9-9.6h6.3l0.3 4.7 7 2 6.6-2 1.9-20.3H35.9l-0.4-6.1h30.9L63.5 64.8z"/></svg>
+	.st2{fill:#72A536;}
+	.st3{fill:#99CC44;}
+	.st4{fill:#E6E6E5;}
+</style><rect class="st0" width="100" height="100"/><path class="st1" d="M100 100H0V0h100V100zM9.7 90h80.7V10H9.7"/><polygon class="st2" points="74.3 23.5 50 23.5 50 23.5 25.7 23.5 30.2 72.9 50 78.5 50 78.5 50 78.5 50 78.5 50 78.5 69.7 72.9 "/><polygon class="st3" points="50 27.5 50 74.3 50 74.3 66 69.8 69.9 27.5 "/><path class="st4" d="M62.4 64.6L50 68l-12.5-3.5 -0.9-9.5h6.2l0.3 4.7 6.9 2 6.6-2 1.9-20.1H35.1l-0.4-6h30.6L62.4 64.6z"/><polygon class="st0" points="62.5 64.6 50 68 50 61.7 56.6 59.7 58.5 39.6 50 39.6 50 33.6 65.4 33.6 "/></svg>

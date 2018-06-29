@@ -1,5 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><style type="text/css">  
 	.st0{fill:#FFFFFF;}
 	.st1{fill:#666666;}
-	.st2{fill:#990099;}
-</style><rect class="st0" width="100" height="100"/><path class="st1" d="M100 100H0V0h100V100zM9.7 90h80.7V10H9.7"/><path class="st2" d="M32 26.6l-1.8 9h36.9L66 41.4H29.1l-1.8 9h36.9l-2.1 10.4 -14.8 4.9 -12.9-4.9 0.8-4.5h-9l-2.2 11 21.3 8.2 24.6-8.2 3.2-16.4 0.6-3.3 4.2-21.1L32 26.6 32 26.6z"/></svg>
+	.st2{fill:#1072BA;}
+	.st3{fill:#2AAAE2;}
+	.st4{fill:#B4B4B4;}
+	.st5{fill:#E6E6E5;}
+</style><rect class="st0" width="100" height="100"/><path class="st1" d="M100 100H0V0h100V100zM9.7 90h80.7V10H9.7"/><polygon class="st2" points="30.1 73 25.8 23.5 74.2 23.5 69.9 73 50 78.5 "/><polygon class="st3" points="50 74.3 66.1 69.9 69.8 27.6 50 27.6 "/><polygon class="st4" points="35.9 45.8 36.4 51.9 50 45.8 50 39.7 "/><polygon class="st5" points="65.2 33.2 50 39.7 50 45.8 64.6 39.3 "/><polygon class="st5" points="50 61.7 50 61.7 43.2 59.8 42.8 55 36.7 55 37.5 64.5 50 68 50 68 "/><polygon class="st0" points="50 45.8 50 51.9 57.5 51.9 56.8 59.8 50 61.7 50 68 62.4 64.5 64.1 45.8 "/><polygon class="st5" points="50 45.8 35.9 45.8 36.4 51.9 50 51.9 "/><polygon class="st5" points="50 39.3 50 33.2 50 33.2 34.8 33.2 35.3 39.3 "/><polygon class="st0" points="50 33.2 50 39.2 50 39.3 64.6 39.3 65.2 33.2 "/></svg>
