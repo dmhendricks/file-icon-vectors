@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><style type="text/css">  
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#37539D;}
+	.st2{fill:none;stroke:#37539D;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.75;stroke-miterlimit:10;}
+</style><rect class="st0" width="100" height="100"/><path class="st1" d="M100 100H0V0h100V100zM9.7 90h80.7V10H9.7"/><polygon class="st1" points="23 31.3 53.5 25.5 53.5 76.7 23 71 "/><path class="st1" d="M74.7 71.7H48.9c-1.3 0-2.3-1.1-2.3-2.3V33c0-1.3 1.1-2.3 2.3-2.3h25.9c1.3 0 2.3 1.1 2.3 2.3v36.5C77 70.7 76 71.7 74.7 71.7zM48.9 32.7c-0.2 0-0.2 0.1-0.2 0.2v36.5c0 0.2 0.1 0.2 0.2 0.2h25.9c0.2 0 0.2-0.1 0.2-0.2V33c0-0.2-0.1-0.2-0.2-0.2H48.9z"/><rect x="50" y="55.2" class="st2" width="8.6" height="8.6"/><rect x="61.6" y="38.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -10.5403 58.4375)" class="st2" width="7.3" height="7.3"/><line class="st2" x1="60" y1="42.2" x2="52.9" y2="42.2"/><line class="st2" x1="65.7" y1="46.7" x2="65.7" y2="59.5"/><line class="st2" x1="58.6" y1="59.5" x2="67.1" y2="59.5"/><path class="st3" d="M31.4 44.1h3l3.3 9.9c0.3 0.9 0.6 2.2 0.6 2.2h0c0 0 0.3-1.4 0.6-2.2l3.4-9.9h3l-5.6 15.2h-2.7L31.4 44.1z"/></svg>
