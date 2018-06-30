@@ -344,6 +344,10 @@
   background-image: url("icons/classic/dpj.svg");
 }
 
+.fiv-cla.fiv-icon-ds_store {
+  background-image: url("icons/classic/ds_store.svg");
+}
+
 .fiv-cla.fiv-icon-dtd {
   background-image: url("icons/classic/dtd.svg");
 }
@@ -754,6 +758,10 @@
 
 .fiv-cla.fiv-icon-ph {
   background-image: url("icons/classic/ph.svg");
+}
+
+.fiv-cla.fiv-icon-phar {
+  background-image: url("icons/classic/phar.svg");
 }
 
 .fiv-cla.fiv-icon-php {

@@ -348,6 +348,10 @@
   background-image: url("icons/vivid/dpj.svg");
 }
 
+.fiv-viv.fiv-icon-ds_store {
+  background-image: url("icons/vivid/ds_store.svg");
+}
+
 .fiv-viv.fiv-icon-dtd {
   background-image: url("icons/vivid/dtd.svg");
 }
@@ -758,6 +762,10 @@
 
 .fiv-viv.fiv-icon-ph {
   background-image: url("icons/vivid/ph.svg");
+}
+
+.fiv-viv.fiv-icon-phar {
+  background-image: url("icons/vivid/phar.svg");
 }
 
 .fiv-viv.fiv-icon-php {

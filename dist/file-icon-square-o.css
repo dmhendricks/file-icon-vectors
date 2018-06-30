@@ -312,6 +312,10 @@
   background-image: url("icons/square-o/dotx.svg");
 }
 
+.fiv-sqo.fiv-icon-ds_store {
+  background-image: url("icons/square-o/ds_store.svg");
+}
+
 .fiv-sqo.fiv-icon-dwg {
   background-image: url("icons/square-o/dwg.svg");
 }
@@ -642,6 +646,10 @@
 
 .fiv-sqo.fiv-icon-ph {
   background-image: url("icons/square-o/ph.svg");
+}
+
+.fiv-sqo.fiv-icon-phar {
+  background-image: url("icons/square-o/phar.svg");
 }
 
 .fiv-sqo.fiv-icon-php {
