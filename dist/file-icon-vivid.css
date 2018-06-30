@@ -1144,6 +1144,10 @@
   background-image: url("icons/vivid/xz.svg");
 }
 
+.fiv-viv.fiv-icon-yaml {
+  background-image: url("icons/vivid/yaml.svg");
+}
+
 .fiv-viv.fiv-icon-yml {
   background-image: url("icons/vivid/yml.svg");
 }
