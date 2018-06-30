@@ -300,6 +300,10 @@
   background-image: url("icons/vivid/dgn.svg");
 }
 
+.fiv-viv.fiv-icon-dist {
+  background-image: url("icons/vivid/dist.svg");
+}
+
 .fiv-viv.fiv-icon-dll {
   background-image: url("icons/vivid/dll.svg");
 }
@@ -1162,6 +1166,14 @@
 
 .fiv-viv.fiv-icon-xrb {
   background-image: url("icons/vivid/xrb.svg");
+}
+
+.fiv-viv.fiv-icon-xsd {
+  background-image: url("icons/vivid/xsd.svg");
+}
+
+.fiv-viv.fiv-icon-xsl {
+  background-image: url("icons/vivid/xsl.svg");
 }
 
 .fiv-viv.fiv-icon-xspf {
