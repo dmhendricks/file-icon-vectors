@@ -36,13 +36,15 @@ gulp.task( 'sassTask', function () {
 });
 
 gulp.task('default', [ 'sassTask' ], function(){
-  var icon_libs = [ './dist/icons/classic', './dist/icons/vivid' ];
+  var icon_libs = [ './dist/icons/classic', './dist/icons/vivid', './dist/icons/square-o' ];
 
   gulp.watch( './src/scss/*.scss', [ 'sassTask' ] );
 
+  /*
   icon_libs.forEach( function( lib ) {
     console.log(lib);
     gulp.src( lib + '/*.svg' ).pipe( svgmin() ).pipe( gulp.dest( lib ) );
   });
+  */
 
 });
