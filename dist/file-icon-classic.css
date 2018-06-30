@@ -508,6 +508,10 @@
   background-image: url("icons/classic/jsp.svg");
 }
 
+.fiv-cla.fiv-icon-jsx {
+  background-image: url("icons/classic/jsx.svg");
+}
+
 .fiv-cla.fiv-icon-key {
   background-image: url("icons/classic/key.svg");
 }
@@ -842,6 +846,10 @@
 
 .fiv-cla.fiv-icon-rpm {
   background-image: url("icons/classic/rpm.svg");
+}
+
+.fiv-cla.fiv-icon-rsa {
+  background-image: url("icons/classic/rsa.svg");
 }
 
 .fiv-cla.fiv-icon-rtf {

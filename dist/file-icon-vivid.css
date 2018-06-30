@@ -856,6 +856,10 @@
   background-image: url("icons/vivid/rpm.svg");
 }
 
+.fiv-viv.fiv-icon-rsa {
+  background-image: url("icons/vivid/rsa.svg");
+}
+
 .fiv-viv.fiv-icon-rtf {
   background-image: url("icons/vivid/rtf.svg");
 }
