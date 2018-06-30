@@ -748,6 +748,10 @@
   background-image: url("icons/vivid/php.svg");
 }
 
+.fiv-viv.fiv-icon-pkg {
+  background-image: url("icons/vivid/pkg.svg");
+}
+
 .fiv-viv.fiv-icon-png {
   background-image: url("icons/vivid/png.svg");
 }
