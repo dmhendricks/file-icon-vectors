@@ -412,6 +412,10 @@
   background-image: url("icons/classic/gitignore.svg");
 }
 
+.fiv-cla.fiv-icon-go {
+  background-image: url("icons/classic/go.svg");
+}
+
 .fiv-cla.fiv-icon-gpg {
   background-image: url("icons/classic/gpg.svg");
 }
@@ -566,6 +570,10 @@
 
 .fiv-cla.fiv-icon-m4v {
   background-image: url("icons/classic/m4v.svg");
+}
+
+.fiv-cla.fiv-icon-map {
+  background-image: url("icons/classic/map.svg");
 }
 
 .fiv-cla.fiv-icon-master {
@@ -740,8 +748,20 @@
   background-image: url("icons/classic/pgp.svg");
 }
 
+.fiv-cla.fiv-icon-ph {
+  background-image: url("icons/classic/ph.svg");
+}
+
 .fiv-cla.fiv-icon-php {
   background-image: url("icons/classic/php.svg");
+}
+
+.fiv-cla.fiv-icon-pl {
+  background-image: url("icons/classic/pl.svg");
+}
+
+.fiv-cla.fiv-icon-pm {
+  background-image: url("icons/classic/pm.svg");
 }
 
 .fiv-cla.fiv-icon-png {
