@@ -828,6 +828,10 @@
   background-image: url("icons/vivid/ps.svg");
 }
 
+.fiv-viv.fiv-icon-ps1 {
+  background-image: url("icons/vivid/ps1.svg");
+}
+
 .fiv-viv.fiv-icon-psd {
   background-image: url("icons/vivid/psd.svg");
 }
@@ -1054,6 +1058,10 @@
 
 .fiv-viv.fiv-icon-vob {
   background-image: url("icons/vivid/vob.svg");
+}
+
+.fiv-viv.fiv-icon-vscodeignore {
+  background-image: url("icons/vivid/vscodeignore.svg");
 }
 
 .fiv-viv.fiv-icon-vsd {

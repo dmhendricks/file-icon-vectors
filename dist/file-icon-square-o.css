@@ -724,10 +724,6 @@
   background-image: url("icons/square-o/qt.svg");
 }
 
-.fiv-sqo.fiv-icon-qt2 {
-  background-image: url("icons/square-o/qt2.svg");
-}
-
 .fiv-sqo.fiv-icon-ra {
   background-image: url("icons/square-o/ra.svg");
 }
@@ -866,6 +862,10 @@
 
 .fiv-sqo.fiv-icon-vob {
   background-image: url("icons/square-o/vob.svg");
+}
+
+.fiv-sqo.fiv-icon-vscodeignore {
+  background-image: url("icons/square-o/vscodeignore.svg");
 }
 
 .fiv-sqo.fiv-icon-vsd {
