@@ -584,6 +584,10 @@
   background-image: url("icons/square-o/mp3.svg");
 }
 
+.fiv-sqo.fiv-icon-mp4 {
+  background-image: url("icons/square-o/mp4.svg");
+}
+
 .fiv-sqo.fiv-icon-mpa {
   background-image: url("icons/square-o/mpa.svg");
 }

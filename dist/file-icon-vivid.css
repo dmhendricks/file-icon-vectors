@@ -524,6 +524,10 @@
   background-image: url("icons/vivid/jsp.svg");
 }
 
+.fiv-viv.fiv-icon-jsx {
+  background-image: url("icons/vivid/jsx.svg");
+}
+
 .fiv-viv.fiv-icon-key {
   background-image: url("icons/vivid/key.svg");
 }
