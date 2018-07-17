@@ -160,6 +160,10 @@
   background-image: url("icons/classic/aze.svg");
 }
 
+.fiv-cla.fiv-icon-bak {
+  background-image: url("icons/classic/bak.svg");
+}
+
 .fiv-cla.fiv-icon-bash {
   background-image: url("icons/classic/bash.svg");
 }
@@ -548,6 +552,10 @@
   background-image: url("icons/classic/lit.svg");
 }
 
+.fiv-cla.fiv-icon-lock {
+  background-image: url("icons/classic/lock.svg");
+}
+
 .fiv-cla.fiv-icon-log {
   background-image: url("icons/classic/log.svg");
 }
@@ -768,6 +776,10 @@
   background-image: url("icons/classic/php.svg");
 }
 
+.fiv-cla.fiv-icon-pkg {
+  background-image: url("icons/classic/pkg.svg");
+}
+
 .fiv-cla.fiv-icon-pl {
   background-image: url("icons/classic/pl.svg");
 }
@@ -842,6 +854,10 @@
 
 .fiv-cla.fiv-icon-py {
   background-image: url("icons/classic/py.svg");
+}
+
+.fiv-cla.fiv-icon-pyc {
+  background-image: url("icons/classic/pyc.svg");
 }
 
 .fiv-cla.fiv-icon-qt {
@@ -1186,6 +1202,10 @@
 
 .fiv-cla.fiv-icon-xz {
   background-image: url("icons/classic/xz.svg");
+}
+
+.fiv-cla.fiv-icon-yaml {
+  background-image: url("icons/classic/yaml.svg");
 }
 
 .fiv-cla.fiv-icon-yml {
