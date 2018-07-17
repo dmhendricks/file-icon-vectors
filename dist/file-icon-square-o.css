@@ -672,6 +672,10 @@
   background-image: url("icons/square-o/ogv.svg");
 }
 
+.fiv-sqo.fiv-icon-ovf {
+  background-image: url("icons/square-o/ovf.svg");
+}
+
 .fiv-sqo.fiv-icon-p12 {
   background-image: url("icons/square-o/p12.svg");
 }
@@ -946,6 +950,14 @@
 
 .fiv-sqo.fiv-icon-vcs {
   background-image: url("icons/square-o/vcs.svg");
+}
+
+.fiv-sqo.fiv-icon-vdi {
+  background-image: url("icons/square-o/vdi.svg");
+}
+
+.fiv-sqo.fiv-icon-vdmk {
+  background-image: url("icons/square-o/vdmk.svg");
 }
 
 .fiv-sqo.fiv-icon-vdx {
