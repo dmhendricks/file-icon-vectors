@@ -220,6 +220,10 @@
   background-image: url("icons/square-o/cer.svg");
 }
 
+.fiv-sqo.fiv-icon-class {
+  background-image: url("icons/square-o/class.svg");
+}
+
 .fiv-sqo.fiv-icon-cmd {
   background-image: url("icons/square-o/cmd.svg");
 }
@@ -230,6 +234,10 @@
 
 .fiv-sqo.fiv-icon-compile {
   background-image: url("icons/square-o/compile.svg");
+}
+
+.fiv-sqo.fiv-icon-config {
+  background-image: url("icons/square-o/config.svg");
 }
 
 .fiv-sqo.fiv-icon-cpp {
@@ -330,6 +338,10 @@
 
 .fiv-sqo.fiv-icon-dotx {
   background-image: url("icons/square-o/dotx.svg");
+}
+
+.fiv-sqo.fiv-icon-dpj {
+  background-image: url("icons/square-o/dpj.svg");
 }
 
 .fiv-sqo.fiv-icon-ds_store {
@@ -440,8 +452,20 @@
   background-image: url("icons/square-o/image.svg");
 }
 
+.fiv-sqo.fiv-icon-img {
+  background-image: url("icons/square-o/img.svg");
+}
+
 .fiv-sqo.fiv-icon-indd {
   background-image: url("icons/square-o/indd.svg");
+}
+
+.fiv-sqo.fiv-icon-inf {
+  background-image: url("icons/square-o/inf.svg");
+}
+
+.fiv-sqo.fiv-icon-ini {
+  background-image: url("icons/square-o/ini.svg");
 }
 
 .fiv-sqo.fiv-icon-iso {
@@ -516,6 +540,10 @@
   background-image: url("icons/square-o/log.svg");
 }
 
+.fiv-sqo.fiv-icon-lua {
+  background-image: url("icons/square-o/lua.svg");
+}
+
 .fiv-sqo.fiv-icon-m2v {
   background-image: url("icons/square-o/m2v.svg");
 }
@@ -566,6 +594,10 @@
 
 .fiv-sqo.fiv-icon-midi {
   background-image: url("icons/square-o/midi.svg");
+}
+
+.fiv-sqo.fiv-icon-mkv {
+  background-image: url("icons/square-o/mkv.svg");
 }
 
 .fiv-sqo.fiv-icon-mobi {
@@ -702,6 +734,10 @@
 
 .fiv-sqo.fiv-icon-potx {
   background-image: url("icons/square-o/potx.svg");
+}
+
+.fiv-sqo.fiv-icon-pps {
+  background-image: url("icons/square-o/pps.svg");
 }
 
 .fiv-sqo.fiv-icon-ppsx {
@@ -856,6 +892,10 @@
   background-image: url("icons/square-o/tcsh.svg");
 }
 
+.fiv-sqo.fiv-icon-tex {
+  background-image: url("icons/square-o/tex.svg");
+}
+
 .fiv-sqo.fiv-icon-tga {
   background-image: url("icons/square-o/tga.svg");
 }
@@ -1008,6 +1048,10 @@
   background-image: url("icons/square-o/xlsm.svg");
 }
 
+.fiv-sqo.fiv-icon-xlsx {
+  background-image: url("icons/square-o/xlsx.svg");
+}
+
 .fiv-sqo.fiv-icon-xlt {
   background-image: url("icons/square-o/xlt.svg");
 }
@@ -1042,6 +1086,14 @@
 
 .fiv-sqo.fiv-icon-xz {
   background-image: url("icons/square-o/xz.svg");
+}
+
+.fiv-sqo.fiv-icon-yaml {
+  background-image: url("icons/square-o/yaml.svg");
+}
+
+.fiv-sqo.fiv-icon-yml {
+  background-image: url("icons/square-o/yml.svg");
 }
 
 .fiv-sqo.fiv-icon-z {
