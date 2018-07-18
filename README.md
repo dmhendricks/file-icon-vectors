@@ -26,7 +26,7 @@ Currently, there are two icon sets in the `dist/icons` directory:
 
 **NB!** The Square Outline collection will not be available via CDN until release.
 
-### :pushpin: Demo: [View Icon Sets](https://danhendricks.com/demo/github/dmhendricks/file-icon-vectors/demo/?utm_source=danhendricks.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors)
+### :pushpin: Demo: [View Icon Sets](https://rawcdn.githack.com/dmhendricks/file-icon-vectors/master/demo/index.html)
 
 ## Installation
 
@@ -59,8 +59,6 @@ To display a file icon, simply link to one or both of the icon set CSS files in 
 
 #### CDN: unpkg
 
-Recommended for performance.
-
 ```html
 <link rel="stylesheet" href="https://unpkg.com/file-icon-vectors/dist/file-icon-classic.min.css" />
 <link rel="stylesheet" href="https://unpkg.com/file-icon-vectors/dist/file-icon-vivid.min.css" />
@@ -75,11 +73,13 @@ Supports both HTTP and HTTPS.
 <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors/dist/file-icon-vivid.min.css" />
 ```
 
-#### CDN: RawGit
+#### CDN: GitHack
+
+Supports `master` branch as endpoint.
 
 ```html
-<link rel="stylesheet" href="https://cdn.rawgit.com/dmhendricks/file-icon-vectors/0.8.1/dist/file-icon-classic.min.css" />
-<link rel="stylesheet" href="https://cdn.rawgit.com/dmhendricks/file-icon-vectors/0.8.1/dist/file-icon-vivid.min.css" />
+<link rel="stylesheet" href="https://rawcdn.githack.com/dmhendricks/file-icon-vectors/master/dist/file-icon-classic.min.css" />
+<link rel="stylesheet" href="https://rawcdn.githack.com/dmhendricks/file-icon-vectors/master/dist/file-icon-vivid.min.css" />
 ```
 
 ## Example Usage
@@ -109,6 +109,10 @@ If you prefer, you may also use `.fiv-size-md`, `.fiv-size-lg` and `.fiv-size-xl
 ```html
 <span class="fiv-viv fiv-icon-pdf fiv-size-lg"></span>
 ```
+
+## Catalog JSON
+
+Each icon set has a `catalog.json` file that includes all icons included in the library. You can optionally use this to check for files that exist, and where missing, set an alternate icon.
 
 ## Special Thanks
 
