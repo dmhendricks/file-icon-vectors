@@ -24,7 +24,7 @@ Currently, there are two icon sets in the `dist/icons` directory:
 * **Vivid** - Inspired by [Erlen Masson](https://www.sketchappsources.com/svg-resource/1856-vector-file-type-icons-sketch-freebie-resource.html?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=file-icon-vectors)
 * **Square Outline** (in progress) - Modified from and inspired by [Cotne Nazarashvili](https://github.com/thecotne/square-file-icons)
 
-**NB!** The Square Outline collection will not be available via CDN until release.
+**NB!** The Square Outline collection will not be available via unpkg or jsDeliver until release.
 
 ### :pushpin: Demo: [View Icon Sets](https://rawcdn.githack.com/dmhendricks/file-icon-vectors/master/demo/)
 
