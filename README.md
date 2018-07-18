@@ -59,9 +59,11 @@ To display a file icon, simply link to one or both of the icon set CSS files in 
 
 #### CDN: unpkg
 
+For releases:
+
 ```html
-<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors/dist/file-icon-classic.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors/dist/file-icon-vivid.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@0.8.1/dist/file-icon-classic.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@0.8.1/dist/file-icon-vivid.min.css" />
 ```
 
 #### CDN: jsDelivr
@@ -75,7 +77,7 @@ Supports both HTTP and HTTPS.
 
 #### CDN: GitHack
 
-Supports branches as endpoints (like `master`).
+Supports branches as endpoints (such as `master`).
 
 ```html
 <link rel="stylesheet" href="https://rawcdn.githack.com/dmhendricks/file-icon-vectors/master/dist/file-icon-classic.min.css" />
