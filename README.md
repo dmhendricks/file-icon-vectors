@@ -26,7 +26,7 @@ Currently, there are two icon sets in the `dist/icons` directory:
 
 **NB!** The Square Outline collection will not be available via CDN until release.
 
-### :pushpin: Demo: [View Icon Sets](https://rawcdn.githack.com/dmhendricks/file-icon-vectors/master/demo/index.html)
+### :pushpin: Demo: [View Icon Sets](https://rawcdn.githack.com/dmhendricks/file-icon-vectors/master/demo/)
 
 ## Installation
 
@@ -75,7 +75,7 @@ Supports both HTTP and HTTPS.
 
 #### CDN: GitHack
 
-Supports `master` branch as endpoint.
+Supports branches as endpoints (like `master`).
 
 ```html
 <link rel="stylesheet" href="https://rawcdn.githack.com/dmhendricks/file-icon-vectors/master/dist/file-icon-classic.min.css" />
