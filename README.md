@@ -84,9 +84,15 @@ Supports branches as endpoints (such as `master`).
 <link rel="stylesheet" href="https://rawcdn.githack.com/dmhendricks/file-icon-vectors/master/dist/file-icon-vivid.min.css" />
 ```
 
-## Example Usage
+## Usage
 
-From there, you can use CSS classes to display the icons:
+Each set has its own CSS prefix:
+
+- `cla` - Classic
+- `viv` - Vivid
+- `sqo` - Square Outline
+
+Examples:
 
 ```html
 <span class="fiv-cla fiv-icon-ppt"></span>
@@ -121,6 +127,7 @@ Generic icons include `blank.svg`, `folder.svg`, `image.svg`.
 ## Special Thanks
 
 - [GitHack](https://raw.githack.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=file-icon-vectors), [unpkg](https://unpkg.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=file-icon-vectors) and [jsDelivr](https://www.jsdelivr.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=file-icon-vectors)
+- [The File Extensions Database](https://fileinfo.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=file-icon-vectors) by [Sharpened Productions](https://sharpened.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=file-icon-vectors)
 - [Markdown Editor](https://jbt.github.io/markdown-editor/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=file-icon-vectors) by James Taylor
 - [SVG optimiser](http://petercollingridge.appspot.com/svg-optimiser?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=file-icon-vectors) by Peter Collingridge
 - [SVGito](http://sketchmaster.com/svg-optimizer/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=file-icon-vectors) by [Sketch Master](http://sketchmaster.com/?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors)
