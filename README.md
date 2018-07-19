@@ -12,7 +12,7 @@
 A collection of file type/extension SVG icons, licensed MIT and available free for use in your applications.
 
 * Please post [feedback or issues](https://github.com/dmhendricks/file-icon-vectors/issues).
-* I pay to license many of the icons used in these sets. **[Donations](https://paypal.me/danielhendricks) are appreciated**.
+* I pay to license several of the icons used in these sets. [Donations](https://paypal.me/danielhendricks) are appreciated.
 * :bulb: If you have an idea, such as new icon requests, additional collections/designs, and/or are willing to contribute a library/design, please [let me know](https://github.com/dmhendricks/file-icon-vectors/issues)! My time is limited, but I will get to it eventually.
 * :star: If you use this library to create something cool, [tell me](https://twitter.com/danielhendricks) about it!
 
@@ -131,7 +131,7 @@ Even though I'm paying for them, thanks also to [Adobe](https://www.adobe.com/?u
 
 ## Legal Stuff
 
-All icons used in the creation of this library were licensed MIT or purchased royalty-free, with exceptions noted below. All logos are copyright their respective owners and used with permission.
+All icons used in the creation of this library were licensed MIT or purchased royalty-free, with exceptions noted below. All logos are copyright their respective owners.
 
 If you feel that you have a copyright issue, please feel free to [post it](https://github.com/dmhendricks/file-icon-vectors/issues).
 
@@ -142,7 +142,7 @@ If you feel that you have a copyright issue, please feel free to [post it](https
 * [BitTorrent](http://www.icons101.com/icon/id_73504/setid_2388/Minimalist_Black_Icons__WIP_by_noshery/bittorrent?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=file-icon-vectors) icon provided by [noshery](http://www.icons101.com/artist/id_2388/noshery) from [icons101.com](http://www.icons101.com/?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=file-icon-vectors)
 * [GIMP](https://icons8.com/icon/39867/gimp), [PowerShell](https://icons8.com/icon/59499/powershell), [C++](https://icons8.com/icon/55199/c%2B%2B-filled), [C#](https://icons8.com/icon/55205/c-sharp-logo-filled) provided by [Icons8 LLC](https://icons8.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=file-icon-vectors)
 * [Sass](https://www.onlinewebfonts.com/icon/411905), [Globe](https://www.onlinewebfonts.com/icon/336552) icons provided by [oNline Web Fonts](http://www.onlinewebfonts.com?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=file-icon-vectors)
-* Vivid set [Folder Icon](https://www.iconfinder.com/icons/173016/close_folder_icon) made by [Snip Master](https://www.iconfinder.com/snipicons) from [Iconfinder](https://www.iconfinder.com?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=file-icon-vectors)
+* Classic set [Folder Icon](https://www.iconfinder.com/icons/173016/close_folder_icon) made by [Snip Master](https://www.iconfinder.com/snipicons) from [Iconfinder](https://www.iconfinder.com?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=file-icon-vectors)
 * [Classic Windows Logo](https://commons.wikimedia.org/wiki/File:Microsoft_Logo_Wingdings_Font.svg?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=file-icon-vectors) icon from [Wdwdbot](https://commons.wikimedia.org/wiki/User:Wdwdbot) at [Wikimedia Commons](https://commons.wikimedia.org/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=file-icon-vectors)
 
 ## Screenshot - Vivid Collection
