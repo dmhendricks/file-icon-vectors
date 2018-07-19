@@ -10,7 +10,6 @@ var pkg           = require( './package.json' );
 var gulp          = require( 'gulp' );
 var rename        = require( 'gulp-rename' );
 var minifycss     = require( 'gulp-uglifycss' );
-var svgmin        = require( 'gulp-svgmin' );
 var sass          = require( 'gulp-sass' );
 var autoprefixer  = require( 'gulp-autoprefixer' );
 var lineec        = require( 'gulp-line-ending-corrector' );
@@ -39,12 +38,5 @@ gulp.task('default', [ 'sassTask' ], function(){
   var icon_libs = [ './dist/icons/classic', './dist/icons/vivid', './dist/icons/square-o' ];
 
   gulp.watch( './src/scss/*.scss', [ 'sassTask' ] );
-
-  /*
-  icon_libs.forEach( function( lib ) {
-    console.log(lib);
-    gulp.src( lib + '/*.svg' ).pipe( svgmin() ).pipe( gulp.dest( lib ) );
-  });
-  */
 
 });
