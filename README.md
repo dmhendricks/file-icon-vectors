@@ -1,4 +1,5 @@
 [![Author](https://img.shields.io/badge/author-Daniel%20M.%20Hendricks-lightgrey.svg?colorB=9900cc )](https://www.danhendricks.com?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors)
+![Icon Count](https://img.shields.io/badge/icon%20count-885%2B-red.svg)
 [![Release](https://img.shields.io/github/release/dmhendricks/file-icon-vectors.svg)](https://github.com/dmhendricks/file-icon-vectors/releases)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](https://raw.githubusercontent.com/dmhendricks/file-icon-vectors/master/LICENSE)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/dmhendricks/file-icon-vectors?utm_source=github.com&utm_medium=referral&utm_content=button&utm_campaign=file-icon-vectors)
@@ -92,7 +93,7 @@ Each set has its own CSS prefix:
 - `viv` - Vivid
 - `sqo` - Square Outline
 
-Examples:
+**Examples:**
 
 ```html
 <span class="fiv-cla fiv-icon-ppt"></span>
@@ -102,7 +103,7 @@ Examples:
 <span class="fiv-sqo fiv-icon-doc"></span>
 ```
 
-Notice that the classes contain either `flv-cla` for the Classic set or `flv-viv` for the Vivid set.
+Notice that the classes contain either `flv-cla` for the Classic set, `flv-viv` for the Vivid set, etc.
 
 If you want to override the size of the icons, you can do so with CSS:
 
