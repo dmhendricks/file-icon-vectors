@@ -116,6 +116,8 @@ If you prefer, you may also use `.fiv-size-md`, `.fiv-size-lg` and `.fiv-size-xl
 
 Each icon set has a `catalog.json` file that includes all icons included in the library. You can optionally use this to check for files that exist, and where missing, set an alternate icon.
 
+Generic icons include `blank.svg`, `folder.svg`, `image.svg`.
+
 ## Special Thanks
 
 - [GitHack](https://raw.githack.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=file-icon-vectors), [unpkg](https://unpkg.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=file-icon-vectors) and [jsDelivr](https://www.jsdelivr.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=file-icon-vectors)
