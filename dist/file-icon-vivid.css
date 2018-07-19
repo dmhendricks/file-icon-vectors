@@ -620,6 +620,10 @@
   background-image: url("icons/vivid/mkv.svg");
 }
 
+.fiv-viv.fiv-icon-mo {
+  background-image: url("icons/vivid/mo.svg");
+}
+
 .fiv-viv.fiv-icon-mobi {
   background-image: url("icons/vivid/mobi.svg");
 }
