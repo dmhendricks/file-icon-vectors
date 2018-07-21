@@ -153,6 +153,7 @@ If you feel that you have a copyright issue, please feel free to [post it](https
 * [Sass](https://www.onlinewebfonts.com/icon/411905), [Globe](https://www.onlinewebfonts.com/icon/336552) icons provided by [oNline Web Fonts](http://www.onlinewebfonts.com?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors)
 * Classic set [Folder Icon](https://www.iconfinder.com/icons/173016/close_folder_icon) made by [Snip Master](https://www.iconfinder.com/snipicons) from [Iconfinder](https://www.iconfinder.com?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors)
 * [Classic Windows Logo](https://commons.wikimedia.org/wiki/File:Microsoft_Logo_Wingdings_Font.svg?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors) icon from [Wdwdbot](https://commons.wikimedia.org/wiki/User:Wdwdbot) at [Wikimedia Commons](https://commons.wikimedia.org/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors)
+* [Maven](https://www.onlinewebfonts.com/icon/161017?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors) icon provided by [OnlineWebFonts](https://www.onlinewebfonts.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors)
 
 ## Screenshot - Vivid Collection
 
