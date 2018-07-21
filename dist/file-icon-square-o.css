@@ -252,6 +252,10 @@
   background-image: url("icons/square-o/cr2.svg");
 }
 
+.fiv-sqo.fiv-icon-crdownload {
+  background-image: url("icons/square-o/crdownload.svg");
+}
+
 .fiv-sqo.fiv-icon-crt {
   background-image: url("icons/square-o/crt.svg");
 }
@@ -350,6 +354,10 @@
 
 .fiv-sqo.fiv-icon-dotx {
   background-image: url("icons/square-o/dotx.svg");
+}
+
+.fiv-sqo.fiv-icon-download {
+  background-image: url("icons/square-o/download.svg");
 }
 
 .fiv-sqo.fiv-icon-dpj {

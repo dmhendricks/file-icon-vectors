@@ -252,6 +252,10 @@
   background-image: url("icons/vivid/cr2.svg");
 }
 
+.fiv-viv.fiv-icon-crdownload {
+  background-image: url("icons/vivid/crdownload.svg");
+}
+
 .fiv-viv.fiv-icon-crt {
   background-image: url("icons/vivid/crt.svg");
 }
@@ -350,6 +354,10 @@
 
 .fiv-viv.fiv-icon-dotx {
   background-image: url("icons/vivid/dotx.svg");
+}
+
+.fiv-viv.fiv-icon-download {
+  background-image: url("icons/vivid/download.svg");
 }
 
 .fiv-viv.fiv-icon-dpj {

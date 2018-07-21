@@ -252,6 +252,10 @@
   background-image: url("icons/classic/cr2.svg");
 }
 
+.fiv-cla.fiv-icon-crdownload {
+  background-image: url("icons/classic/crdownload.svg");
+}
+
 .fiv-cla.fiv-icon-crt {
   background-image: url("icons/classic/crt.svg");
 }
@@ -350,6 +354,10 @@
 
 .fiv-cla.fiv-icon-dotx {
   background-image: url("icons/classic/dotx.svg");
+}
+
+.fiv-cla.fiv-icon-download {
+  background-image: url("icons/classic/download.svg");
 }
 
 .fiv-cla.fiv-icon-dpj {
