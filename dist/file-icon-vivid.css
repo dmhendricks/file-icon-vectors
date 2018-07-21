@@ -308,6 +308,10 @@
   background-image: url("icons/vivid/dist.svg");
 }
 
+.fiv-viv.fiv-icon-diz {
+  background-image: url("icons/vivid/diz.svg");
+}
+
 .fiv-viv.fiv-icon-dll {
   background-image: url("icons/vivid/dll.svg");
 }
@@ -470,6 +474,10 @@
 
 .fiv-viv.fiv-icon-iff {
   background-image: url("icons/vivid/iff.svg");
+}
+
+.fiv-viv.fiv-icon-ifo {
+  background-image: url("icons/vivid/ifo.svg");
 }
 
 .fiv-viv.fiv-icon-image {
@@ -718,6 +726,10 @@
 
 .fiv-viv.fiv-icon-nes {
   background-image: url("icons/vivid/nes.svg");
+}
+
+.fiv-viv.fiv-icon-nfo {
+  background-image: url("icons/vivid/nfo.svg");
 }
 
 .fiv-viv.fiv-icon-odb {

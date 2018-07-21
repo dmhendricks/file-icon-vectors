@@ -308,6 +308,10 @@
   background-image: url("icons/square-o/dist.svg");
 }
 
+.fiv-sqo.fiv-icon-diz {
+  background-image: url("icons/square-o/diz.svg");
+}
+
 .fiv-sqo.fiv-icon-dll {
   background-image: url("icons/square-o/dll.svg");
 }
@@ -470,6 +474,10 @@
 
 .fiv-sqo.fiv-icon-iff {
   background-image: url("icons/square-o/iff.svg");
+}
+
+.fiv-sqo.fiv-icon-ifo {
+  background-image: url("icons/square-o/ifo.svg");
 }
 
 .fiv-sqo.fiv-icon-image {
@@ -718,6 +726,10 @@
 
 .fiv-sqo.fiv-icon-nes {
   background-image: url("icons/square-o/nes.svg");
+}
+
+.fiv-sqo.fiv-icon-nfo {
+  background-image: url("icons/square-o/nfo.svg");
 }
 
 .fiv-sqo.fiv-icon-odb {
