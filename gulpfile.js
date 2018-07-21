@@ -3,7 +3,7 @@
  *
  * @author Daniel M. Hendricks
  * @license MIT
- * {@link https://github.com/dmhendricks/file-icon-vectors GitHub repo}
+ * {@link https://github.com/dmhendricks/file-icon-vectors GitHub repository}
  */
 
 var pkg           = require( './package.json' );
@@ -19,7 +19,7 @@ var notify        = require( 'gulp-notify' );
 const AUTOPREFIXER_BROWSERS = [ 'last 2 version', '> 1%', 'ie >= 9', 'ie_mob >= 10', 'ff >= 30', 'chrome >= 34', 'safari >= 7', 'opera >= 23', 'ios >= 7', 'android >= 4', 'bb >= 10' ];
 
 gulp.task( 'sassTask', function () {
-  gulp.src( [ './src/scss/file-icon-classic.scss', './src/scss/file-icon-vivid.scss', './src/scss/file-icon-square-o.scss' ] )
+  gulp.src( [ './src/scss/file-icon-classic.scss', './src/scss/file-icon-vivid.scss', './src/scss/file-icon-square-o.scss', './src/scss/file-icon-vectors.scss' ] )
     .pipe( sass( {
       outputStyle: 'expanded' } ) )
     .on( 'error', console.error.bind( console ) )
@@ -35,7 +35,6 @@ gulp.task( 'sassTask', function () {
 });
 
 gulp.task('default', [ 'sassTask' ], function(){
-  var icon_libs = [ './dist/icons/classic', './dist/icons/vivid', './dist/icons/square-o' ];
 
   gulp.watch( './src/scss/*.scss', [ 'sassTask' ] );
 
