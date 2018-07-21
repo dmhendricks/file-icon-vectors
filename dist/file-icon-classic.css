@@ -492,6 +492,10 @@
   background-image: url("icons/classic/iso.svg");
 }
 
+.fiv-cla.fiv-icon-j2 {
+  background-image: url("icons/classic/j2.svg");
+}
+
 .fiv-cla.fiv-icon-jar {
   background-image: url("icons/classic/jar.svg");
 }
@@ -562,6 +566,10 @@
 
 .fiv-cla.fiv-icon-lua {
   background-image: url("icons/classic/lua.svg");
+}
+
+.fiv-cla.fiv-icon-m {
+  background-image: url("icons/classic/m.svg");
 }
 
 .fiv-cla.fiv-icon-m2v {

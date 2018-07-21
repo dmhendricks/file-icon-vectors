@@ -492,6 +492,10 @@
   background-image: url("icons/vivid/iso.svg");
 }
 
+.fiv-viv.fiv-icon-j2 {
+  background-image: url("icons/vivid/j2.svg");
+}
+
 .fiv-viv.fiv-icon-jar {
   background-image: url("icons/vivid/jar.svg");
 }
@@ -562,6 +566,10 @@
 
 .fiv-viv.fiv-icon-lua {
   background-image: url("icons/vivid/lua.svg");
+}
+
+.fiv-viv.fiv-icon-m {
+  background-image: url("icons/vivid/m.svg");
 }
 
 .fiv-viv.fiv-icon-m2v {
