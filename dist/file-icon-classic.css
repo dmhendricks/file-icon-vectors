@@ -988,6 +988,10 @@
   background-image: url("icons/classic/sln.svg");
 }
 
+.fiv-cla.fiv-icon-sol {
+  background-image: url("icons/classic/sol.svg");
+}
+
 .fiv-cla.fiv-icon-sql {
   background-image: url("icons/classic/sql.svg");
 }
