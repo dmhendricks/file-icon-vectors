@@ -248,6 +248,10 @@
   background-image: url("icons/classic/cpp.svg");
 }
 
+.fiv-cla.fiv-icon-cptx {
+  background-image: url("icons/classic/cptx.svg");
+}
+
 .fiv-cla.fiv-icon-cr2 {
   background-image: url("icons/classic/cr2.svg");
 }

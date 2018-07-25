@@ -5,6 +5,7 @@ footer { margin-top: 2.5em; margin-bottom: 1.5em; padding-top: 1em; border-top: 
 .icon-desc { font-size: .85em; text-align: center; overflow: scroll; }
 
 #github { margin-top: .5em; max-width: 160px; }
+.ga-beacon { margin-top: .5em; }
 
 div.spacer-1 { height: 1em; }
 div.spacer-2 { height: 2em; }
