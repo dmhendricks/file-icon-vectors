@@ -384,6 +384,10 @@
   background-image: url("icons/vivid/dxf.svg");
 }
 
+.fiv-viv.fiv-icon-enc {
+  background-image: url("icons/vivid/enc.svg");
+}
+
 .fiv-viv.fiv-icon-eot {
   background-image: url("icons/vivid/eot.svg");
 }

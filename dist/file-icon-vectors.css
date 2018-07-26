@@ -384,6 +384,10 @@
   background-image: url("icons/classic/dxf.svg");
 }
 
+.fiv-cla.fiv-icon-enc {
+  background-image: url("icons/classic/enc.svg");
+}
+
 .fiv-cla.fiv-icon-eot {
   background-image: url("icons/classic/eot.svg");
 }
@@ -1659,6 +1663,10 @@
   background-image: url("icons/vivid/dxf.svg");
 }
 
+.fiv-viv.fiv-icon-enc {
+  background-image: url("icons/vivid/enc.svg");
+}
+
 .fiv-viv.fiv-icon-eot {
   background-image: url("icons/vivid/eot.svg");
 }
@@ -2932,6 +2940,10 @@
 
 .fiv-sqo.fiv-icon-dxf {
   background-image: url("icons/square-o/dxf.svg");
+}
+
+.fiv-sqo.fiv-icon-enc {
+  background-image: url("icons/square-o/enc.svg");
 }
 
 .fiv-sqo.fiv-icon-eot {

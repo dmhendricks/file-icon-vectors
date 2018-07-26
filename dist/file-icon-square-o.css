@@ -384,6 +384,10 @@
   background-image: url("icons/square-o/dxf.svg");
 }
 
+.fiv-sqo.fiv-icon-enc {
+  background-image: url("icons/square-o/enc.svg");
+}
+
 .fiv-sqo.fiv-icon-eot {
   background-image: url("icons/square-o/eot.svg");
 }
