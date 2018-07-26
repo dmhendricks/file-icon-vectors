@@ -1060,6 +1060,10 @@
   background-image: url("icons/square-o/tex.svg");
 }
 
+.fiv-sqo.fiv-icon-tfignore {
+  background-image: url("icons/square-o/tfignore.svg");
+}
+
 .fiv-sqo.fiv-icon-tga {
   background-image: url("icons/square-o/tga.svg");
 }

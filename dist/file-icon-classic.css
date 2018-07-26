@@ -1060,6 +1060,10 @@
   background-image: url("icons/classic/tex.svg");
 }
 
+.fiv-cla.fiv-icon-tfignore {
+  background-image: url("icons/classic/tfignore.svg");
+}
+
 .fiv-cla.fiv-icon-tga {
   background-image: url("icons/classic/tga.svg");
 }
