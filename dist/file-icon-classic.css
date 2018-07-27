@@ -1100,6 +1100,10 @@
   background-image: url("icons/classic/ttf.svg");
 }
 
+.fiv-cla.fiv-icon-twig {
+  background-image: url("icons/classic/twig.svg");
+}
+
 .fiv-cla.fiv-icon-txt {
   background-image: url("icons/classic/txt.svg");
 }

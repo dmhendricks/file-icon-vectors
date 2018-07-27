@@ -1100,6 +1100,10 @@
   background-image: url("icons/square-o/ttf.svg");
 }
 
+.fiv-sqo.fiv-icon-twig {
+  background-image: url("icons/square-o/twig.svg");
+}
+
 .fiv-sqo.fiv-icon-txt {
   background-image: url("icons/square-o/txt.svg");
 }

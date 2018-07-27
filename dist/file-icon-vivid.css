@@ -1100,6 +1100,10 @@
   background-image: url("icons/vivid/ttf.svg");
 }
 
+.fiv-viv.fiv-icon-twig {
+  background-image: url("icons/vivid/twig.svg");
+}
+
 .fiv-viv.fiv-icon-txt {
   background-image: url("icons/vivid/txt.svg");
 }

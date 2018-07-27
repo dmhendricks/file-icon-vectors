@@ -1100,6 +1100,10 @@
   background-image: url("icons/classic/ttf.svg");
 }
 
+.fiv-cla.fiv-icon-twig {
+  background-image: url("icons/classic/twig.svg");
+}
+
 .fiv-cla.fiv-icon-txt {
   background-image: url("icons/classic/txt.svg");
 }
@@ -2379,6 +2383,10 @@
   background-image: url("icons/vivid/ttf.svg");
 }
 
+.fiv-viv.fiv-icon-twig {
+  background-image: url("icons/vivid/twig.svg");
+}
+
 .fiv-viv.fiv-icon-txt {
   background-image: url("icons/vivid/txt.svg");
 }
@@ -3656,6 +3664,10 @@
 
 .fiv-sqo.fiv-icon-ttf {
   background-image: url("icons/square-o/ttf.svg");
+}
+
+.fiv-sqo.fiv-icon-twig {
+  background-image: url("icons/square-o/twig.svg");
 }
 
 .fiv-sqo.fiv-icon-txt {
