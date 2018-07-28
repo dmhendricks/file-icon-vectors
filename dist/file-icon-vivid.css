@@ -224,6 +224,18 @@
   background-image: url("icons/vivid/cer.svg");
 }
 
+.fiv-viv.fiv-icon-cfg {
+  background-image: url("icons/vivid/cfg.svg");
+}
+
+.fiv-viv.fiv-icon-cfm {
+  background-image: url("icons/vivid/cfm.svg");
+}
+
+.fiv-viv.fiv-icon-cfml {
+  background-image: url("icons/vivid/cfml.svg");
+}
+
 .fiv-viv.fiv-icon-class {
   background-image: url("icons/vivid/class.svg");
 }
@@ -462,6 +474,22 @@
 
 .fiv-viv.fiv-icon-h {
   background-image: url("icons/vivid/h.svg");
+}
+
+.fiv-viv.fiv-icon-handlebars {
+  background-image: url("icons/vivid/handlebars.svg");
+}
+
+.fiv-viv.fiv-icon-hbs {
+  background-image: url("icons/vivid/hbs.svg");
+}
+
+.fiv-viv.fiv-icon-hs {
+  background-image: url("icons/vivid/hs.svg");
+}
+
+.fiv-viv.fiv-icon-hsl {
+  background-image: url("icons/vivid/hsl.svg");
 }
 
 .fiv-viv.fiv-icon-htm {
@@ -748,6 +776,10 @@
   background-image: url("icons/vivid/nfo.svg");
 }
 
+.fiv-viv.fiv-icon-nix {
+  background-image: url("icons/vivid/nix.svg");
+}
+
 .fiv-viv.fiv-icon-odb {
   background-image: url("icons/vivid/odb.svg");
 }
@@ -974,6 +1006,10 @@
 
 .fiv-viv.fiv-icon-rtf {
   background-image: url("icons/vivid/rtf.svg");
+}
+
+.fiv-viv.fiv-icon-ru {
+  background-image: url("icons/vivid/ru.svg");
 }
 
 .fiv-viv.fiv-icon-rub {
