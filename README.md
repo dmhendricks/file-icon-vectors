@@ -67,9 +67,6 @@ For releases:
 ```html
 <link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@0.8.1/dist/file-icon-classic.min.css" />
 <link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@0.8.1/dist/file-icon-vivid.min.css" />
-
-<!-- Alternatively, you can load all sets: -->
-<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@0.8.1/dist/file-icon-vectors.min.css" />
 ```
 
 #### CDN: jsDelivr
@@ -79,9 +76,6 @@ Supports both HTTP and HTTPS.
 ```html
 <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors/dist/file-icon-classic.min.css" />
 <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors/dist/file-icon-vivid.min.css" />
-
-<!-- Alternatively, you can load all sets: -->
-<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors/dist/file-icon-vectors.min.css" />
 ```
 
 #### CDN: GitHack
