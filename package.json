@@ -9,16 +9,20 @@
     "icons",
     "vectors",
     "svg",
-    "css"
+    "css",
+    "sass",
+    "logo"
   ],
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^4.1",
+    "gulp": "^4.0",
+    "gulp-autoprefixer": "^4.1.0",
     "gulp-filter": "^5.1.0",
+    "gulp-imagemin": "^4.1.0",
     "gulp-line-ending-corrector": "^1.0.2",
-    "gulp-notify": "^3.2",
-    "gulp-rename": "^1.3.0",
-    "gulp-sass": "^3.2.1",
+    "gulp-cache": "^1.0.2",
+    "gulp-notify": "^3.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0",
     "gulp-uglifycss": "^1.1.0"
   },
   "repository": {
