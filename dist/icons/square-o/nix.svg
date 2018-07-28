@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><style type="text/css">  
-	.st0{fill:#FFFFFF;}
-	.st1{fill:#666666;}
-	.st2{fill:#666666;stroke:#666666;stroke-miterlimit:10;}
-</style><rect class="st0" width="100" height="100"/><path class="st1" d="M100 100H0V0h100V100zM9.7 90h80.7V10H9.7"/><polyline class="st2" points="69.4 28.6 69.4 34.1 21.5 34.1 21.5 28.6 "/><rect x="30.6" y="41" class="st2" width="47.9" height="5.6"/><rect x="21.5" y="53.4" class="st2" width="47.9" height="5.6"/><rect x="30.6" y="65.9" class="st2" width="47.9" height="5.6"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path fill="#fff" d="M0 0h100v100H0z"/><path d="M100 100H0V0h100v100zM9.7 90h80.7V10H9.7" fill="#666"/><path d="M69.4 28.6v5.5H21.5v-5.5M30.6 41h47.9v5.6H30.6zm-9.1 12.4h47.9V59H21.5zm9.1 12.5h47.9v5.6H30.6z" fill="#666" stroke="#666" stroke-miterlimit="10"/></svg>

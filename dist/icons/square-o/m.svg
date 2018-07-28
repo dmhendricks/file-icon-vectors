@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><style type="text/css">  
-	.st0{fill:#FFFFFF;}
-	.st1{fill:#666666;}
-	.st2{fill:#402281;stroke:#402281;stroke-width:1.25;stroke-miterlimit:10;}
-</style><rect class="st0" width="100" height="100"/><path class="st1" d="M100 100H0V0h100V100zM9.7 90h80.7V10H9.7"/><path class="st2" d="M22.4 28.8h8.2v4.8h-3.7v33.8h3.7v4.8h-8.2C22.4 72.2 22.4 28.8 22.4 28.8z"/><path class="st2" d="M37 30.4h5.7l5.7 18.2C49.2 50.7 50 54 50 54h0.1c0 0 0.7-3.2 1.5-5.4l5.7-18.2h5.7l2.3 36.8h-5.3l-1.3-20.6c-0.1-2.4 0-5.7 0-5.7h-0.1c0 0-0.9 3.6-1.6 5.7l-4.8 14.3h-4.7L43 46.6c-0.7-2.1-1.6-5.7-1.6-5.7h-0.1c0 0 0.1 3.3 0 5.7L40 67.2h-5.3L37 30.4z"/><path class="st2" d="M73 67.4V33.6h-3.7v-4.8h8.2v43.4h-8.2v-4.8C69.3 67.4 73 67.4 73 67.4z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path fill="#fff" d="M0 0h100v100H0z"/><path d="M100 100H0V0h100v100zM9.7 90h80.7V10H9.7" fill="#666"/><path d="M22.4 28.8h8.2v4.8h-3.7v33.8h3.7v4.8h-8.2V28.8zM37 30.4h5.7l5.7 18.2C49.2 50.7 50 54 50 54h.1s.7-3.2 1.5-5.4l5.7-18.2H63l2.3 36.8H60l-1.3-20.6c-.1-2.4 0-5.7 0-5.7h-.1s-.9 3.6-1.6 5.7l-4.8 14.3h-4.7L43 46.6c-.7-2.1-1.6-5.7-1.6-5.7h-.1s.1 3.3 0 5.7L40 67.2h-5.3L37 30.4zm36 37V33.6h-3.7v-4.8h8.2v43.4h-8.2v-4.8H73z" fill="#402281" stroke="#402281" stroke-width="1.25" stroke-miterlimit="10"/></svg>

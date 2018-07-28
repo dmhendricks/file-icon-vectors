@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><style type="text/css">  
-	.st0{fill:#FFFFFF;}
-	.st1{fill:#C11E07;}
-</style><rect class="st0" width="100" height="100"/><path class="st1" d="M100 100H0V0h100V100zM9.7 90h80.7V10H9.7"/><path d="M55.5 31.5v-2.8c0-3-2.5-5.5-5.5-5.5 -3 0-5.5 2.5-5.5 5.5v2.8h-22v41.3h55V31.5H55.5zM72 67.3H28V37h16.5v2.7h11V37H72V67.3z"/><circle cx="39" cy="48" r="2.8"/><path d="M39 53.5c-3 0-5.5 2.5-5.5 5.5v2.8h11V59C44.5 56 42 53.5 39 53.5z"/><rect x="52.8" y="45.2" width="13.8" height="5.5"/><rect x="52.8" y="56.3" width="13.8" height="5.5"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path fill="#fff" d="M0 0h100v100H0z"/><path d="M100 100H0V0h100v100zM9.7 90h80.7V10H9.7" fill="#c11e07"/><path d="M55.5 31.5v-2.8c0-3-2.5-5.5-5.5-5.5s-5.5 2.5-5.5 5.5v2.8h-22v41.3h55V31.5h-22zM72 67.3H28V37h16.5v2.7h11V37H72v30.3z"/><circle cx="39" cy="48" r="2.8"/><path d="M39 53.5c-3 0-5.5 2.5-5.5 5.5v2.8h11V59c0-3-2.5-5.5-5.5-5.5zm13.8-8.3h13.8v5.5H52.8zm0 11.1h13.8v5.5H52.8z"/></svg>
