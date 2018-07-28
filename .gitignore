@@ -4,10 +4,8 @@ node_modules
 *.log
 package-lock.json
 composer.lock
-
-# Dev Stuff
 dev/
 
 # Future Families
-dist/icons/distinct/
-dist/icons/round/
+dist/icons/dark/
+dist/icons/flat/
