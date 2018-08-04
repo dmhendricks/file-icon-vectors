@@ -1156,6 +1156,10 @@
   background-image: url("icons/square-o/vbproj.svg");
 }
 
+.fiv-sqo.fiv-icon-vbs {
+  background-image: url("icons/square-o/vbs.svg");
+}
+
 .fiv-sqo.fiv-icon-vcd {
   background-image: url("icons/square-o/vcd.svg");
 }

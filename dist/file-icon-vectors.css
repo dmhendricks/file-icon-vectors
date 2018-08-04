@@ -1156,6 +1156,10 @@
   background-image: url("icons/classic/vbproj.svg");
 }
 
+.fiv-cla.fiv-icon-vbs {
+  background-image: url("icons/classic/vbs.svg");
+}
+
 .fiv-cla.fiv-icon-vcd {
   background-image: url("icons/classic/vcd.svg");
 }
@@ -2475,6 +2479,10 @@
   background-image: url("icons/vivid/vbproj.svg");
 }
 
+.fiv-viv.fiv-icon-vbs {
+  background-image: url("icons/vivid/vbs.svg");
+}
+
 .fiv-viv.fiv-icon-vcd {
   background-image: url("icons/vivid/vcd.svg");
 }
@@ -3792,6 +3800,10 @@
 
 .fiv-sqo.fiv-icon-vbproj {
   background-image: url("icons/square-o/vbproj.svg");
+}
+
+.fiv-sqo.fiv-icon-vbs {
+  background-image: url("icons/square-o/vbs.svg");
 }
 
 .fiv-sqo.fiv-icon-vcd {

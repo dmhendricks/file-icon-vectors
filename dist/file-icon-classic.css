@@ -1156,6 +1156,10 @@
   background-image: url("icons/classic/vbproj.svg");
 }
 
+.fiv-cla.fiv-icon-vbs {
+  background-image: url("icons/classic/vbs.svg");
+}
+
 .fiv-cla.fiv-icon-vcd {
   background-image: url("icons/classic/vcd.svg");
 }

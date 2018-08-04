@@ -1156,6 +1156,10 @@
   background-image: url("icons/vivid/vbproj.svg");
 }
 
+.fiv-viv.fiv-icon-vbs {
+  background-image: url("icons/vivid/vbs.svg");
+}
+
 .fiv-viv.fiv-icon-vcd {
   background-image: url("icons/vivid/vcd.svg");
 }
