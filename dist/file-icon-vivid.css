@@ -56,6 +56,10 @@
   background-image: url("icons/vivid/aac.svg");
 }
 
+.fiv-viv.fiv-icon-ac {
+  background-image: url("icons/vivid/ac.svg");
+}
+
 .fiv-viv.fiv-icon-accdb {
   background-image: url("icons/vivid/accdb.svg");
 }
@@ -102,6 +106,10 @@
 
 .fiv-viv.fiv-icon-app {
   background-image: url("icons/vivid/app.svg");
+}
+
+.fiv-viv.fiv-icon-applescript {
+  background-image: url("icons/vivid/applescript.svg");
 }
 
 .fiv-viv.fiv-icon-asax {
@@ -186,6 +194,10 @@
 
 .fiv-viv.fiv-icon-bmp {
   background-image: url("icons/vivid/bmp.svg");
+}
+
+.fiv-viv.fiv-icon-bowerrc {
+  background-image: url("icons/vivid/bowerrc.svg");
 }
 
 .fiv-viv.fiv-icon-bpg {
@@ -400,6 +412,10 @@
   background-image: url("icons/vivid/dxf.svg");
 }
 
+.fiv-viv.fiv-icon-el {
+  background-image: url("icons/vivid/el.svg");
+}
+
 .fiv-viv.fiv-icon-enc {
   background-image: url("icons/vivid/enc.svg");
 }
@@ -608,12 +624,24 @@
   background-image: url("icons/vivid/kf8.svg");
 }
 
+.fiv-viv.fiv-icon-kmk {
+  background-image: url("icons/vivid/kmk.svg");
+}
+
 .fiv-viv.fiv-icon-ksh {
   background-image: url("icons/vivid/ksh.svg");
 }
 
+.fiv-viv.fiv-icon-kup {
+  background-image: url("icons/vivid/kup.svg");
+}
+
 .fiv-viv.fiv-icon-less {
   background-image: url("icons/vivid/less.svg");
+}
+
+.fiv-viv.fiv-icon-lex {
+  background-image: url("icons/vivid/lex.svg");
 }
 
 .fiv-viv.fiv-icon-licx {
@@ -704,6 +732,10 @@
   background-image: url("icons/vivid/midi.svg");
 }
 
+.fiv-viv.fiv-icon-mk {
+  background-image: url("icons/vivid/mk.svg");
+}
+
 .fiv-viv.fiv-icon-mkv {
   background-image: url("icons/vivid/mkv.svg");
 }
@@ -718,6 +750,10 @@
 
 .fiv-viv.fiv-icon-mobi {
   background-image: url("icons/vivid/mobi.svg");
+}
+
+.fiv-viv.fiv-icon-mod {
+  background-image: url("icons/vivid/mod.svg");
 }
 
 .fiv-viv.fiv-icon-mov {
@@ -822,6 +858,10 @@
 
 .fiv-viv.fiv-icon-ott {
   background-image: url("icons/vivid/ott.svg");
+}
+
+.fiv-viv.fiv-icon-ova {
+  background-image: url("icons/vivid/ova.svg");
 }
 
 .fiv-viv.fiv-icon-ovf {

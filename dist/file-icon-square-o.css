@@ -56,6 +56,10 @@
   background-image: url("icons/square-o/aac.svg");
 }
 
+.fiv-sqo.fiv-icon-ac {
+  background-image: url("icons/square-o/ac.svg");
+}
+
 .fiv-sqo.fiv-icon-accdb {
   background-image: url("icons/square-o/accdb.svg");
 }
@@ -102,6 +106,10 @@
 
 .fiv-sqo.fiv-icon-app {
   background-image: url("icons/square-o/app.svg");
+}
+
+.fiv-sqo.fiv-icon-applescript {
+  background-image: url("icons/square-o/applescript.svg");
 }
 
 .fiv-sqo.fiv-icon-asax {
@@ -186,6 +194,10 @@
 
 .fiv-sqo.fiv-icon-bmp {
   background-image: url("icons/square-o/bmp.svg");
+}
+
+.fiv-sqo.fiv-icon-bowerrc {
+  background-image: url("icons/square-o/bowerrc.svg");
 }
 
 .fiv-sqo.fiv-icon-bpg {
@@ -400,6 +412,10 @@
   background-image: url("icons/square-o/dxf.svg");
 }
 
+.fiv-sqo.fiv-icon-el {
+  background-image: url("icons/square-o/el.svg");
+}
+
 .fiv-sqo.fiv-icon-enc {
   background-image: url("icons/square-o/enc.svg");
 }
@@ -608,12 +624,24 @@
   background-image: url("icons/square-o/kf8.svg");
 }
 
+.fiv-sqo.fiv-icon-kmk {
+  background-image: url("icons/square-o/kmk.svg");
+}
+
 .fiv-sqo.fiv-icon-ksh {
   background-image: url("icons/square-o/ksh.svg");
 }
 
+.fiv-sqo.fiv-icon-kup {
+  background-image: url("icons/square-o/kup.svg");
+}
+
 .fiv-sqo.fiv-icon-less {
   background-image: url("icons/square-o/less.svg");
+}
+
+.fiv-sqo.fiv-icon-lex {
+  background-image: url("icons/square-o/lex.svg");
 }
 
 .fiv-sqo.fiv-icon-licx {
@@ -704,6 +732,10 @@
   background-image: url("icons/square-o/midi.svg");
 }
 
+.fiv-sqo.fiv-icon-mk {
+  background-image: url("icons/square-o/mk.svg");
+}
+
 .fiv-sqo.fiv-icon-mkv {
   background-image: url("icons/square-o/mkv.svg");
 }
@@ -718,6 +750,10 @@
 
 .fiv-sqo.fiv-icon-mobi {
   background-image: url("icons/square-o/mobi.svg");
+}
+
+.fiv-sqo.fiv-icon-mod {
+  background-image: url("icons/square-o/mod.svg");
 }
 
 .fiv-sqo.fiv-icon-mov {
@@ -822,6 +858,10 @@
 
 .fiv-sqo.fiv-icon-ott {
   background-image: url("icons/square-o/ott.svg");
+}
+
+.fiv-sqo.fiv-icon-ova {
+  background-image: url("icons/square-o/ova.svg");
 }
 
 .fiv-sqo.fiv-icon-ovf {

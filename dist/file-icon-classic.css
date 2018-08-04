@@ -56,6 +56,10 @@
   background-image: url("icons/classic/aac.svg");
 }
 
+.fiv-cla.fiv-icon-ac {
+  background-image: url("icons/classic/ac.svg");
+}
+
 .fiv-cla.fiv-icon-accdb {
   background-image: url("icons/classic/accdb.svg");
 }
@@ -102,6 +106,10 @@
 
 .fiv-cla.fiv-icon-app {
   background-image: url("icons/classic/app.svg");
+}
+
+.fiv-cla.fiv-icon-applescript {
+  background-image: url("icons/classic/applescript.svg");
 }
 
 .fiv-cla.fiv-icon-asax {
@@ -186,6 +194,10 @@
 
 .fiv-cla.fiv-icon-bmp {
   background-image: url("icons/classic/bmp.svg");
+}
+
+.fiv-cla.fiv-icon-bowerrc {
+  background-image: url("icons/classic/bowerrc.svg");
 }
 
 .fiv-cla.fiv-icon-bpg {
@@ -400,6 +412,10 @@
   background-image: url("icons/classic/dxf.svg");
 }
 
+.fiv-cla.fiv-icon-el {
+  background-image: url("icons/classic/el.svg");
+}
+
 .fiv-cla.fiv-icon-enc {
   background-image: url("icons/classic/enc.svg");
 }
@@ -608,12 +624,24 @@
   background-image: url("icons/classic/kf8.svg");
 }
 
+.fiv-cla.fiv-icon-kmk {
+  background-image: url("icons/classic/kmk.svg");
+}
+
 .fiv-cla.fiv-icon-ksh {
   background-image: url("icons/classic/ksh.svg");
 }
 
+.fiv-cla.fiv-icon-kup {
+  background-image: url("icons/classic/kup.svg");
+}
+
 .fiv-cla.fiv-icon-less {
   background-image: url("icons/classic/less.svg");
+}
+
+.fiv-cla.fiv-icon-lex {
+  background-image: url("icons/classic/lex.svg");
 }
 
 .fiv-cla.fiv-icon-licx {
@@ -704,6 +732,10 @@
   background-image: url("icons/classic/midi.svg");
 }
 
+.fiv-cla.fiv-icon-mk {
+  background-image: url("icons/classic/mk.svg");
+}
+
 .fiv-cla.fiv-icon-mkv {
   background-image: url("icons/classic/mkv.svg");
 }
@@ -718,6 +750,10 @@
 
 .fiv-cla.fiv-icon-mobi {
   background-image: url("icons/classic/mobi.svg");
+}
+
+.fiv-cla.fiv-icon-mod {
+  background-image: url("icons/classic/mod.svg");
 }
 
 .fiv-cla.fiv-icon-mov {
@@ -822,6 +858,10 @@
 
 .fiv-cla.fiv-icon-ott {
   background-image: url("icons/classic/ott.svg");
+}
+
+.fiv-cla.fiv-icon-ova {
+  background-image: url("icons/classic/ova.svg");
 }
 
 .fiv-cla.fiv-icon-ovf {

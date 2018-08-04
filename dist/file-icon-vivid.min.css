@@ -14,6 +14,7 @@
 .fiv-viv.fiv-icon-7z{background-image:url("icons/vivid/7z.svg")}
 .fiv-viv.fiv-icon-aa{background-image:url("icons/vivid/aa.svg")}
 .fiv-viv.fiv-icon-aac{background-image:url("icons/vivid/aac.svg")}
+.fiv-viv.fiv-icon-ac{background-image:url("icons/vivid/ac.svg")}
 .fiv-viv.fiv-icon-accdb{background-image:url("icons/vivid/accdb.svg")}
 .fiv-viv.fiv-icon-accdt{background-image:url("icons/vivid/accdt.svg")}
 .fiv-viv.fiv-icon-adn{background-image:url("icons/vivid/adn.svg")}
@@ -26,6 +27,7 @@
 .fiv-viv.fiv-icon-ani{background-image:url("icons/vivid/ani.svg")}
 .fiv-viv.fiv-icon-apk{background-image:url("icons/vivid/apk.svg")}
 .fiv-viv.fiv-icon-app{background-image:url("icons/vivid/app.svg")}
+.fiv-viv.fiv-icon-applescript{background-image:url("icons/vivid/applescript.svg")}
 .fiv-viv.fiv-icon-asax{background-image:url("icons/vivid/asax.svg")}
 .fiv-viv.fiv-icon-asc{background-image:url("icons/vivid/asc.svg")}
 .fiv-viv.fiv-icon-ascx{background-image:url("icons/vivid/ascx.svg")}
@@ -47,6 +49,7 @@
 .fiv-viv.fiv-icon-bin{background-image:url("icons/vivid/bin.svg")}
 .fiv-viv.fiv-icon-blank{background-image:url("icons/vivid/blank.svg")}
 .fiv-viv.fiv-icon-bmp{background-image:url("icons/vivid/bmp.svg")}
+.fiv-viv.fiv-icon-bowerrc{background-image:url("icons/vivid/bowerrc.svg")}
 .fiv-viv.fiv-icon-bpg{background-image:url("icons/vivid/bpg.svg")}
 .fiv-viv.fiv-icon-browser{background-image:url("icons/vivid/browser.svg")}
 .fiv-viv.fiv-icon-bz2{background-image:url("icons/vivid/bz2.svg")}
@@ -100,6 +103,7 @@
 .fiv-viv.fiv-icon-dtd{background-image:url("icons/vivid/dtd.svg")}
 .fiv-viv.fiv-icon-dwg{background-image:url("icons/vivid/dwg.svg")}
 .fiv-viv.fiv-icon-dxf{background-image:url("icons/vivid/dxf.svg")}
+.fiv-viv.fiv-icon-el{background-image:url("icons/vivid/el.svg")}
 .fiv-viv.fiv-icon-enc{background-image:url("icons/vivid/enc.svg")}
 .fiv-viv.fiv-icon-eot{background-image:url("icons/vivid/eot.svg")}
 .fiv-viv.fiv-icon-eps{background-image:url("icons/vivid/eps.svg")}
@@ -152,8 +156,11 @@
 .fiv-viv.fiv-icon-jsx{background-image:url("icons/vivid/jsx.svg")}
 .fiv-viv.fiv-icon-key{background-image:url("icons/vivid/key.svg")}
 .fiv-viv.fiv-icon-kf8{background-image:url("icons/vivid/kf8.svg")}
+.fiv-viv.fiv-icon-kmk{background-image:url("icons/vivid/kmk.svg")}
 .fiv-viv.fiv-icon-ksh{background-image:url("icons/vivid/ksh.svg")}
+.fiv-viv.fiv-icon-kup{background-image:url("icons/vivid/kup.svg")}
 .fiv-viv.fiv-icon-less{background-image:url("icons/vivid/less.svg")}
+.fiv-viv.fiv-icon-lex{background-image:url("icons/vivid/lex.svg")}
 .fiv-viv.fiv-icon-licx{background-image:url("icons/vivid/licx.svg")}
 .fiv-viv.fiv-icon-lisp{background-image:url("icons/vivid/lisp.svg")}
 .fiv-viv.fiv-icon-lit{background-image:url("icons/vivid/lit.svg")}
@@ -176,10 +183,12 @@
 .fiv-viv.fiv-icon-mi{background-image:url("icons/vivid/mi.svg")}
 .fiv-viv.fiv-icon-mid{background-image:url("icons/vivid/mid.svg")}
 .fiv-viv.fiv-icon-midi{background-image:url("icons/vivid/midi.svg")}
+.fiv-viv.fiv-icon-mk{background-image:url("icons/vivid/mk.svg")}
 .fiv-viv.fiv-icon-mkv{background-image:url("icons/vivid/mkv.svg")}
 .fiv-viv.fiv-icon-mm{background-image:url("icons/vivid/mm.svg")}
 .fiv-viv.fiv-icon-mo{background-image:url("icons/vivid/mo.svg")}
 .fiv-viv.fiv-icon-mobi{background-image:url("icons/vivid/mobi.svg")}
+.fiv-viv.fiv-icon-mod{background-image:url("icons/vivid/mod.svg")}
 .fiv-viv.fiv-icon-mov{background-image:url("icons/vivid/mov.svg")}
 .fiv-viv.fiv-icon-mp2{background-image:url("icons/vivid/mp2.svg")}
 .fiv-viv.fiv-icon-mp3{background-image:url("icons/vivid/mp3.svg")}
@@ -206,6 +215,7 @@
 .fiv-viv.fiv-icon-ost{background-image:url("icons/vivid/ost.svg")}
 .fiv-viv.fiv-icon-otf{background-image:url("icons/vivid/otf.svg")}
 .fiv-viv.fiv-icon-ott{background-image:url("icons/vivid/ott.svg")}
+.fiv-viv.fiv-icon-ova{background-image:url("icons/vivid/ova.svg")}
 .fiv-viv.fiv-icon-ovf{background-image:url("icons/vivid/ovf.svg")}
 .fiv-viv.fiv-icon-p12{background-image:url("icons/vivid/p12.svg")}
 .fiv-viv.fiv-icon-p7b{background-image:url("icons/vivid/p7b.svg")}
