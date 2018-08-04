@@ -244,6 +244,10 @@
   background-image: url("icons/classic/cmd.svg");
 }
 
+.fiv-cla.fiv-icon-codekit {
+  background-image: url("icons/classic/codekit.svg");
+}
+
 .fiv-cla.fiv-icon-com {
   background-image: url("icons/classic/com.svg");
 }
@@ -504,6 +508,10 @@
   background-image: url("icons/classic/ibooks.svg");
 }
 
+.fiv-cla.fiv-icon-icns {
+  background-image: url("icons/classic/icns.svg");
+}
+
 .fiv-cla.fiv-icon-ico {
   background-image: url("icons/classic/ico.svg");
 }
@@ -530,6 +538,10 @@
 
 .fiv-cla.fiv-icon-img {
   background-image: url("icons/classic/img.svg");
+}
+
+.fiv-cla.fiv-icon-in {
+  background-image: url("icons/classic/in.svg");
 }
 
 .fiv-cla.fiv-icon-indd {
