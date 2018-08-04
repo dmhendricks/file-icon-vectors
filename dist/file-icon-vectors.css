@@ -268,6 +268,10 @@
   background-image: url("icons/classic/compile.svg");
 }
 
+.fiv-cla.fiv-icon-conf {
+  background-image: url("icons/classic/conf.svg");
+}
+
 .fiv-cla.fiv-icon-config {
   background-image: url("icons/classic/config.svg");
 }
@@ -412,6 +416,10 @@
   background-image: url("icons/classic/dxf.svg");
 }
 
+.fiv-cla.fiv-icon-editorconfig {
+  background-image: url("icons/classic/editorconfig.svg");
+}
+
 .fiv-cla.fiv-icon-el {
   background-image: url("icons/classic/el.svg");
 }
@@ -430,6 +438,10 @@
 
 .fiv-cla.fiv-icon-epub {
   background-image: url("icons/classic/epub.svg");
+}
+
+.fiv-cla.fiv-icon-eslintignore {
+  background-image: url("icons/classic/eslintignore.svg");
 }
 
 .fiv-cla.fiv-icon-exe {
@@ -468,12 +480,20 @@
   background-image: url("icons/classic/gadget.svg");
 }
 
+.fiv-cla.fiv-icon-gdp {
+  background-image: url("icons/classic/gdp.svg");
+}
+
 .fiv-cla.fiv-icon-gem {
   background-image: url("icons/classic/gem.svg");
 }
 
 .fiv-cla.fiv-icon-gif {
   background-image: url("icons/classic/gif.svg");
+}
+
+.fiv-cla.fiv-icon-gitattributes {
+  background-image: url("icons/classic/gitattributes.svg");
 }
 
 .fiv-cla.fiv-icon-gitignore {
@@ -502,6 +522,10 @@
 
 .fiv-cla.fiv-icon-hbs {
   background-image: url("icons/classic/hbs.svg");
+}
+
+.fiv-cla.fiv-icon-heic {
+  background-image: url("icons/classic/heic.svg");
 }
 
 .fiv-cla.fiv-icon-hs {
@@ -926,6 +950,10 @@
 
 .fiv-cla.fiv-icon-pl {
   background-image: url("icons/classic/pl.svg");
+}
+
+.fiv-cla.fiv-icon-plist {
+  background-image: url("icons/classic/plist.svg");
 }
 
 .fiv-cla.fiv-icon-pm {
@@ -1643,6 +1671,10 @@
   background-image: url("icons/vivid/compile.svg");
 }
 
+.fiv-viv.fiv-icon-conf {
+  background-image: url("icons/vivid/conf.svg");
+}
+
 .fiv-viv.fiv-icon-config {
   background-image: url("icons/vivid/config.svg");
 }
@@ -1787,6 +1819,10 @@
   background-image: url("icons/vivid/dxf.svg");
 }
 
+.fiv-viv.fiv-icon-editorconfig {
+  background-image: url("icons/vivid/editorconfig.svg");
+}
+
 .fiv-viv.fiv-icon-el {
   background-image: url("icons/vivid/el.svg");
 }
@@ -1805,6 +1841,10 @@
 
 .fiv-viv.fiv-icon-epub {
   background-image: url("icons/vivid/epub.svg");
+}
+
+.fiv-viv.fiv-icon-eslintignore {
+  background-image: url("icons/vivid/eslintignore.svg");
 }
 
 .fiv-viv.fiv-icon-exe {
@@ -1843,12 +1883,20 @@
   background-image: url("icons/vivid/gadget.svg");
 }
 
+.fiv-viv.fiv-icon-gdp {
+  background-image: url("icons/vivid/gdp.svg");
+}
+
 .fiv-viv.fiv-icon-gem {
   background-image: url("icons/vivid/gem.svg");
 }
 
 .fiv-viv.fiv-icon-gif {
   background-image: url("icons/vivid/gif.svg");
+}
+
+.fiv-viv.fiv-icon-gitattributes {
+  background-image: url("icons/vivid/gitattributes.svg");
 }
 
 .fiv-viv.fiv-icon-gitignore {
@@ -1877,6 +1925,10 @@
 
 .fiv-viv.fiv-icon-hbs {
   background-image: url("icons/vivid/hbs.svg");
+}
+
+.fiv-viv.fiv-icon-heic {
+  background-image: url("icons/vivid/heic.svg");
 }
 
 .fiv-viv.fiv-icon-hs {
@@ -2301,6 +2353,10 @@
 
 .fiv-viv.fiv-icon-pl {
   background-image: url("icons/vivid/pl.svg");
+}
+
+.fiv-viv.fiv-icon-plist {
+  background-image: url("icons/vivid/plist.svg");
 }
 
 .fiv-viv.fiv-icon-pm {
@@ -3018,6 +3074,10 @@
   background-image: url("icons/square-o/compile.svg");
 }
 
+.fiv-sqo.fiv-icon-conf {
+  background-image: url("icons/square-o/conf.svg");
+}
+
 .fiv-sqo.fiv-icon-config {
   background-image: url("icons/square-o/config.svg");
 }
@@ -3162,6 +3222,10 @@
   background-image: url("icons/square-o/dxf.svg");
 }
 
+.fiv-sqo.fiv-icon-editorconfig {
+  background-image: url("icons/square-o/editorconfig.svg");
+}
+
 .fiv-sqo.fiv-icon-el {
   background-image: url("icons/square-o/el.svg");
 }
@@ -3180,6 +3244,10 @@
 
 .fiv-sqo.fiv-icon-epub {
   background-image: url("icons/square-o/epub.svg");
+}
+
+.fiv-sqo.fiv-icon-eslintignore {
+  background-image: url("icons/square-o/eslintignore.svg");
 }
 
 .fiv-sqo.fiv-icon-exe {
@@ -3218,12 +3286,20 @@
   background-image: url("icons/square-o/gadget.svg");
 }
 
+.fiv-sqo.fiv-icon-gdp {
+  background-image: url("icons/square-o/gdp.svg");
+}
+
 .fiv-sqo.fiv-icon-gem {
   background-image: url("icons/square-o/gem.svg");
 }
 
 .fiv-sqo.fiv-icon-gif {
   background-image: url("icons/square-o/gif.svg");
+}
+
+.fiv-sqo.fiv-icon-gitattributes {
+  background-image: url("icons/square-o/gitattributes.svg");
 }
 
 .fiv-sqo.fiv-icon-gitignore {
@@ -3252,6 +3328,10 @@
 
 .fiv-sqo.fiv-icon-hbs {
   background-image: url("icons/square-o/hbs.svg");
+}
+
+.fiv-sqo.fiv-icon-heic {
+  background-image: url("icons/square-o/heic.svg");
 }
 
 .fiv-sqo.fiv-icon-hs {
@@ -3676,6 +3756,10 @@
 
 .fiv-sqo.fiv-icon-pl {
   background-image: url("icons/square-o/pl.svg");
+}
+
+.fiv-sqo.fiv-icon-plist {
+  background-image: url("icons/square-o/plist.svg");
 }
 
 .fiv-sqo.fiv-icon-pm {
