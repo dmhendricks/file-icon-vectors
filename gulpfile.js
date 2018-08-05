@@ -62,10 +62,8 @@ gulp.task(
 	'default',
 	gulp.parallel(
 		'styles',
-		'svgmin',
 		function watchFiles() {
 			gulp.watch( './assets/css/**/*.scss', gulp.parallel( 'styles' ) );
-			//gulp.watch( './dist/icons/**/*.svg', gulp.parallel( 'svgmin' ) );
 		}
 	)
 );

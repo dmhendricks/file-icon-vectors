@@ -24,8 +24,6 @@ Currently, there are three icon sets in the `dist/icons` directory:
 * **Vivid** - Inspired by [Erlen Masson](https://www.sketchappsources.com/svg-resource/1856-vector-file-type-icons-sketch-freebie-resource.html?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors)
 * **Square Outline** (in progress) - Modified from and inspired by [Cotne Nazarashvili](https://github.com/thecotne/square-file-icons)
 
-**NB!** The Square Outline collection will not be available via unpkg or jsDeliver until release.
-
 ### :pushpin: Demo: [View Icon Sets](https://rawcdn.githack.com/dmhendricks/file-icon-vectors/master/demo/)
 
 ## Installation
@@ -66,12 +64,12 @@ To display a file icon, simply link to one or all of the icon set CSS files in t
 For releases:
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@0.8.1/dist/file-icon-classic.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@0.8.1/dist/file-icon-square-o.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@0.8.1/dist/file-icon-vivid.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@1.0/dist/file-icon-classic.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@1.0/dist/file-icon-square-o.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@1.0/dist/file-icon-vivid.min.css" />
 
 <!-- Alternatively, you can load all sets: -->
-<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@0.8.1/dist/file-icon-vectors.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@1.0/dist/file-icon-vectors.min.css" />
 ```
 
 #### CDN: jsDelivr
@@ -79,12 +77,12 @@ For releases:
 Supports both HTTP and HTTPS.
 
 ```html
-<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors@0.8.1/dist/file-icon-classic.min.css" />
-<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors@0.8.1/dist/file-icon-square-o.min.css" />
-<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors@0.8.1/dist/file-icon-vivid.min.css" />
+<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors@1.0/dist/file-icon-classic.min.css" />
+<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors@1.0/dist/file-icon-square-o.min.css" />
+<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors@1.0/dist/file-icon-vivid.min.css" />
 
 <!-- Alternatively, you can load all sets: -->
-<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors@0.8.1/dist/file-icon-vectors.min.css" />
+<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors@1.0/dist/file-icon-vectors.min.css" />
 ```
 
 #### CDN: GitHack
@@ -105,7 +103,7 @@ Supports branches as endpoints (such as `master`).
 If you're using WordPress, you can load the icons by adding the following line to your theme's `functions.php` file:
 
 ```php
-wp_enqueue_style( 'file-icon-vectors', '//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors@0.8.1/dist/file-icon-vectors.min.css', null, null );
+wp_enqueue_style( 'file-icon-vectors', '//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors@1.0/dist/file-icon-vectors.min.css', null, null );
 ```
 
 ## Usage
@@ -152,11 +150,10 @@ Generic icons include `blank.svg`, `folder.svg`, `image.svg`.
 ## Special Thanks
 
 - [GitHack](https://raw.githack.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors), [unpkg](https://unpkg.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors) and [jsDelivr](https://www.jsdelivr.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors)
-- [The File Extensions Database](https://fileinfo.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors) by [Sharpened Productions](https://sharpened.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors)
+- [The File Extensions Database](https://fileinfo.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors) and [Share Icon](https://www.shareicon.net/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors)
 - [SVG Optimizer](https://github.com/svg/svgo/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors), [imagemin](https://github.com/imagemin/imagemin/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors) and [SVGOMG](https://jakearchibald.github.io/svgomg/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors)
 - [Gulp](https://gulpjs.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors) and [Sass](https://sass-lang.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors)
 - [Markdown Editor](https://jbt.github.io/markdown-editor/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors) by James Taylor
-
 
 Even though I'm paying for them, thanks also to [Adobe](https://www.adobe.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors), [The Noun Project](https://thenounproject.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors) and [FlatIcon](https://www.flaticon.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors) for providing great tools and services. :+1: :smile:
 
@@ -174,7 +171,8 @@ If you feel that you have a copyright issue, please feel free to [post it](https
 * [Apple](https://github.com/simple-icons/simple-icons/blob/develop/icons/apple.svg?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors) icon provided by [Simple Icons](https://simpleicons.org/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors)
 * [Adobe Flash](https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_flash.svg?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors) icon provided by [vscode-icons](https://github.com/vscode-icons/vscode-icons/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors)
 * [QuickTime](https://www.flaticon.com/free-icon/quicktime_732104?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors), [Chrome](https://www.flaticon.com/free-icon/chrome_732205?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors) and [Firefox](https://www.flaticon.com/free-icon/firefox_732023?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors) icons provided by [Pixel Perfect](https://www.flaticon.com/authors/pixel-perfect?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors) via [flaticon.com](https://www.flaticon.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors)
-* [.NET](https://github.com/konpa/devicon/blob/master/icons/dot-net/dot-net-original.svg?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors), [Git](https://github.com/konpa/devicon/blob/master/icons/git/git-plain.svg?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors) icons provided by [Devicon](http://konpa.github.io/devicon/)
+* [.NET](https://github.com/konpa/devicon/blob/master/icons/dot-net/dot-net-original.svg?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors), [CoffeeScript](https://github.com/konpa/devicon/blob/master/icons/coffeescript/coffeescript-original.svg?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors), [Git](https://github.com/konpa/devicon/blob/master/icons/git/git-plain.svg?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors) icons provided by [Devicon](http://konpa.github.io/devicon/)
+* [Nintendo Switch](https://www.flaticon.com/free-icon/nintendo-switch_871377?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors) icon provided by  [flaticon.com](https://www.flaticon.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors)
 * [BitTorrent](http://www.icons101.com/icon/id_73504/setid_2388/Minimalist_Black_Icons__WIP_by_noshery/bittorrent?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors) icon provided by [noshery](http://www.icons101.com/artist/id_2388/noshery) from [icons101.com](http://www.icons101.com/?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors)
 * [GIMP](https://icons8.com/icon/39867/gimp), [PowerShell](https://icons8.com/icon/59499/powershell), [C++](https://icons8.com/icon/55199/c%2B%2B-filled), [C#](https://icons8.com/icon/55205/c-sharp-logo-filled) provided by [Icons8 LLC](https://icons8.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors)
 * [Sass](https://www.onlinewebfonts.com/icon/411905), [Globe](https://www.onlinewebfonts.com/icon/336552) icons provided by [oNline Web Fonts](http://www.onlinewebfonts.com?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors)
