@@ -1112,6 +1112,10 @@
   background-image: url("icons/vivid/rm.svg");
 }
 
+.fiv-viv.fiv-icon-rom {
+  background-image: url("icons/vivid/rom.svg");
+}
+
 .fiv-viv.fiv-icon-rpm {
   background-image: url("icons/vivid/rpm.svg");
 }

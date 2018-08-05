@@ -1112,6 +1112,10 @@
   background-image: url("icons/classic/rm.svg");
 }
 
+.fiv-cla.fiv-icon-rom {
+  background-image: url("icons/classic/rom.svg");
+}
+
 .fiv-cla.fiv-icon-rpm {
   background-image: url("icons/classic/rpm.svg");
 }
@@ -2571,6 +2575,10 @@
   background-image: url("icons/vivid/rm.svg");
 }
 
+.fiv-viv.fiv-icon-rom {
+  background-image: url("icons/vivid/rom.svg");
+}
+
 .fiv-viv.fiv-icon-rpm {
   background-image: url("icons/vivid/rpm.svg");
 }
@@ -4028,6 +4036,10 @@
 
 .fiv-sqo.fiv-icon-rm {
   background-image: url("icons/square-o/rm.svg");
+}
+
+.fiv-sqo.fiv-icon-rom {
+  background-image: url("icons/square-o/rom.svg");
 }
 
 .fiv-sqo.fiv-icon-rpm {

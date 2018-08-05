@@ -1112,6 +1112,10 @@
   background-image: url("icons/square-o/rm.svg");
 }
 
+.fiv-sqo.fiv-icon-rom {
+  background-image: url("icons/square-o/rom.svg");
+}
+
 .fiv-sqo.fiv-icon-rpm {
   background-image: url("icons/square-o/rpm.svg");
 }
