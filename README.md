@@ -1,5 +1,5 @@
 [![Author](https://img.shields.io/badge/author-Daniel%20M.%20Hendricks-lightgrey.svg?colorB=9900cc )](https://www.danhendricks.com?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=dmhendricks%2Ffile-icon-vectors)
-![Icon Count](https://img.shields.io/badge/icon%20count-3x328-red.svg)
+![Icon Count](https://img.shields.io/badge/icon%20count-1092-red.svg)
 [![Release](https://img.shields.io/github/release/dmhendricks/file-icon-vectors.svg)](https://github.com/dmhendricks/file-icon-vectors/releases)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](https://raw.githubusercontent.com/dmhendricks/file-icon-vectors/master/LICENSE)
 [![GitHub Downloads](https://img.shields.io/packagist/dt/dmhendricks/file-icon-vectors.svg?label=GitHub%20downloads)](https://github.com/dmhendricks/file-icon-vectors/releases)
