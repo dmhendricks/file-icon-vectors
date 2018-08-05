@@ -248,6 +248,10 @@
   background-image: url("icons/classic/cfml.svg");
 }
 
+.fiv-cla.fiv-icon-cgi {
+  background-image: url("icons/classic/cgi.svg");
+}
+
 .fiv-cla.fiv-icon-class {
   background-image: url("icons/classic/class.svg");
 }
@@ -258,6 +262,14 @@
 
 .fiv-cla.fiv-icon-codekit {
   background-image: url("icons/classic/codekit.svg");
+}
+
+.fiv-cla.fiv-icon-coffee {
+  background-image: url("icons/classic/coffee.svg");
+}
+
+.fiv-cla.fiv-icon-coffeelintignore {
+  background-image: url("icons/classic/coffeelintignore.svg");
 }
 
 .fiv-cla.fiv-icon-com {
@@ -306,6 +318,10 @@
 
 .fiv-cla.fiv-icon-csh {
   background-image: url("icons/classic/csh.svg");
+}
+
+.fiv-cla.fiv-icon-cson {
+  background-image: url("icons/classic/cson.svg");
 }
 
 .fiv-cla.fiv-icon-csproj {
@@ -708,6 +724,10 @@
   background-image: url("icons/classic/m3u8.svg");
 }
 
+.fiv-cla.fiv-icon-m4 {
+  background-image: url("icons/classic/m4.svg");
+}
+
 .fiv-cla.fiv-icon-m4a {
   background-image: url("icons/classic/m4a.svg");
 }
@@ -850,6 +870,10 @@
 
 .fiv-cla.fiv-icon-nix {
   background-image: url("icons/classic/nix.svg");
+}
+
+.fiv-cla.fiv-icon-npmignore {
+  background-image: url("icons/classic/npmignore.svg");
 }
 
 .fiv-cla.fiv-icon-odb {
@@ -1084,6 +1108,10 @@
   background-image: url("icons/classic/rsa.svg");
 }
 
+.fiv-cla.fiv-icon-rss {
+  background-image: url("icons/classic/rss.svg");
+}
+
 .fiv-cla.fiv-icon-rtf {
   background-image: url("icons/classic/rtf.svg");
 }
@@ -1106,6 +1134,10 @@
 
 .fiv-cla.fiv-icon-sdf {
   background-image: url("icons/classic/sdf.svg");
+}
+
+.fiv-cla.fiv-icon-sed {
+  background-image: url("icons/classic/sed.svg");
 }
 
 .fiv-cla.fiv-icon-sh {
@@ -1198,6 +1230,10 @@
 
 .fiv-cla.fiv-icon-tiff {
   background-image: url("icons/classic/tiff.svg");
+}
+
+.fiv-cla.fiv-icon-tmp {
+  background-image: url("icons/classic/tmp.svg");
 }
 
 .fiv-cla.fiv-icon-torrent {
@@ -1330,6 +1366,10 @@
 
 .fiv-cla.fiv-icon-woff2 {
   background-image: url("icons/classic/woff2.svg");
+}
+
+.fiv-cla.fiv-icon-wps {
+  background-image: url("icons/classic/wps.svg");
 }
 
 .fiv-cla.fiv-icon-wsf {

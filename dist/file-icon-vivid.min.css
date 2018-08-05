@@ -62,9 +62,12 @@
 .fiv-viv.fiv-icon-cfg{background-image:url("icons/vivid/cfg.svg")}
 .fiv-viv.fiv-icon-cfm{background-image:url("icons/vivid/cfm.svg")}
 .fiv-viv.fiv-icon-cfml{background-image:url("icons/vivid/cfml.svg")}
+.fiv-viv.fiv-icon-cgi{background-image:url("icons/vivid/cgi.svg")}
 .fiv-viv.fiv-icon-class{background-image:url("icons/vivid/class.svg")}
 .fiv-viv.fiv-icon-cmd{background-image:url("icons/vivid/cmd.svg")}
 .fiv-viv.fiv-icon-codekit{background-image:url("icons/vivid/codekit.svg")}
+.fiv-viv.fiv-icon-coffee{background-image:url("icons/vivid/coffee.svg")}
+.fiv-viv.fiv-icon-coffeelintignore{background-image:url("icons/vivid/coffeelintignore.svg")}
 .fiv-viv.fiv-icon-com{background-image:url("icons/vivid/com.svg")}
 .fiv-viv.fiv-icon-compile{background-image:url("icons/vivid/compile.svg")}
 .fiv-viv.fiv-icon-conf{background-image:url("icons/vivid/conf.svg")}
@@ -77,6 +80,7 @@
 .fiv-viv.fiv-icon-crypt{background-image:url("icons/vivid/crypt.svg")}
 .fiv-viv.fiv-icon-cs{background-image:url("icons/vivid/cs.svg")}
 .fiv-viv.fiv-icon-csh{background-image:url("icons/vivid/csh.svg")}
+.fiv-viv.fiv-icon-cson{background-image:url("icons/vivid/cson.svg")}
 .fiv-viv.fiv-icon-csproj{background-image:url("icons/vivid/csproj.svg")}
 .fiv-viv.fiv-icon-css{background-image:url("icons/vivid/css.svg")}
 .fiv-viv.fiv-icon-csv{background-image:url("icons/vivid/csv.svg")}
@@ -177,6 +181,7 @@
 .fiv-viv.fiv-icon-m2v{background-image:url("icons/vivid/m2v.svg")}
 .fiv-viv.fiv-icon-m3u{background-image:url("icons/vivid/m3u.svg")}
 .fiv-viv.fiv-icon-m3u8{background-image:url("icons/vivid/m3u8.svg")}
+.fiv-viv.fiv-icon-m4{background-image:url("icons/vivid/m4.svg")}
 .fiv-viv.fiv-icon-m4a{background-image:url("icons/vivid/m4a.svg")}
 .fiv-viv.fiv-icon-m4r{background-image:url("icons/vivid/m4r.svg")}
 .fiv-viv.fiv-icon-m4v{background-image:url("icons/vivid/m4v.svg")}
@@ -213,6 +218,7 @@
 .fiv-viv.fiv-icon-nes{background-image:url("icons/vivid/nes.svg")}
 .fiv-viv.fiv-icon-nfo{background-image:url("icons/vivid/nfo.svg")}
 .fiv-viv.fiv-icon-nix{background-image:url("icons/vivid/nix.svg")}
+.fiv-viv.fiv-icon-npmignore{background-image:url("icons/vivid/npmignore.svg")}
 .fiv-viv.fiv-icon-odb{background-image:url("icons/vivid/odb.svg")}
 .fiv-viv.fiv-icon-ods{background-image:url("icons/vivid/ods.svg")}
 .fiv-viv.fiv-icon-odt{background-image:url("icons/vivid/odt.svg")}
@@ -271,12 +277,14 @@
 .fiv-viv.fiv-icon-rm{background-image:url("icons/vivid/rm.svg")}
 .fiv-viv.fiv-icon-rpm{background-image:url("icons/vivid/rpm.svg")}
 .fiv-viv.fiv-icon-rsa{background-image:url("icons/vivid/rsa.svg")}
+.fiv-viv.fiv-icon-rss{background-image:url("icons/vivid/rss.svg")}
 .fiv-viv.fiv-icon-rtf{background-image:url("icons/vivid/rtf.svg")}
 .fiv-viv.fiv-icon-ru{background-image:url("icons/vivid/ru.svg")}
 .fiv-viv.fiv-icon-rub{background-image:url("icons/vivid/rub.svg")}
 .fiv-viv.fiv-icon-sass{background-image:url("icons/vivid/sass.svg")}
 .fiv-viv.fiv-icon-scss{background-image:url("icons/vivid/scss.svg")}
 .fiv-viv.fiv-icon-sdf{background-image:url("icons/vivid/sdf.svg")}
+.fiv-viv.fiv-icon-sed{background-image:url("icons/vivid/sed.svg")}
 .fiv-viv.fiv-icon-sh{background-image:url("icons/vivid/sh.svg")}
 .fiv-viv.fiv-icon-sitemap{background-image:url("icons/vivid/sitemap.svg")}
 .fiv-viv.fiv-icon-skin{background-image:url("icons/vivid/skin.svg")}
@@ -300,6 +308,7 @@
 .fiv-viv.fiv-icon-tgz{background-image:url("icons/vivid/tgz.svg")}
 .fiv-viv.fiv-icon-tif{background-image:url("icons/vivid/tif.svg")}
 .fiv-viv.fiv-icon-tiff{background-image:url("icons/vivid/tiff.svg")}
+.fiv-viv.fiv-icon-tmp{background-image:url("icons/vivid/tmp.svg")}
 .fiv-viv.fiv-icon-torrent{background-image:url("icons/vivid/torrent.svg")}
 .fiv-viv.fiv-icon-ts{background-image:url("icons/vivid/ts.svg")}
 .fiv-viv.fiv-icon-tsv{background-image:url("icons/vivid/tsv.svg")}
@@ -333,6 +342,7 @@
 .fiv-viv.fiv-icon-wmv{background-image:url("icons/vivid/wmv.svg")}
 .fiv-viv.fiv-icon-woff{background-image:url("icons/vivid/woff.svg")}
 .fiv-viv.fiv-icon-woff2{background-image:url("icons/vivid/woff2.svg")}
+.fiv-viv.fiv-icon-wps{background-image:url("icons/vivid/wps.svg")}
 .fiv-viv.fiv-icon-wsf{background-image:url("icons/vivid/wsf.svg")}
 .fiv-viv.fiv-icon-xaml{background-image:url("icons/vivid/xaml.svg")}
 .fiv-viv.fiv-icon-xcf{background-image:url("icons/vivid/xcf.svg")}

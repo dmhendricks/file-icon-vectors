@@ -248,6 +248,10 @@
   background-image: url("icons/square-o/cfml.svg");
 }
 
+.fiv-sqo.fiv-icon-cgi {
+  background-image: url("icons/square-o/cgi.svg");
+}
+
 .fiv-sqo.fiv-icon-class {
   background-image: url("icons/square-o/class.svg");
 }
@@ -258,6 +262,14 @@
 
 .fiv-sqo.fiv-icon-codekit {
   background-image: url("icons/square-o/codekit.svg");
+}
+
+.fiv-sqo.fiv-icon-coffee {
+  background-image: url("icons/square-o/coffee.svg");
+}
+
+.fiv-sqo.fiv-icon-coffeelintignore {
+  background-image: url("icons/square-o/coffeelintignore.svg");
 }
 
 .fiv-sqo.fiv-icon-com {
@@ -306,6 +318,10 @@
 
 .fiv-sqo.fiv-icon-csh {
   background-image: url("icons/square-o/csh.svg");
+}
+
+.fiv-sqo.fiv-icon-cson {
+  background-image: url("icons/square-o/cson.svg");
 }
 
 .fiv-sqo.fiv-icon-csproj {
@@ -708,6 +724,10 @@
   background-image: url("icons/square-o/m3u8.svg");
 }
 
+.fiv-sqo.fiv-icon-m4 {
+  background-image: url("icons/square-o/m4.svg");
+}
+
 .fiv-sqo.fiv-icon-m4a {
   background-image: url("icons/square-o/m4a.svg");
 }
@@ -850,6 +870,10 @@
 
 .fiv-sqo.fiv-icon-nix {
   background-image: url("icons/square-o/nix.svg");
+}
+
+.fiv-sqo.fiv-icon-npmignore {
+  background-image: url("icons/square-o/npmignore.svg");
 }
 
 .fiv-sqo.fiv-icon-odb {
@@ -1084,6 +1108,10 @@
   background-image: url("icons/square-o/rsa.svg");
 }
 
+.fiv-sqo.fiv-icon-rss {
+  background-image: url("icons/square-o/rss.svg");
+}
+
 .fiv-sqo.fiv-icon-rtf {
   background-image: url("icons/square-o/rtf.svg");
 }
@@ -1106,6 +1134,10 @@
 
 .fiv-sqo.fiv-icon-sdf {
   background-image: url("icons/square-o/sdf.svg");
+}
+
+.fiv-sqo.fiv-icon-sed {
+  background-image: url("icons/square-o/sed.svg");
 }
 
 .fiv-sqo.fiv-icon-sh {
@@ -1198,6 +1230,10 @@
 
 .fiv-sqo.fiv-icon-tiff {
   background-image: url("icons/square-o/tiff.svg");
+}
+
+.fiv-sqo.fiv-icon-tmp {
+  background-image: url("icons/square-o/tmp.svg");
 }
 
 .fiv-sqo.fiv-icon-torrent {
@@ -1330,6 +1366,10 @@
 
 .fiv-sqo.fiv-icon-woff2 {
   background-image: url("icons/square-o/woff2.svg");
+}
+
+.fiv-sqo.fiv-icon-wps {
+  background-image: url("icons/square-o/wps.svg");
 }
 
 .fiv-sqo.fiv-icon-wsf {
