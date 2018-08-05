@@ -64,12 +64,12 @@ To display a file icon, simply link to one or all of the icon set CSS files in t
 For releases:
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@1.0/dist/file-icon-classic.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@1.0/dist/file-icon-square-o.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@1.0/dist/file-icon-vivid.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@1.0.0/dist/file-icon-classic.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@1.0.0/dist/file-icon-square-o.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@1.0.0/dist/file-icon-vivid.min.css" />
 
 <!-- Alternatively, you can load all sets: -->
-<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@1.0/dist/file-icon-vectors.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@1.0.0/dist/file-icon-vectors.min.css" />
 ```
 
 #### CDN: jsDelivr
