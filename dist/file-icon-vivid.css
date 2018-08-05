@@ -220,6 +220,10 @@
   background-image: url("icons/vivid/cab.svg");
 }
 
+.fiv-viv.fiv-icon-cad {
+  background-image: url("icons/vivid/cad.svg");
+}
+
 .fiv-viv.fiv-icon-caf {
   background-image: url("icons/vivid/caf.svg");
 }
@@ -696,6 +700,10 @@
   background-image: url("icons/vivid/lit.svg");
 }
 
+.fiv-viv.fiv-icon-lnk {
+  background-image: url("icons/vivid/lnk.svg");
+}
+
 .fiv-viv.fiv-icon-lock {
   background-image: url("icons/vivid/lock.svg");
 }
@@ -762,6 +770,10 @@
 
 .fiv-viv.fiv-icon-mdf {
   background-image: url("icons/vivid/mdf.svg");
+}
+
+.fiv-viv.fiv-icon-me {
+  background-image: url("icons/vivid/me.svg");
 }
 
 .fiv-viv.fiv-icon-mi {
@@ -1170,6 +1182,10 @@
 
 .fiv-viv.fiv-icon-sql {
   background-image: url("icons/vivid/sql.svg");
+}
+
+.fiv-viv.fiv-icon-sqlite {
+  background-image: url("icons/vivid/sqlite.svg");
 }
 
 .fiv-viv.fiv-icon-step {
