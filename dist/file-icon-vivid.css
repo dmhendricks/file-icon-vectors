@@ -348,6 +348,10 @@
   background-image: url("icons/vivid/dat.svg");
 }
 
+.fiv-viv.fiv-icon-data {
+  background-image: url("icons/vivid/data.svg");
+}
+
 .fiv-viv.fiv-icon-db {
   background-image: url("icons/vivid/db.svg");
 }
@@ -526,6 +530,10 @@
 
 .fiv-viv.fiv-icon-gpg {
   background-image: url("icons/vivid/gpg.svg");
+}
+
+.fiv-viv.fiv-icon-gradle {
+  background-image: url("icons/vivid/gradle.svg");
 }
 
 .fiv-viv.fiv-icon-gz {
@@ -1100,6 +1108,14 @@
   background-image: url("icons/vivid/rdf.svg");
 }
 
+.fiv-viv.fiv-icon-rdl {
+  background-image: url("icons/vivid/rdl.svg");
+}
+
+.fiv-viv.fiv-icon-reg {
+  background-image: url("icons/vivid/reg.svg");
+}
+
 .fiv-viv.fiv-icon-resx {
   background-image: url("icons/vivid/resx.svg");
 }
@@ -1256,8 +1272,16 @@
   background-image: url("icons/vivid/tmp.svg");
 }
 
+.fiv-viv.fiv-icon-tmx {
+  background-image: url("icons/vivid/tmx.svg");
+}
+
 .fiv-viv.fiv-icon-torrent {
   background-image: url("icons/vivid/torrent.svg");
+}
+
+.fiv-viv.fiv-icon-tpl {
+  background-image: url("icons/vivid/tpl.svg");
 }
 
 .fiv-viv.fiv-icon-ts {
