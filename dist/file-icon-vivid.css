@@ -68,6 +68,10 @@
   background-image: url("icons/vivid/accdt.svg");
 }
 
+.fiv-viv.fiv-icon-ace {
+  background-image: url("icons/vivid/ace.svg");
+}
+
 .fiv-viv.fiv-icon-adn {
   background-image: url("icons/vivid/adn.svg");
 }
@@ -342,6 +346,10 @@
 
 .fiv-viv.fiv-icon-cue {
   background-image: url("icons/vivid/cue.svg");
+}
+
+.fiv-viv.fiv-icon-cur {
+  background-image: url("icons/vivid/cur.svg");
 }
 
 .fiv-viv.fiv-icon-dat {
