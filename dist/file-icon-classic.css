@@ -140,6 +140,10 @@
   background-image: url("icons/classic/ashx.svg");
 }
 
+.fiv-cla.fiv-icon-asm {
+  background-image: url("icons/classic/asm.svg");
+}
+
 .fiv-cla.fiv-icon-asmx {
   background-image: url("icons/classic/asmx.svg");
 }
@@ -924,6 +928,10 @@
   background-image: url("icons/classic/npmignore.svg");
 }
 
+.fiv-cla.fiv-icon-ocx {
+  background-image: url("icons/classic/ocx.svg");
+}
+
 .fiv-cla.fiv-icon-odb {
   background-image: url("icons/classic/odb.svg");
 }
@@ -1206,6 +1214,10 @@
 
 .fiv-cla.fiv-icon-sh {
   background-image: url("icons/classic/sh.svg");
+}
+
+.fiv-cla.fiv-icon-sit {
+  background-image: url("icons/classic/sit.svg");
 }
 
 .fiv-cla.fiv-icon-sitemap {

@@ -140,6 +140,10 @@
   background-image: url("icons/vivid/ashx.svg");
 }
 
+.fiv-viv.fiv-icon-asm {
+  background-image: url("icons/vivid/asm.svg");
+}
+
 .fiv-viv.fiv-icon-asmx {
   background-image: url("icons/vivid/asmx.svg");
 }
@@ -924,6 +928,10 @@
   background-image: url("icons/vivid/npmignore.svg");
 }
 
+.fiv-viv.fiv-icon-ocx {
+  background-image: url("icons/vivid/ocx.svg");
+}
+
 .fiv-viv.fiv-icon-odb {
   background-image: url("icons/vivid/odb.svg");
 }
@@ -1206,6 +1214,10 @@
 
 .fiv-viv.fiv-icon-sh {
   background-image: url("icons/vivid/sh.svg");
+}
+
+.fiv-viv.fiv-icon-sit {
+  background-image: url("icons/vivid/sit.svg");
 }
 
 .fiv-viv.fiv-icon-sitemap {
