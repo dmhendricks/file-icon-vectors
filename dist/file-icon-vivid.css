@@ -504,8 +504,16 @@
   background-image: url("icons/vivid/flv.svg");
 }
 
+.fiv-viv.fiv-icon-fnt {
+  background-image: url("icons/vivid/fnt.svg");
+}
+
 .fiv-viv.fiv-icon-folder {
   background-image: url("icons/vivid/folder.svg");
+}
+
+.fiv-viv.fiv-icon-fon {
+  background-image: url("icons/vivid/fon.svg");
 }
 
 .fiv-viv.fiv-icon-gadget {
@@ -1330,6 +1338,10 @@
 
 .fiv-viv.fiv-icon-vcd {
   background-image: url("icons/vivid/vcd.svg");
+}
+
+.fiv-viv.fiv-icon-vcf {
+  background-image: url("icons/vivid/vcf.svg");
 }
 
 .fiv-viv.fiv-icon-vcs {
