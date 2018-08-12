@@ -244,6 +244,10 @@
   background-image: url("icons/classic/cd.svg");
 }
 
+.fiv-cla.fiv-icon-cdda {
+  background-image: url("icons/classic/cdda.svg");
+}
+
 .fiv-cla.fiv-icon-cer {
   background-image: url("icons/classic/cer.svg");
 }
@@ -274,6 +278,10 @@
 
 .fiv-cla.fiv-icon-cmd {
   background-image: url("icons/classic/cmd.svg");
+}
+
+.fiv-cla.fiv-icon-code-workspace {
+  background-image: url("icons/classic/code-workspace.svg");
 }
 
 .fiv-cla.fiv-icon-codekit {
@@ -1274,6 +1282,10 @@
 
 .fiv-cla.fiv-icon-swift {
   background-image: url("icons/classic/swift.svg");
+}
+
+.fiv-cla.fiv-icon-swp {
+  background-image: url("icons/classic/swp.svg");
 }
 
 .fiv-cla.fiv-icon-sys {
