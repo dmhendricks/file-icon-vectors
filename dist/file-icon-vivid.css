@@ -472,6 +472,10 @@
   background-image: url("icons/vivid/el.svg");
 }
 
+.fiv-viv.fiv-icon-elf {
+  background-image: url("icons/vivid/elf.svg");
+}
+
 .fiv-viv.fiv-icon-enc {
   background-image: url("icons/vivid/enc.svg");
 }
@@ -718,6 +722,14 @@
 
 .fiv-viv.fiv-icon-ksh {
   background-image: url("icons/vivid/ksh.svg");
+}
+
+.fiv-viv.fiv-icon-kt {
+  background-image: url("icons/vivid/kt.svg");
+}
+
+.fiv-viv.fiv-icon-kts {
+  background-image: url("icons/vivid/kts.svg");
 }
 
 .fiv-viv.fiv-icon-kup {
