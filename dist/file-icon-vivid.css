@@ -652,6 +652,10 @@
   background-image: url("icons/vivid/in.svg");
 }
 
+.fiv-viv.fiv-icon-inc {
+  background-image: url("icons/vivid/inc.svg");
+}
+
 .fiv-viv.fiv-icon-indd {
   background-image: url("icons/vivid/indd.svg");
 }
@@ -1202,6 +1206,10 @@
 
 .fiv-viv.fiv-icon-rss {
   background-image: url("icons/vivid/rss.svg");
+}
+
+.fiv-viv.fiv-icon-rst {
+  background-image: url("icons/vivid/rst.svg");
 }
 
 .fiv-viv.fiv-icon-rtf {
