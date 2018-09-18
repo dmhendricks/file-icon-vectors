@@ -182,4 +182,4 @@ If you feel that you have a copyright issue, please feel free to [post it](https
 
 ## Screenshot
 
-![Sample of Collections](https://rawcdn.githack.com/dmhendricks/file-icon-vectors/master/demo/images/screenshot.png "Screenshot Sample of Icon Sets")
+![Sample of Collections](https://dmhendricks.github.io/demo/file-icon-vectors/images/screenshot.png "Screenshot Sample of Icon Sets")
