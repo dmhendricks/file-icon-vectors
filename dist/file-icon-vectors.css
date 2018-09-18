@@ -648,6 +648,10 @@
   background-image: url("icons/classic/img.svg");
 }
 
+.fiv-cla.fiv-icon-iml {
+  background-image: url("icons/classic/iml.svg");
+}
+
 .fiv-cla.fiv-icon-in {
   background-image: url("icons/classic/in.svg");
 }
@@ -662,6 +666,10 @@
 
 .fiv-cla.fiv-icon-inf {
   background-image: url("icons/classic/inf.svg");
+}
+
+.fiv-cla.fiv-icon-info {
+  background-image: url("icons/classic/info.svg");
 }
 
 .fiv-cla.fiv-icon-ini {
@@ -2223,6 +2231,10 @@
   background-image: url("icons/vivid/img.svg");
 }
 
+.fiv-viv.fiv-icon-iml {
+  background-image: url("icons/vivid/iml.svg");
+}
+
 .fiv-viv.fiv-icon-in {
   background-image: url("icons/vivid/in.svg");
 }
@@ -2237,6 +2249,10 @@
 
 .fiv-viv.fiv-icon-inf {
   background-image: url("icons/vivid/inf.svg");
+}
+
+.fiv-viv.fiv-icon-info {
+  background-image: url("icons/vivid/info.svg");
 }
 
 .fiv-viv.fiv-icon-ini {
@@ -3798,6 +3814,10 @@
   background-image: url("icons/square-o/img.svg");
 }
 
+.fiv-sqo.fiv-icon-iml {
+  background-image: url("icons/square-o/iml.svg");
+}
+
 .fiv-sqo.fiv-icon-in {
   background-image: url("icons/square-o/in.svg");
 }
@@ -3812,6 +3832,10 @@
 
 .fiv-sqo.fiv-icon-inf {
   background-image: url("icons/square-o/inf.svg");
+}
+
+.fiv-sqo.fiv-icon-info {
+  background-image: url("icons/square-o/info.svg");
 }
 
 .fiv-sqo.fiv-icon-ini {

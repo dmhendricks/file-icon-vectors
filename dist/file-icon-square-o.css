@@ -648,6 +648,10 @@
   background-image: url("icons/square-o/img.svg");
 }
 
+.fiv-sqo.fiv-icon-iml {
+  background-image: url("icons/square-o/iml.svg");
+}
+
 .fiv-sqo.fiv-icon-in {
   background-image: url("icons/square-o/in.svg");
 }
@@ -662,6 +666,10 @@
 
 .fiv-sqo.fiv-icon-inf {
   background-image: url("icons/square-o/inf.svg");
+}
+
+.fiv-sqo.fiv-icon-info {
+  background-image: url("icons/square-o/info.svg");
 }
 
 .fiv-sqo.fiv-icon-ini {
