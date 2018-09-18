@@ -476,6 +476,10 @@
   background-image: url("icons/vivid/elf.svg");
 }
 
+.fiv-viv.fiv-icon-eml {
+  background-image: url("icons/vivid/eml.svg");
+}
+
 .fiv-viv.fiv-icon-enc {
   background-image: url("icons/vivid/enc.svg");
 }
@@ -930,6 +934,10 @@
 
 .fiv-viv.fiv-icon-mpt {
   background-image: url("icons/vivid/mpt.svg");
+}
+
+.fiv-viv.fiv-icon-msg {
+  background-image: url("icons/vivid/msg.svg");
 }
 
 .fiv-viv.fiv-icon-msi {

@@ -476,6 +476,10 @@
   background-image: url("icons/classic/elf.svg");
 }
 
+.fiv-cla.fiv-icon-eml {
+  background-image: url("icons/classic/eml.svg");
+}
+
 .fiv-cla.fiv-icon-enc {
   background-image: url("icons/classic/enc.svg");
 }
@@ -930,6 +934,10 @@
 
 .fiv-cla.fiv-icon-mpt {
   background-image: url("icons/classic/mpt.svg");
+}
+
+.fiv-cla.fiv-icon-msg {
+  background-image: url("icons/classic/msg.svg");
 }
 
 .fiv-cla.fiv-icon-msi {

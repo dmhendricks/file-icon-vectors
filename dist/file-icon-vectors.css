@@ -3,7 +3,18 @@
  * Copyright 2018 Daniel M. Hendricks (https://www.danhendricks.com)
  * Licensed under MIT (https://github.com/dmhendricks/file-icon-vectors/blob/master/LICENSE)
  */
-.fiv-background, .fiv-cla, .fiv-viv, .fiv-sqo {
+.fiv-background, .fiv-ext, .fiv-cla, .fiv-viv, .fiv-sqo, .fiv-drk {
+  background-size: contain;
+  background-position: 50%;
+  background-repeat: no-repeat;
+}
+
+/*!
+ * File Icon Vectors 1.0 (https://github.com/dmhendricks/file-icon-vectors)
+ * Copyright 2018 Daniel M. Hendricks (https://www.danhendricks.com)
+ * Licensed under MIT (https://github.com/dmhendricks/file-icon-vectors/blob/master/LICENSE)
+ */
+.fiv-background, .fiv-ext, .fiv-cla, .fiv-viv, .fiv-sqo, .fiv-drk {
   background-size: contain;
   background-position: 50%;
   background-repeat: no-repeat;
@@ -19,6 +30,25 @@
 
 .fiv-size-xl {
   font-size: 4.75em;
+}
+
+.fiv-ext {
+  position: relative;
+  display: inline-block;
+  line-height: 1em;
+  width: 1em;
+}
+
+.fiv-ext:before {
+  content: '\00a0';
+}
+
+.fiv-ext.fiv-icon-folder-closed {
+  background-image: url("icons/extra/folder-closed.svg");
+}
+
+.fiv-ext.fiv-icon-folder-open {
+  background-image: url("icons/extra/folder-open.svg");
 }
 
 .fiv-cla {
@@ -476,6 +506,10 @@
   background-image: url("icons/classic/elf.svg");
 }
 
+.fiv-cla.fiv-icon-eml {
+  background-image: url("icons/classic/eml.svg");
+}
+
 .fiv-cla.fiv-icon-enc {
   background-image: url("icons/classic/enc.svg");
 }
@@ -930,6 +964,10 @@
 
 .fiv-cla.fiv-icon-mpt {
   background-image: url("icons/classic/mpt.svg");
+}
+
+.fiv-cla.fiv-icon-msg {
+  background-image: url("icons/classic/msg.svg");
 }
 
 .fiv-cla.fiv-icon-msi {
@@ -2059,6 +2097,10 @@
   background-image: url("icons/vivid/elf.svg");
 }
 
+.fiv-viv.fiv-icon-eml {
+  background-image: url("icons/vivid/eml.svg");
+}
+
 .fiv-viv.fiv-icon-enc {
   background-image: url("icons/vivid/enc.svg");
 }
@@ -2513,6 +2555,10 @@
 
 .fiv-viv.fiv-icon-mpt {
   background-image: url("icons/vivid/mpt.svg");
+}
+
+.fiv-viv.fiv-icon-msg {
+  background-image: url("icons/vivid/msg.svg");
 }
 
 .fiv-viv.fiv-icon-msi {
@@ -3642,6 +3688,10 @@
   background-image: url("icons/square-o/elf.svg");
 }
 
+.fiv-sqo.fiv-icon-eml {
+  background-image: url("icons/square-o/eml.svg");
+}
+
 .fiv-sqo.fiv-icon-enc {
   background-image: url("icons/square-o/enc.svg");
 }
@@ -4096,6 +4146,10 @@
 
 .fiv-sqo.fiv-icon-mpt {
   background-image: url("icons/square-o/mpt.svg");
+}
+
+.fiv-sqo.fiv-icon-msg {
+  background-image: url("icons/square-o/msg.svg");
 }
 
 .fiv-sqo.fiv-icon-msi {
@@ -4768,4 +4822,38 @@
 
 .fiv-sqo.fiv-icon-zsh {
   background-image: url("icons/square-o/zsh.svg");
+}
+
+.fiv-drk {
+  position: relative;
+  display: inline-block;
+  line-height: 1em;
+  width: 1em;
+}
+
+.fiv-drk:before {
+  content: '\00a0';
+}
+
+.fiv-drk.fiv-icon-inc {
+  background-image: url("icons/dark/inc.svg");
+}
+
+.fiv-ext {
+  position: relative;
+  display: inline-block;
+  line-height: 1em;
+  width: 1em;
+}
+
+.fiv-ext:before {
+  content: '\00a0';
+}
+
+.fiv-ext.fiv-icon-folder-closed {
+  background-image: url("icons/extra/folder-closed.svg");
+}
+
+.fiv-ext.fiv-icon-folder-open {
+  background-image: url("icons/extra/folder-open.svg");
 }
