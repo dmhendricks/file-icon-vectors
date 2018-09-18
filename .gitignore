@@ -5,6 +5,7 @@ node_modules
 package-lock.json
 composer.lock
 dev/
+demo/
 
 # Future Families
 dist/icons/flat/
