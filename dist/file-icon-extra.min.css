@@ -10,7 +10,3 @@
 .fiv-ext:before{content:'\00a0'}
 .fiv-ext.fiv-icon-folder-closed{background-image:url("icons/extra/folder-closed.svg")}
 .fiv-ext.fiv-icon-folder-open{background-image:url("icons/extra/folder-open.svg")}
-.fiv-ext{position:relative;display:inline-block;line-height:1em;width:1em}
-.fiv-ext:before{content:'\00a0'}
-.fiv-ext.fiv-icon-folder-closed{background-image:url("icons/extra/folder-closed.svg")}
-.fiv-ext.fiv-icon-folder-open{background-image:url("icons/extra/folder-open.svg")}
