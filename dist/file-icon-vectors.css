@@ -4859,8 +4859,28 @@
   background-image: url("icons/high-contrast/aac.svg");
 }
 
+.fiv-hct.fiv-icon-ac {
+  background-image: url("icons/high-contrast/ac.svg");
+}
+
+.fiv-hct.fiv-icon-accdb {
+  background-image: url("icons/high-contrast/accdb.svg");
+}
+
+.fiv-hct.fiv-icon-accdt {
+  background-image: url("icons/high-contrast/accdt.svg");
+}
+
 .fiv-hct.fiv-icon-ace {
   background-image: url("icons/high-contrast/ace.svg");
+}
+
+.fiv-hct.fiv-icon-adn {
+  background-image: url("icons/high-contrast/adn.svg");
+}
+
+.fiv-hct.fiv-icon-ai {
+  background-image: url("icons/high-contrast/ai.svg");
 }
 
 .fiv-hct.fiv-icon-aif {
@@ -4873,6 +4893,10 @@
 
 .fiv-hct.fiv-icon-aiff {
   background-image: url("icons/high-contrast/aiff.svg");
+}
+
+.fiv-hct.fiv-icon-ait {
+  background-image: url("icons/high-contrast/ait.svg");
 }
 
 .fiv-hct.fiv-icon-amr {
@@ -5063,6 +5087,10 @@
   background-image: url("icons/high-contrast/md.svg");
 }
 
+.fiv-hct.fiv-icon-mdb {
+  background-image: url("icons/high-contrast/mdb.svg");
+}
+
 .fiv-hct.fiv-icon-me {
   background-image: url("icons/high-contrast/me.svg");
 }
@@ -5217,6 +5245,10 @@
 
 .fiv-hct.fiv-icon-sql {
   background-image: url("icons/high-contrast/sql.svg");
+}
+
+.fiv-hct.fiv-icon-sqlite {
+  background-image: url("icons/high-contrast/sqlite.svg");
 }
 
 .fiv-hct.fiv-icon-swift {
