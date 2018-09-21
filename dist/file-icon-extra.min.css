@@ -8,5 +8,8 @@
 .fiv-size-xl{font-size:4.75em}
 .fiv-ext{position:relative;display:inline-block;line-height:1em;width:1em}
 .fiv-ext:before{content:'\00a0'}
-.fiv-ext.fiv-icon-folder-closed{background-image:url("icons/extra/folder-closed.svg")}
+.fiv-ext.fiv-icon-folder-images{background-image:url("icons/extra/folder-images.svg")}
 .fiv-ext.fiv-icon-folder-open{background-image:url("icons/extra/folder-open.svg")}
+.fiv-ext.fiv-icon-folder-photos{background-image:url("icons/extra/folder-photos.svg")}
+.fiv-ext.fiv-icon-folder-tree{background-image:url("icons/extra/folder-tree.svg")}
+.fiv-ext.fiv-icon-folder{background-image:url("icons/extra/folder.svg")}

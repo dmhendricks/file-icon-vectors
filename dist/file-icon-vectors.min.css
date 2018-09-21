@@ -13,8 +13,11 @@
 .fiv-size-xl{font-size:4.75em}
 .fiv-ext{position:relative;display:inline-block;line-height:1em;width:1em}
 .fiv-ext:before{content:'\00a0'}
-.fiv-ext.fiv-icon-folder-closed{background-image:url("icons/extra/folder-closed.svg")}
+.fiv-ext.fiv-icon-folder-images{background-image:url("icons/extra/folder-images.svg")}
 .fiv-ext.fiv-icon-folder-open{background-image:url("icons/extra/folder-open.svg")}
+.fiv-ext.fiv-icon-folder-photos{background-image:url("icons/extra/folder-photos.svg")}
+.fiv-ext.fiv-icon-folder-tree{background-image:url("icons/extra/folder-tree.svg")}
+.fiv-ext.fiv-icon-folder{background-image:url("icons/extra/folder.svg")}
 .fiv-cla{position:relative;display:inline-block;line-height:1em;width:.72em}
 .fiv-cla:before{content:'\00a0'}
 .fiv-cla.fiv-icon-3g2{background-image:url("icons/classic/3g2.svg")}
@@ -1262,6 +1265,7 @@
 .fiv-hct.fiv-icon-flac{background-image:url("icons/high-contrast/flac.svg")}
 .fiv-hct.fiv-icon-gz{background-image:url("icons/high-contrast/gz.svg")}
 .fiv-hct.fiv-icon-heic{background-image:url("icons/high-contrast/heic.svg")}
+.fiv-hct.fiv-icon-idx{background-image:url("icons/high-contrast/idx.svg")}
 .fiv-hct.fiv-icon-iff{background-image:url("icons/high-contrast/iff.svg")}
 .fiv-hct.fiv-icon-image{background-image:url("icons/high-contrast/image.svg")}
 .fiv-hct.fiv-icon-inc{background-image:url("icons/high-contrast/inc.svg")}
@@ -1354,5 +1358,8 @@
 .fiv-hct.fiv-icon-zsh{background-image:url("icons/high-contrast/zsh.svg")}
 .fiv-ext{position:relative;display:inline-block;line-height:1em;width:1em}
 .fiv-ext:before{content:'\00a0'}
-.fiv-ext.fiv-icon-folder-closed{background-image:url("icons/extra/folder-closed.svg")}
+.fiv-ext.fiv-icon-folder-images{background-image:url("icons/extra/folder-images.svg")}
 .fiv-ext.fiv-icon-folder-open{background-image:url("icons/extra/folder-open.svg")}
+.fiv-ext.fiv-icon-folder-photos{background-image:url("icons/extra/folder-photos.svg")}
+.fiv-ext.fiv-icon-folder-tree{background-image:url("icons/extra/folder-tree.svg")}
+.fiv-ext.fiv-icon-folder{background-image:url("icons/extra/folder.svg")}

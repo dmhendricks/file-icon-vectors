@@ -248,6 +248,10 @@
   background-image: url("icons/high-contrast/heic.svg");
 }
 
+.fiv-hct.fiv-icon-idx {
+  background-image: url("icons/high-contrast/idx.svg");
+}
+
 .fiv-hct.fiv-icon-iff {
   background-image: url("icons/high-contrast/iff.svg");
 }
