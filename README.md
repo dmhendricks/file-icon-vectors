@@ -16,6 +16,8 @@ A collection of file type/extension SVG icons, available free for use in your ap
 * :bulb: If you have an idea, such as new icon requests, additional collections/designs, and/or are willing to contribute a library/design, please [let me know](https://github.com/dmhendricks/file-icon-vectors/issues)! My time is limited, but I will get to it eventually.
 * :star: If you use these icons to create something cool, [tell me](https://twitter.com/danielhendricks) about it!
 
+### :pushpin: Demo: [View Icons](https://fileicons.org/)
+
 ## Icon Sets
 
 Currently, there are three icon sets in the `dist/icons` directory:
@@ -23,8 +25,6 @@ Currently, there are three icon sets in the `dist/icons` directory:
 * **Classic** - An expansion of the Redboot [free-file-icons](https://github.com/redbooth/free-file-icons) designs.
 * **Vivid** - Inspired by [Erlen Masson](https://www.sketchappsources.com/svg-resource/1856-vector-file-type-icons-sketch-freebie-resource.html?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors)
 * **Square Outline** (in progress) - Modified from and inspired by [Cotne Nazarashvili](https://github.com/thecotne/square-file-icons)
-
-### :pushpin: Demo: [View Icons](https://fileicons.org/)
 
 ## Installation
 
