@@ -24,7 +24,7 @@ Currently, there are three icon sets in the `dist/icons` directory:
 * **Vivid** - Inspired by [Erlen Masson](https://www.sketchappsources.com/svg-resource/1856-vector-file-type-icons-sketch-freebie-resource.html?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors)
 * **Square Outline** (in progress) - Modified from and inspired by [Cotne Nazarashvili](https://github.com/thecotne/square-file-icons)
 
-### :pushpin: Demo: [View Icon Sets](https://unpkg.com/file-icon-vectors@1.0.0/demo/)
+### :pushpin: Demo: [View Icons](https://fileicons.org/)
 
 ## Installation
 
@@ -46,7 +46,7 @@ bower install file-icon-vectors
 composer require dmhendricks/file-icon-vectors
 ```
 
-## Linking Stylesheets
+## Quick Start
 
 To display a file icon, simply link to one or all of the icon set CSS files in the `css` directory:
 
@@ -59,9 +59,18 @@ To display a file icon, simply link to one or all of the icon set CSS files in t
 <link rel="stylesheet" href="dist/file-icon-vectors.min.css" />
 ```
 
-#### CDN: unpkg
+#### CDN: jsDelivr
 
-For releases:
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/file-icon-vectors@1.0.0/dist/file-icon-classic.min.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/file-icon-vectors@1.0.0/dist/file-icon-square-o.min.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/file-icon-vectors@1.0.0/dist/file-icon-vivid.min.css" />
+
+<!-- Alternatively, you can load all sets: -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/file-icon-vectors@1.0.0/dist/file-icon-vectors.min.css" />
+```
+
+#### CDN: unpkg
 
 ```html
 <link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@1.0.0/dist/file-icon-classic.min.css" />
@@ -70,19 +79,6 @@ For releases:
 
 <!-- Alternatively, you can load all sets: -->
 <link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@1.0.0/dist/file-icon-vectors.min.css" />
-```
-
-#### CDN: jsDelivr
-
-Supports both HTTP and HTTPS.
-
-```html
-<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors@1.0/dist/file-icon-classic.min.css" />
-<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors@1.0/dist/file-icon-square-o.min.css" />
-<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors@1.0/dist/file-icon-vivid.min.css" />
-
-<!-- Alternatively, you can load all sets: -->
-<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors@1.0/dist/file-icon-vectors.min.css" />
 ```
 
 #### CDN: GitHack
@@ -103,7 +99,7 @@ Supports branches as endpoints (such as `master`).
 If you're using WordPress, you can load the icons by adding the following line to your theme's `functions.php` file:
 
 ```php
-wp_enqueue_style( 'file-icon-vectors', '//cdn.jsdelivr.net/gh/dmhendricks/file-icon-vectors@1.0/dist/file-icon-vectors.min.css', null, null );
+wp_enqueue_style( 'file-icon-vectors', 'https://cdn.jsdelivr.net/npm/file-icon-vectors@1.0.0/file-icon-vectors.min.css', null, null );
 ```
 
 ## Usage
@@ -114,7 +110,7 @@ Each set has its own CSS prefix:
 - `viv` - Vivid
 - `sqo` - Square Outline
 
-**Examples:**
+The format for CSS classes is `fiv-[prefix]-[extension]`:
 
 ```html
 <span class="fiv-cla fiv-icon-ppt"></span>
@@ -124,8 +120,6 @@ Each set has its own CSS prefix:
 <span class="fiv-sqo fiv-icon-doc"></span>
 ```
 
-Notice that the classes contain either `flv-cla` for the Classic set, `flv-viv` for the Vivid set, etc.
-
 If you want to override the size of the icons, you can do so with CSS:
 
 ```html
@@ -134,7 +128,7 @@ If you want to override the size of the icons, you can do so with CSS:
 </style>
 ```
 
-If you prefer, you may also use `.fiv-size-md`, `.fiv-size-lg` and `.fiv-size-xl` to modify the icon sizes:
+Alternatively, you may also use `.fiv-size-md`, `.fiv-size-lg` and `.fiv-size-xl` to modify the icon sizes:
 
 ```html
 <span class="fiv-viv fiv-icon-pdf fiv-size-lg"></span>
@@ -157,13 +151,13 @@ Generic icons include `blank.svg`, `folder.svg`, `image.svg`.
 
 Even though I'm paying for them, thanks also to [Adobe](https://www.adobe.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors), [The Noun Project](https://thenounproject.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors), [FlatIcon](https://www.flaticon.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors) and [Icons8](https://icons8.com/?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors) for providing great tools and services. :+1: :smile:
 
-[![Analytics](https://ga-beacon.appspot.com/UA-67333102-2/dmhendricks/file-icon-vectors?flat)](https://ga-beacon.appspot.com/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors-demo)
+[![Analytics](https://ga-beacon.appspot.com/UA-126205765-1/dmhendricks/file-icon-vectors?flat)](https://ga-beacon.appspot.com/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=dmhendricks%2Ffile-icon-vectors)
 
 ## Legal Stuff
 
 All icons used in the creation of this library were licensed MIT, Creative Commons ([attribution](#attribution)) or purchased royalty-free. Any exceptions noted below. All logos are copyright their respective owners.
 
-If you feel that you have a copyright issue, please feel free to [post it](https://github.com/dmhendricks/file-icon-vectors/issues).
+If you feel that you have a copyright issue, please feel free to [report it](https://github.com/dmhendricks/file-icon-vectors/issues).
 
 ### Attribution
 
@@ -182,4 +176,4 @@ If you feel that you have a copyright issue, please feel free to [post it](https
 
 ## Screenshot
 
-![Sample of Collections](https://dmhendricks.github.io/demo/file-icon-vectors/images/screenshot.png "Screenshot Sample of Icon Sets")
+![Icon Samples](https://dmhendricks.github.io/demo/file-icon-vectors/assets/images/screenshot.png "Sample Icons")
