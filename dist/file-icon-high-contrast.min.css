@@ -9,7 +9,6 @@
 .fiv-hct{position:relative;display:inline-block;line-height:1em;width:1em}
 .fiv-hct:before{content:'\00a0'}
 .fiv-hct.fiv-icon-3g2{background-image:url("icons/high-contrast/3g2.svg")}
-.fiv-hct.fiv-icon-3ga copy{background-image:url("icons/high-contrast/3ga copy.svg")}
 .fiv-hct.fiv-icon-3gp{background-image:url("icons/high-contrast/3gp.svg")}
 .fiv-hct.fiv-icon-7z{background-image:url("icons/high-contrast/7z.svg")}
 .fiv-hct.fiv-icon-aa{background-image:url("icons/high-contrast/aa.svg")}
