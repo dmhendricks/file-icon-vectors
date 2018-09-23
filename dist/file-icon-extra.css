@@ -32,12 +32,32 @@
   content: '\00a0';
 }
 
+.fiv-ext.fiv-icon-folder-alt {
+  background-image: url("icons/extra/folder-alt.svg");
+}
+
+.fiv-ext.fiv-icon-folder-blue {
+  background-image: url("icons/extra/folder-blue.svg");
+}
+
+.fiv-ext.fiv-icon-folder-idea {
+  background-image: url("icons/extra/folder-idea.svg");
+}
+
 .fiv-ext.fiv-icon-folder-image {
   background-image: url("icons/extra/folder-image.svg");
 }
 
 .fiv-ext.fiv-icon-folder-lock {
   background-image: url("icons/extra/folder-lock.svg");
+}
+
+.fiv-ext.fiv-icon-folder-open-alt {
+  background-image: url("icons/extra/folder-open-alt.svg");
+}
+
+.fiv-ext.fiv-icon-folder-open-blue {
+  background-image: url("icons/extra/folder-open-blue.svg");
 }
 
 .fiv-ext.fiv-icon-folder-open {
