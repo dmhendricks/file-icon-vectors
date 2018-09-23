@@ -380,6 +380,14 @@
   background-image: url("icons/high-contrast/flac.svg");
 }
 
+.fiv-hct.fiv-icon-go {
+  background-image: url("icons/high-contrast/go.svg");
+}
+
+.fiv-hct.fiv-icon-gradle {
+  background-image: url("icons/high-contrast/gradle.svg");
+}
+
 .fiv-hct.fiv-icon-gz {
   background-image: url("icons/high-contrast/gz.svg");
 }
@@ -600,6 +608,14 @@
   background-image: url("icons/high-contrast/nes.svg");
 }
 
+.fiv-hct.fiv-icon-ods {
+  background-image: url("icons/high-contrast/ods.svg");
+}
+
+.fiv-hct.fiv-icon-odt {
+  background-image: url("icons/high-contrast/odt.svg");
+}
+
 .fiv-hct.fiv-icon-ogv {
   background-image: url("icons/high-contrast/ogv.svg");
 }
@@ -768,6 +784,10 @@
   background-image: url("icons/high-contrast/ts.svg");
 }
 
+.fiv-hct.fiv-icon-tsv {
+  background-image: url("icons/high-contrast/tsv.svg");
+}
+
 .fiv-hct.fiv-icon-txt {
   background-image: url("icons/high-contrast/txt.svg");
 }
@@ -786,6 +806,10 @@
 
 .fiv-hct.fiv-icon-wav {
   background-image: url("icons/high-contrast/wav.svg");
+}
+
+.fiv-hct.fiv-icon-webinfo {
+  background-image: url("icons/high-contrast/webinfo.svg");
 }
 
 .fiv-hct.fiv-icon-webm {
@@ -810,6 +834,34 @@
 
 .fiv-hct.fiv-icon-xaml {
   background-image: url("icons/high-contrast/xaml.svg");
+}
+
+.fiv-hct.fiv-icon-xlm {
+  background-image: url("icons/high-contrast/xlm.svg");
+}
+
+.fiv-hct.fiv-icon-xls {
+  background-image: url("icons/high-contrast/xls.svg");
+}
+
+.fiv-hct.fiv-icon-xlsm {
+  background-image: url("icons/high-contrast/xlsm.svg");
+}
+
+.fiv-hct.fiv-icon-xlsx {
+  background-image: url("icons/high-contrast/xlsx.svg");
+}
+
+.fiv-hct.fiv-icon-xlt {
+  background-image: url("icons/high-contrast/xlt.svg");
+}
+
+.fiv-hct.fiv-icon-xltm {
+  background-image: url("icons/high-contrast/xltm.svg");
+}
+
+.fiv-hct.fiv-icon-xltx {
+  background-image: url("icons/high-contrast/xltx.svg");
 }
 
 .fiv-hct.fiv-icon-xml {
