@@ -384,12 +384,20 @@
   background-image: url("icons/high-contrast/dpj.svg");
 }
 
+.fiv-hct.fiv-icon-dtd {
+  background-image: url("icons/high-contrast/dtd.svg");
+}
+
 .fiv-hct.fiv-icon-editorconfig {
   background-image: url("icons/high-contrast/editorconfig.svg");
 }
 
 .fiv-hct.fiv-icon-el {
   background-image: url("icons/high-contrast/el.svg");
+}
+
+.fiv-hct.fiv-icon-elf {
+  background-image: url("icons/high-contrast/elf.svg");
 }
 
 .fiv-hct.fiv-icon-eml {
@@ -998,6 +1006,10 @@
 
 .fiv-hct.fiv-icon-xrb {
   background-image: url("icons/high-contrast/xrb.svg");
+}
+
+.fiv-hct.fiv-icon-xsd {
+  background-image: url("icons/high-contrast/xsd.svg");
 }
 
 .fiv-hct.fiv-icon-xsl {
