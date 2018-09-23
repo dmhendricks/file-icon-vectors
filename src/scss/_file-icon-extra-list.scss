@@ -1,6 +1,7 @@
 @include file-family(ext, 1);
-@include file-icon(extra, ext, folder-images);
+@include file-icon(extra, ext, folder-image);
+@include file-icon(extra, ext, folder-lock);
 @include file-icon(extra, ext, folder-open);
-@include file-icon(extra, ext, folder-photos);
+@include file-icon(extra, ext, folder-photo);
 @include file-icon(extra, ext, folder-tree);
 @include file-icon(extra, ext, folder);

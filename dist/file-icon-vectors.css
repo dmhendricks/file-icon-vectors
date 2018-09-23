@@ -43,16 +43,20 @@
   content: '\00a0';
 }
 
-.fiv-ext.fiv-icon-folder-images {
-  background-image: url("icons/extra/folder-images.svg");
+.fiv-ext.fiv-icon-folder-image {
+  background-image: url("icons/extra/folder-image.svg");
+}
+
+.fiv-ext.fiv-icon-folder-lock {
+  background-image: url("icons/extra/folder-lock.svg");
 }
 
 .fiv-ext.fiv-icon-folder-open {
   background-image: url("icons/extra/folder-open.svg");
 }
 
-.fiv-ext.fiv-icon-folder-photos {
-  background-image: url("icons/extra/folder-photos.svg");
+.fiv-ext.fiv-icon-folder-photo {
+  background-image: url("icons/extra/folder-photo.svg");
 }
 
 .fiv-ext.fiv-icon-folder-tree {
@@ -5634,16 +5638,20 @@
   content: '\00a0';
 }
 
-.fiv-ext.fiv-icon-folder-images {
-  background-image: url("icons/extra/folder-images.svg");
+.fiv-ext.fiv-icon-folder-image {
+  background-image: url("icons/extra/folder-image.svg");
+}
+
+.fiv-ext.fiv-icon-folder-lock {
+  background-image: url("icons/extra/folder-lock.svg");
 }
 
 .fiv-ext.fiv-icon-folder-open {
   background-image: url("icons/extra/folder-open.svg");
 }
 
-.fiv-ext.fiv-icon-folder-photos {
-  background-image: url("icons/extra/folder-photos.svg");
+.fiv-ext.fiv-icon-folder-photo {
+  background-image: url("icons/extra/folder-photo.svg");
 }
 
 .fiv-ext.fiv-icon-folder-tree {
