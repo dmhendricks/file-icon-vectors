@@ -5047,6 +5047,10 @@
   background-image: url("icons/high-contrast/bash.svg");
 }
 
+.fiv-hct.fiv-icon-bat {
+  background-image: url("icons/high-contrast/bat.svg");
+}
+
 .fiv-hct.fiv-icon-bin {
   background-image: url("icons/high-contrast/bin.svg");
 }
@@ -5123,6 +5127,10 @@
   background-image: url("icons/high-contrast/class.svg");
 }
 
+.fiv-hct.fiv-icon-cmd {
+  background-image: url("icons/high-contrast/cmd.svg");
+}
+
 .fiv-hct.fiv-icon-code-workspace {
   background-image: url("icons/high-contrast/code-workspace.svg");
 }
@@ -5141,6 +5149,10 @@
 
 .fiv-hct.fiv-icon-coffeelintignore {
   background-image: url("icons/high-contrast/coffeelintignore.svg");
+}
+
+.fiv-hct.fiv-icon-com {
+  background-image: url("icons/high-contrast/com.svg");
 }
 
 .fiv-hct.fiv-icon-compile {
@@ -5379,8 +5391,16 @@
   background-image: url("icons/high-contrast/iff.svg");
 }
 
+.fiv-hct.fiv-icon-ifo {
+  background-image: url("icons/high-contrast/ifo.svg");
+}
+
 .fiv-hct.fiv-icon-image {
   background-image: url("icons/high-contrast/image.svg");
+}
+
+.fiv-hct.fiv-icon-img {
+  background-image: url("icons/high-contrast/img.svg");
 }
 
 .fiv-hct.fiv-icon-in {
@@ -5405,6 +5425,10 @@
 
 .fiv-hct.fiv-icon-ini {
   background-image: url("icons/high-contrast/ini.svg");
+}
+
+.fiv-hct.fiv-icon-iso {
+  background-image: url("icons/high-contrast/iso.svg");
 }
 
 .fiv-hct.fiv-icon-jar {
@@ -5819,6 +5843,10 @@
   background-image: url("icons/high-contrast/sln.svg");
 }
 
+.fiv-hct.fiv-icon-sol {
+  background-image: url("icons/high-contrast/sol.svg");
+}
+
 .fiv-hct.fiv-icon-sql {
   background-image: url("icons/high-contrast/sql.svg");
 }
@@ -5919,8 +5947,16 @@
   background-image: url("icons/high-contrast/vb.svg");
 }
 
+.fiv-hct.fiv-icon-vbproj {
+  background-image: url("icons/high-contrast/vbproj.svg");
+}
+
 .fiv-hct.fiv-icon-vbs {
   background-image: url("icons/high-contrast/vbs.svg");
+}
+
+.fiv-hct.fiv-icon-vcd {
+  background-image: url("icons/high-contrast/vcd.svg");
 }
 
 .fiv-hct.fiv-icon-vdx {
@@ -6001,6 +6037,10 @@
 
 .fiv-hct.fiv-icon-xaml {
   background-image: url("icons/high-contrast/xaml.svg");
+}
+
+.fiv-hct.fiv-icon-xcodeproj {
+  background-image: url("icons/high-contrast/xcodeproj.svg");
 }
 
 .fiv-hct.fiv-icon-xlm {
