@@ -99,6 +99,10 @@
   background-image: url("icons/extra/folder-tree.svg");
 }
 
+.fiv-ext.fiv-icon-folder-video {
+  background-image: url("icons/extra/folder-video.svg");
+}
+
 .fiv-ext.fiv-icon-folder {
   background-image: url("icons/extra/folder.svg");
 }
@@ -6040,6 +6044,10 @@
 
 .fiv-ext.fiv-icon-folder-tree {
   background-image: url("icons/extra/folder-tree.svg");
+}
+
+.fiv-ext.fiv-icon-folder-video {
+  background-image: url("icons/extra/folder-video.svg");
 }
 
 .fiv-ext.fiv-icon-folder {
