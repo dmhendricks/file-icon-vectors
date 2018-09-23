@@ -5059,6 +5059,18 @@
   background-image: url("icons/high-contrast/cfg.svg");
 }
 
+.fiv-hct.fiv-icon-cfm {
+  background-image: url("icons/high-contrast/cfm.svg");
+}
+
+.fiv-hct.fiv-icon-cfml {
+  background-image: url("icons/high-contrast/cfml.svg");
+}
+
+.fiv-hct.fiv-icon-cgi {
+  background-image: url("icons/high-contrast/cgi.svg");
+}
+
 .fiv-hct.fiv-icon-conf {
   background-image: url("icons/high-contrast/conf.svg");
 }
@@ -5103,6 +5115,10 @@
   background-image: url("icons/high-contrast/dbf.svg");
 }
 
+.fiv-hct.fiv-icon-deb {
+  background-image: url("icons/high-contrast/deb.svg");
+}
+
 .fiv-hct.fiv-icon-dist {
   background-image: url("icons/high-contrast/dist.svg");
 }
@@ -5137,6 +5153,10 @@
 
 .fiv-hct.fiv-icon-dotx {
   background-image: url("icons/high-contrast/dotx.svg");
+}
+
+.fiv-hct.fiv-icon-dpj {
+  background-image: url("icons/high-contrast/dpj.svg");
 }
 
 .fiv-hct.fiv-icon-eml {
