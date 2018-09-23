@@ -352,6 +352,10 @@
   background-image: url("icons/high-contrast/dll.svg");
 }
 
+.fiv-hct.fiv-icon-dmg {
+  background-image: url("icons/high-contrast/dmg.svg");
+}
+
 .fiv-hct.fiv-icon-dng {
   background-image: url("icons/high-contrast/dng.svg");
 }
@@ -908,6 +912,10 @@
   background-image: url("icons/high-contrast/skin.svg");
 }
 
+.fiv-hct.fiv-icon-sln {
+  background-image: url("icons/high-contrast/sln.svg");
+}
+
 .fiv-hct.fiv-icon-sql {
   background-image: url("icons/high-contrast/sql.svg");
 }
@@ -940,6 +948,10 @@
   background-image: url("icons/high-contrast/swift.svg");
 }
 
+.fiv-hct.fiv-icon-swp {
+  background-image: url("icons/high-contrast/swp.svg");
+}
+
 .fiv-hct.fiv-icon-tar {
   background-image: url("icons/high-contrast/tar.svg");
 }
@@ -968,6 +980,10 @@
   background-image: url("icons/high-contrast/tmx.svg");
 }
 
+.fiv-hct.fiv-icon-torrent {
+  background-image: url("icons/high-contrast/torrent.svg");
+}
+
 .fiv-hct.fiv-icon-tpl {
   background-image: url("icons/high-contrast/tpl.svg");
 }
@@ -980,6 +996,10 @@
   background-image: url("icons/high-contrast/tsv.svg");
 }
 
+.fiv-hct.fiv-icon-twig {
+  background-image: url("icons/high-contrast/twig.svg");
+}
+
 .fiv-hct.fiv-icon-txt {
   background-image: url("icons/high-contrast/txt.svg");
 }
@@ -988,12 +1008,40 @@
   background-image: url("icons/high-contrast/vb.svg");
 }
 
+.fiv-hct.fiv-icon-vbs {
+  background-image: url("icons/high-contrast/vbs.svg");
+}
+
+.fiv-hct.fiv-icon-vdx {
+  background-image: url("icons/high-contrast/vdx.svg");
+}
+
 .fiv-hct.fiv-icon-vob {
   background-image: url("icons/high-contrast/vob.svg");
 }
 
 .fiv-hct.fiv-icon-vscodeignore {
   background-image: url("icons/high-contrast/vscodeignore.svg");
+}
+
+.fiv-hct.fiv-icon-vsd {
+  background-image: url("icons/high-contrast/vsd.svg");
+}
+
+.fiv-hct.fiv-icon-vss {
+  background-image: url("icons/high-contrast/vss.svg");
+}
+
+.fiv-hct.fiv-icon-vst {
+  background-image: url("icons/high-contrast/vst.svg");
+}
+
+.fiv-hct.fiv-icon-vsx {
+  background-image: url("icons/high-contrast/vsx.svg");
+}
+
+.fiv-hct.fiv-icon-vtx {
+  background-image: url("icons/high-contrast/vtx.svg");
 }
 
 .fiv-hct.fiv-icon-war {
