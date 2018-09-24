@@ -5,6 +5,7 @@
   "license": "MIT",
   "ignore": [
     "**/.*",
+    "*.md",
     "demo",
     "src",
     "composer.json",

@@ -5,3 +5,6 @@ src/
 bower.json
 composer.json
 gulpfile.js
+
+# Repo files
+*.md
