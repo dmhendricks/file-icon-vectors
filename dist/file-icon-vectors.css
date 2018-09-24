@@ -5291,6 +5291,10 @@
   background-image: url("icons/high-contrast/dtd.svg");
 }
 
+.fiv-hct.fiv-icon-dxf {
+  background-image: url("icons/high-contrast/dxf.svg");
+}
+
 .fiv-hct.fiv-icon-editorconfig {
   background-image: url("icons/high-contrast/editorconfig.svg");
 }
@@ -5671,12 +5675,20 @@
   background-image: url("icons/high-contrast/ogv.svg");
 }
 
+.fiv-hct.fiv-icon-one {
+  background-image: url("icons/high-contrast/one.svg");
+}
+
 .fiv-hct.fiv-icon-p12 {
   background-image: url("icons/high-contrast/p12.svg");
 }
 
 .fiv-hct.fiv-icon-p7b {
   background-image: url("icons/high-contrast/p7b.svg");
+}
+
+.fiv-hct.fiv-icon-pbix {
+  background-image: url("icons/high-contrast/pbix.svg");
 }
 
 .fiv-hct.fiv-icon-pdb {
@@ -5841,6 +5853,10 @@
 
 .fiv-hct.fiv-icon-sit {
   background-image: url("icons/high-contrast/sit.svg");
+}
+
+.fiv-hct.fiv-icon-sketch {
+  background-image: url("icons/high-contrast/sketch.svg");
 }
 
 .fiv-hct.fiv-icon-skin {
