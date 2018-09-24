@@ -5103,6 +5103,10 @@
   background-image: url("icons/high-contrast/cd.svg");
 }
 
+.fiv-hct.fiv-icon-cdda {
+  background-image: url("icons/high-contrast/cdda.svg");
+}
+
 .fiv-hct.fiv-icon-cer {
   background-image: url("icons/high-contrast/cer.svg");
 }
@@ -5169,6 +5173,10 @@
 
 .fiv-hct.fiv-icon-cpp {
   background-image: url("icons/high-contrast/cpp.svg");
+}
+
+.fiv-hct.fiv-icon-cptx {
+  background-image: url("icons/high-contrast/cptx.svg");
 }
 
 .fiv-hct.fiv-icon-cr2 {
