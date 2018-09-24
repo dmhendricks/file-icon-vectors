@@ -268,6 +268,10 @@
   background-image: url("icons/high-contrast/cgi.svg");
 }
 
+.fiv-hct.fiv-icon-chm {
+  background-image: url("icons/high-contrast/chm.svg");
+}
+
 .fiv-hct.fiv-icon-class {
   background-image: url("icons/high-contrast/class.svg");
 }
@@ -428,8 +432,16 @@
   background-image: url("icons/high-contrast/dpj.svg");
 }
 
+.fiv-hct.fiv-icon-dst {
+  background-image: url("icons/high-contrast/dst.svg");
+}
+
 .fiv-hct.fiv-icon-dtd {
   background-image: url("icons/high-contrast/dtd.svg");
+}
+
+.fiv-hct.fiv-icon-dwg {
+  background-image: url("icons/high-contrast/dwg.svg");
 }
 
 .fiv-hct.fiv-icon-dxf {
@@ -518,6 +530,10 @@
 
 .fiv-hct.fiv-icon-heic {
   background-image: url("icons/high-contrast/heic.svg");
+}
+
+.fiv-hct.fiv-icon-hlp {
+  background-image: url("icons/high-contrast/hlp.svg");
 }
 
 .fiv-hct.fiv-icon-htm {
@@ -734,6 +750,10 @@
 
 .fiv-hct.fiv-icon-mkv {
   background-image: url("icons/high-contrast/mkv.svg");
+}
+
+.fiv-hct.fiv-icon-mm {
+  background-image: url("icons/high-contrast/mm.svg");
 }
 
 .fiv-hct.fiv-icon-mo {
@@ -972,6 +992,10 @@
   background-image: url("icons/high-contrast/rm.svg");
 }
 
+.fiv-hct.fiv-icon-rom {
+  background-image: url("icons/high-contrast/rom.svg");
+}
+
 .fiv-hct.fiv-icon-rpm {
   background-image: url("icons/high-contrast/rpm.svg");
 }
@@ -1002,6 +1026,10 @@
 
 .fiv-hct.fiv-icon-sesx {
   background-image: url("icons/high-contrast/sesx.svg");
+}
+
+.fiv-hct.fiv-icon-sh {
+  background-image: url("icons/high-contrast/sh.svg");
 }
 
 .fiv-hct.fiv-icon-sit {
@@ -1062,6 +1090,10 @@
 
 .fiv-hct.fiv-icon-tar {
   background-image: url("icons/high-contrast/tar.svg");
+}
+
+.fiv-hct.fiv-icon-tax {
+  background-image: url("icons/high-contrast/tax.svg");
 }
 
 .fiv-hct.fiv-icon-tex {
@@ -1230,6 +1262,10 @@
 
 .fiv-hct.fiv-icon-xlc {
   background-image: url("icons/high-contrast/xlc.svg");
+}
+
+.fiv-hct.fiv-icon-xlm {
+  background-image: url("icons/high-contrast/xlm.svg");
 }
 
 .fiv-hct.fiv-icon-xls {

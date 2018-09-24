@@ -1281,6 +1281,7 @@
 .fiv-hct.fiv-icon-cfm{background-image:url("icons/high-contrast/cfm.svg")}
 .fiv-hct.fiv-icon-cfml{background-image:url("icons/high-contrast/cfml.svg")}
 .fiv-hct.fiv-icon-cgi{background-image:url("icons/high-contrast/cgi.svg")}
+.fiv-hct.fiv-icon-chm{background-image:url("icons/high-contrast/chm.svg")}
 .fiv-hct.fiv-icon-class{background-image:url("icons/high-contrast/class.svg")}
 .fiv-hct.fiv-icon-cmd{background-image:url("icons/high-contrast/cmd.svg")}
 .fiv-hct.fiv-icon-code-workspace{background-image:url("icons/high-contrast/code-workspace.svg")}
@@ -1321,7 +1322,9 @@
 .fiv-hct.fiv-icon-dotm{background-image:url("icons/high-contrast/dotm.svg")}
 .fiv-hct.fiv-icon-dotx{background-image:url("icons/high-contrast/dotx.svg")}
 .fiv-hct.fiv-icon-dpj{background-image:url("icons/high-contrast/dpj.svg")}
+.fiv-hct.fiv-icon-dst{background-image:url("icons/high-contrast/dst.svg")}
 .fiv-hct.fiv-icon-dtd{background-image:url("icons/high-contrast/dtd.svg")}
+.fiv-hct.fiv-icon-dwg{background-image:url("icons/high-contrast/dwg.svg")}
 .fiv-hct.fiv-icon-dxf{background-image:url("icons/high-contrast/dxf.svg")}
 .fiv-hct.fiv-icon-editorconfig{background-image:url("icons/high-contrast/editorconfig.svg")}
 .fiv-hct.fiv-icon-el{background-image:url("icons/high-contrast/el.svg")}
@@ -1344,6 +1347,7 @@
 .fiv-hct.fiv-icon-handlebars{background-image:url("icons/high-contrast/handlebars.svg")}
 .fiv-hct.fiv-icon-hbs{background-image:url("icons/high-contrast/hbs.svg")}
 .fiv-hct.fiv-icon-heic{background-image:url("icons/high-contrast/heic.svg")}
+.fiv-hct.fiv-icon-hlp{background-image:url("icons/high-contrast/hlp.svg")}
 .fiv-hct.fiv-icon-htm{background-image:url("icons/high-contrast/htm.svg")}
 .fiv-hct.fiv-icon-html{background-image:url("icons/high-contrast/html.svg")}
 .fiv-hct.fiv-icon-icma{background-image:url("icons/high-contrast/icma.svg")}
@@ -1398,6 +1402,7 @@
 .fiv-hct.fiv-icon-midi{background-image:url("icons/high-contrast/midi.svg")}
 .fiv-hct.fiv-icon-mk{background-image:url("icons/high-contrast/mk.svg")}
 .fiv-hct.fiv-icon-mkv{background-image:url("icons/high-contrast/mkv.svg")}
+.fiv-hct.fiv-icon-mm{background-image:url("icons/high-contrast/mm.svg")}
 .fiv-hct.fiv-icon-mo{background-image:url("icons/high-contrast/mo.svg")}
 .fiv-hct.fiv-icon-mod{background-image:url("icons/high-contrast/mod.svg")}
 .fiv-hct.fiv-icon-mov{background-image:url("icons/high-contrast/mov.svg")}
@@ -1457,6 +1462,7 @@
 .fiv-hct.fiv-icon-resx{background-image:url("icons/high-contrast/resx.svg")}
 .fiv-hct.fiv-icon-retry{background-image:url("icons/high-contrast/retry.svg")}
 .fiv-hct.fiv-icon-rm{background-image:url("icons/high-contrast/rm.svg")}
+.fiv-hct.fiv-icon-rom{background-image:url("icons/high-contrast/rom.svg")}
 .fiv-hct.fiv-icon-rpm{background-image:url("icons/high-contrast/rpm.svg")}
 .fiv-hct.fiv-icon-rsa{background-image:url("icons/high-contrast/rsa.svg")}
 .fiv-hct.fiv-icon-rtf{background-image:url("icons/high-contrast/rtf.svg")}
@@ -1465,6 +1471,7 @@
 .fiv-hct.fiv-icon-sdf{background-image:url("icons/high-contrast/sdf.svg")}
 .fiv-hct.fiv-icon-sed{background-image:url("icons/high-contrast/sed.svg")}
 .fiv-hct.fiv-icon-sesx{background-image:url("icons/high-contrast/sesx.svg")}
+.fiv-hct.fiv-icon-sh{background-image:url("icons/high-contrast/sh.svg")}
 .fiv-hct.fiv-icon-sit{background-image:url("icons/high-contrast/sit.svg")}
 .fiv-hct.fiv-icon-sketch{background-image:url("icons/high-contrast/sketch.svg")}
 .fiv-hct.fiv-icon-skin{background-image:url("icons/high-contrast/skin.svg")}
@@ -1480,6 +1487,7 @@
 .fiv-hct.fiv-icon-swift{background-image:url("icons/high-contrast/swift.svg")}
 .fiv-hct.fiv-icon-swp{background-image:url("icons/high-contrast/swp.svg")}
 .fiv-hct.fiv-icon-tar{background-image:url("icons/high-contrast/tar.svg")}
+.fiv-hct.fiv-icon-tax{background-image:url("icons/high-contrast/tax.svg")}
 .fiv-hct.fiv-icon-tex{background-image:url("icons/high-contrast/tex.svg")}
 .fiv-hct.fiv-icon-tga{background-image:url("icons/high-contrast/tga.svg")}
 .fiv-hct.fiv-icon-tgz{background-image:url("icons/high-contrast/tgz.svg")}
@@ -1522,6 +1530,7 @@
 .fiv-hct.fiv-icon-xcodeproj{background-image:url("icons/high-contrast/xcodeproj.svg")}
 .fiv-hct.fiv-icon-xlb{background-image:url("icons/high-contrast/xlb.svg")}
 .fiv-hct.fiv-icon-xlc{background-image:url("icons/high-contrast/xlc.svg")}
+.fiv-hct.fiv-icon-xlm{background-image:url("icons/high-contrast/xlm.svg")}
 .fiv-hct.fiv-icon-xls{background-image:url("icons/high-contrast/xls.svg")}
 .fiv-hct.fiv-icon-xlsb{background-image:url("icons/high-contrast/xlsb.svg")}
 .fiv-hct.fiv-icon-xlsm{background-image:url("icons/high-contrast/xlsm.svg")}
