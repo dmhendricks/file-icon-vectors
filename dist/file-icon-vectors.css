@@ -5387,6 +5387,14 @@
   background-image: url("icons/high-contrast/html.svg");
 }
 
+.fiv-hct.fiv-icon-icma {
+  background-image: url("icons/high-contrast/icma.svg");
+}
+
+.fiv-hct.fiv-icon-icml {
+  background-image: url("icons/high-contrast/icml.svg");
+}
+
 .fiv-hct.fiv-icon-icns {
   background-image: url("icons/high-contrast/icns.svg");
 }
@@ -5851,6 +5859,10 @@
   background-image: url("icons/high-contrast/sed.svg");
 }
 
+.fiv-hct.fiv-icon-sesx {
+  background-image: url("icons/high-contrast/sesx.svg");
+}
+
 .fiv-hct.fiv-icon-sit {
   background-image: url("icons/high-contrast/sit.svg");
 }
@@ -6051,6 +6063,10 @@
   background-image: url("icons/high-contrast/wmv.svg");
 }
 
+.fiv-hct.fiv-icon-wpd {
+  background-image: url("icons/high-contrast/wpd.svg");
+}
+
 .fiv-hct.fiv-icon-wps {
   background-image: url("icons/high-contrast/wps.svg");
 }
@@ -6067,12 +6083,20 @@
   background-image: url("icons/high-contrast/xcodeproj.svg");
 }
 
-.fiv-hct.fiv-icon-xlm {
-  background-image: url("icons/high-contrast/xlm.svg");
+.fiv-hct.fiv-icon-xlb {
+  background-image: url("icons/high-contrast/xlb.svg");
+}
+
+.fiv-hct.fiv-icon-xlc {
+  background-image: url("icons/high-contrast/xlc.svg");
 }
 
 .fiv-hct.fiv-icon-xls {
   background-image: url("icons/high-contrast/xls.svg");
+}
+
+.fiv-hct.fiv-icon-xlsb {
+  background-image: url("icons/high-contrast/xlsb.svg");
 }
 
 .fiv-hct.fiv-icon-xlsm {

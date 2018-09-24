@@ -1346,6 +1346,8 @@
 .fiv-hct.fiv-icon-heic{background-image:url("icons/high-contrast/heic.svg")}
 .fiv-hct.fiv-icon-htm{background-image:url("icons/high-contrast/htm.svg")}
 .fiv-hct.fiv-icon-html{background-image:url("icons/high-contrast/html.svg")}
+.fiv-hct.fiv-icon-icma{background-image:url("icons/high-contrast/icma.svg")}
+.fiv-hct.fiv-icon-icml{background-image:url("icons/high-contrast/icml.svg")}
 .fiv-hct.fiv-icon-icns{background-image:url("icons/high-contrast/icns.svg")}
 .fiv-hct.fiv-icon-ico{background-image:url("icons/high-contrast/ico.svg")}
 .fiv-hct.fiv-icon-idx{background-image:url("icons/high-contrast/idx.svg")}
@@ -1462,6 +1464,7 @@
 .fiv-hct.fiv-icon-scss{background-image:url("icons/high-contrast/scss.svg")}
 .fiv-hct.fiv-icon-sdf{background-image:url("icons/high-contrast/sdf.svg")}
 .fiv-hct.fiv-icon-sed{background-image:url("icons/high-contrast/sed.svg")}
+.fiv-hct.fiv-icon-sesx{background-image:url("icons/high-contrast/sesx.svg")}
 .fiv-hct.fiv-icon-sit{background-image:url("icons/high-contrast/sit.svg")}
 .fiv-hct.fiv-icon-sketch{background-image:url("icons/high-contrast/sketch.svg")}
 .fiv-hct.fiv-icon-skin{background-image:url("icons/high-contrast/skin.svg")}
@@ -1512,12 +1515,15 @@
 .fiv-hct.fiv-icon-wma{background-image:url("icons/high-contrast/wma.svg")}
 .fiv-hct.fiv-icon-wmf{background-image:url("icons/high-contrast/wmf.svg")}
 .fiv-hct.fiv-icon-wmv{background-image:url("icons/high-contrast/wmv.svg")}
+.fiv-hct.fiv-icon-wpd{background-image:url("icons/high-contrast/wpd.svg")}
 .fiv-hct.fiv-icon-wps{background-image:url("icons/high-contrast/wps.svg")}
 .fiv-hct.fiv-icon-wsf{background-image:url("icons/high-contrast/wsf.svg")}
 .fiv-hct.fiv-icon-xaml{background-image:url("icons/high-contrast/xaml.svg")}
 .fiv-hct.fiv-icon-xcodeproj{background-image:url("icons/high-contrast/xcodeproj.svg")}
-.fiv-hct.fiv-icon-xlm{background-image:url("icons/high-contrast/xlm.svg")}
+.fiv-hct.fiv-icon-xlb{background-image:url("icons/high-contrast/xlb.svg")}
+.fiv-hct.fiv-icon-xlc{background-image:url("icons/high-contrast/xlc.svg")}
 .fiv-hct.fiv-icon-xls{background-image:url("icons/high-contrast/xls.svg")}
+.fiv-hct.fiv-icon-xlsb{background-image:url("icons/high-contrast/xlsb.svg")}
 .fiv-hct.fiv-icon-xlsm{background-image:url("icons/high-contrast/xlsm.svg")}
 .fiv-hct.fiv-icon-xlsx{background-image:url("icons/high-contrast/xlsx.svg")}
 .fiv-hct.fiv-icon-xlt{background-image:url("icons/high-contrast/xlt.svg")}
