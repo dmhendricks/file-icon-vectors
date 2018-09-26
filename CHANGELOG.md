@@ -39,6 +39,7 @@
    - MNG
    - OCX
    - PBIX
+   - PPK
    - RDL
    - REG
    - RST

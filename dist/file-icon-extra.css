@@ -32,12 +32,12 @@
   content: '\00a0';
 }
 
-.fiv-ext.fiv-icon-folder-alt {
-  background-image: url("icons/extra/folder-alt.svg");
-}
-
 .fiv-ext.fiv-icon-folder-archive {
   background-image: url("icons/extra/folder-archive.svg");
+}
+
+.fiv-ext.fiv-icon-folder-blue-open {
+  background-image: url("icons/extra/folder-blue-open.svg");
 }
 
 .fiv-ext.fiv-icon-folder-blue {
@@ -64,12 +64,12 @@
   background-image: url("icons/extra/folder-music.svg");
 }
 
-.fiv-ext.fiv-icon-folder-open-alt {
-  background-image: url("icons/extra/folder-open-alt.svg");
+.fiv-ext.fiv-icon-folder-neon-open {
+  background-image: url("icons/extra/folder-neon-open.svg");
 }
 
-.fiv-ext.fiv-icon-folder-open-blue {
-  background-image: url("icons/extra/folder-open-blue.svg");
+.fiv-ext.fiv-icon-folder-neon {
+  background-image: url("icons/extra/folder-neon.svg");
 }
 
 .fiv-ext.fiv-icon-folder-open {
@@ -78,6 +78,14 @@
 
 .fiv-ext.fiv-icon-folder-photo {
   background-image: url("icons/extra/folder-photo.svg");
+}
+
+.fiv-ext.fiv-icon-folder-plain-open {
+  background-image: url("icons/extra/folder-plain-open.svg");
+}
+
+.fiv-ext.fiv-icon-folder-plain {
+  background-image: url("icons/extra/folder-plain.svg");
 }
 
 .fiv-ext.fiv-icon-folder-trash {

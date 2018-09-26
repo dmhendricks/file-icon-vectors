@@ -912,6 +912,10 @@
   background-image: url("icons/high-contrast/potx.svg");
 }
 
+.fiv-hct.fiv-icon-ppk {
+  background-image: url("icons/high-contrast/ppk.svg");
+}
+
 .fiv-hct.fiv-icon-pps {
   background-image: url("icons/high-contrast/pps.svg");
 }
