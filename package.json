@@ -4,15 +4,11 @@
   "author": "Daniel M. Hendricks",
   "version": "1.0.0",
   "license": "MIT",
-  "keywords": [
-    "file",
-    "icons",
-    "vectors",
-    "svg",
-    "css",
-    "sass",
-    "logo"
-  ],
+  "main": "dist/file-icon-vectors.min.css",
+  "keywords": [ "file", "icons", "vectors", "svg", "css" ],
+  "files": {
+    "dist/"
+  },
   "devDependencies": {
     "gulp": "^4.0",
     "gulp-autoprefixer": "^4.1.0",
@@ -24,6 +20,10 @@
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0",
     "gulp-uglifycss": "^1.1.0"
+  },
+  "homepage": "https://fileicons.org/",
+  "bugs": {
+    "url": "https://github.com/dmhendricks/file-icon-vectors/issues"
   },
   "repository": {
     "type": "git",
