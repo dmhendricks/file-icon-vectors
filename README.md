@@ -28,13 +28,13 @@ Currently, there are three icon sets in the `dist/icons` directory:
 
 ## Installation
 
-#### NPM
+### NPM
 
 ```bash
 npm install file-icon-vectors
 ```
 
-#### Bower
+### Bower
 
 ```bash
 bower install file-icon-vectors
@@ -42,7 +42,7 @@ bower install file-icon-vectors
 
 **NB!** Due to a versioning issue, the current release is not available from Bower. It will be corrected with the next release.
 
-#### Composer
+### Composer
 
 ```bash
 composer require dmhendricks/file-icon-vectors
@@ -61,7 +61,7 @@ To display a file icon, simply link to one or all of the icon set CSS files in t
 <link rel="stylesheet" href="dist/file-icon-vectors.min.css" />
 ```
 
-#### CDN: jsDelivr
+### CDN: jsDelivr
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/file-icon-vectors@1.0.0/dist/file-icon-classic.min.css" />
@@ -72,7 +72,7 @@ To display a file icon, simply link to one or all of the icon set CSS files in t
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/file-icon-vectors@1.0.0/dist/file-icon-vectors.min.css" />
 ```
 
-##### Combining Files
+#### Combining Files
 
 jsDelivr allows you to [combine](https://www.jsdelivr.com/features#combine) multiple files. Below is an example of linking both the Vivid and Square Outline sets with one URI:
 
@@ -82,7 +82,7 @@ jsDelivr allows you to [combine](https://www.jsdelivr.com/features#combine) mult
 
 This will become more beneficial with future releases that contain supplementary packs, web fonts, etc.
 
-#### CDN: unpkg
+### CDN: unpkg
 
 ```html
 <link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@1.0.0/dist/file-icon-classic.min.css" />
@@ -93,7 +93,7 @@ This will become more beneficial with future releases that contain supplementary
 <link rel="stylesheet" href="https://unpkg.com/file-icon-vectors@1.0.0/dist/file-icon-vectors.min.css" />
 ```
 
-#### CDN: GitHack
+### CDN: GitHack
 
 Supports branches as endpoints (such as `master`).
 
@@ -106,7 +106,7 @@ Supports branches as endpoints (such as `master`).
 <link rel="stylesheet" href="https://rawcdn.githack.com/dmhendricks/file-icon-vectors/master/dist/file-icon-vectors.min.css" />
 ```
 
-#### WordPress
+### WordPress
 
 If you're using WordPress, you can load the icons by adding the following line to your theme's `functions.php` file:
 
