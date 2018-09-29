@@ -36,12 +36,12 @@
   background-image: url("icons/extra/folder-archive.svg");
 }
 
-.fiv-ext.fiv-icon-folder-blue-open {
-  background-image: url("icons/extra/folder-blue-open.svg");
+.fiv-ext.fiv-icon-folder-classic-open {
+  background-image: url("icons/extra/folder-classic-open.svg");
 }
 
-.fiv-ext.fiv-icon-folder-blue {
-  background-image: url("icons/extra/folder-blue.svg");
+.fiv-ext.fiv-icon-folder-classic {
+  background-image: url("icons/extra/folder-classic.svg");
 }
 
 .fiv-ext.fiv-icon-folder-favorite {
@@ -70,6 +70,14 @@
 
 .fiv-ext.fiv-icon-folder-neon {
   background-image: url("icons/extra/folder-neon.svg");
+}
+
+.fiv-ext.fiv-icon-folder-network-open {
+  background-image: url("icons/extra/folder-network-open.svg");
+}
+
+.fiv-ext.fiv-icon-folder-network {
+  background-image: url("icons/extra/folder-network.svg");
 }
 
 .fiv-ext.fiv-icon-folder-open {
