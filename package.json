@@ -6,9 +6,9 @@
   "license": "MIT",
   "main": "dist/file-icon-vectors.min.css",
   "keywords": [ "file", "icons", "vectors", "svg", "css" ],
-  "files": {
+  "files": [
     "dist/"
-  },
+  ],
   "devDependencies": {
     "gulp": "^4.0",
     "gulp-autoprefixer": "^4.1.0",
