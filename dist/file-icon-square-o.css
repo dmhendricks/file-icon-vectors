@@ -1040,6 +1040,10 @@
   background-image: url("icons/square-o/part.svg");
 }
 
+.fiv-sqo.fiv-icon-partial {
+  background-image: url("icons/square-o/partial.svg");
+}
+
 .fiv-sqo.fiv-icon-pcd {
   background-image: url("icons/square-o/pcd.svg");
 }
@@ -1542,6 +1546,10 @@
 
 .fiv-sqo.fiv-icon-xcf {
   background-image: url("icons/square-o/xcf.svg");
+}
+
+.fiv-sqo.fiv-icon-xfl {
+  background-image: url("icons/square-o/xfl.svg");
 }
 
 .fiv-sqo.fiv-icon-xlm {
