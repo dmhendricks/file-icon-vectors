@@ -388,6 +388,10 @@
   background-image: url("icons/square-o/deb.svg");
 }
 
+.fiv-sqo.fiv-icon-default {
+  background-image: url("icons/square-o/default.svg");
+}
+
 .fiv-sqo.fiv-icon-dgn {
   background-image: url("icons/square-o/dgn.svg");
 }

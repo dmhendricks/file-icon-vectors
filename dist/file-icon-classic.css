@@ -388,6 +388,10 @@
   background-image: url("icons/classic/deb.svg");
 }
 
+.fiv-cla.fiv-icon-default {
+  background-image: url("icons/classic/default.svg");
+}
+
 .fiv-cla.fiv-icon-dgn {
   background-image: url("icons/classic/dgn.svg");
 }

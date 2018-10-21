@@ -388,6 +388,10 @@
   background-image: url("icons/vivid/deb.svg");
 }
 
+.fiv-viv.fiv-icon-default {
+  background-image: url("icons/vivid/default.svg");
+}
+
 .fiv-viv.fiv-icon-dgn {
   background-image: url("icons/vivid/dgn.svg");
 }
