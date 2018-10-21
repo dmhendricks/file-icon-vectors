@@ -48,6 +48,22 @@
   background-image: url("icons/extra/folder-favorite.svg");
 }
 
+.fiv-ext.fiv-icon-folder-flat {
+  background-image: url("icons/extra/folder-flat.svg");
+}
+
+.fiv-ext.fiv-icon-folder-git {
+  background-image: url("icons/extra/folder-git.svg");
+}
+
+.fiv-ext.fiv-icon-folder-hidden-open {
+  background-image: url("icons/extra/folder-hidden-open.svg");
+}
+
+.fiv-ext.fiv-icon-folder-hidden {
+  background-image: url("icons/extra/folder-hidden.svg");
+}
+
 .fiv-ext.fiv-icon-folder-idea {
   background-image: url("icons/extra/folder-idea.svg");
 }
@@ -94,6 +110,10 @@
 
 .fiv-ext.fiv-icon-folder-plain {
   background-image: url("icons/extra/folder-plain.svg");
+}
+
+.fiv-ext.fiv-icon-folder-svn {
+  background-image: url("icons/extra/folder-svn.svg");
 }
 
 .fiv-ext.fiv-icon-folder-trash {
