@@ -456,6 +456,10 @@
   background-image: url("icons/classic/ds_store.svg");
 }
 
+.fiv-cla.fiv-icon-dsn {
+  background-image: url("icons/classic/dsn.svg");
+}
+
 .fiv-cla.fiv-icon-dtd {
   background-image: url("icons/classic/dtd.svg");
 }

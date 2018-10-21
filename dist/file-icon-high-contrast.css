@@ -436,6 +436,10 @@
   background-image: url("icons/high-contrast/dpj.svg");
 }
 
+.fiv-hct.fiv-icon-dsn {
+  background-image: url("icons/high-contrast/dsn.svg");
+}
+
 .fiv-hct.fiv-icon-dst {
   background-image: url("icons/high-contrast/dst.svg");
 }
@@ -1090,6 +1094,10 @@
 
 .fiv-hct.fiv-icon-stl {
   background-image: url("icons/high-contrast/stl.svg");
+}
+
+.fiv-hct.fiv-icon-sub {
+  background-image: url("icons/high-contrast/sub.svg");
 }
 
 .fiv-hct.fiv-icon-svg {
