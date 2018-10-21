@@ -5431,6 +5431,10 @@
   background-image: url("icons/high-contrast/enc.svg");
 }
 
+.fiv-hct.fiv-icon-eot {
+  background-image: url("icons/high-contrast/eot.svg");
+}
+
 .fiv-hct.fiv-icon-eps {
   background-image: url("icons/high-contrast/eps.svg");
 }
