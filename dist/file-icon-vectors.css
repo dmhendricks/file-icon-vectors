@@ -5455,6 +5455,10 @@
   background-image: url("icons/high-contrast/eps.svg");
 }
 
+.fiv-hct.fiv-icon-epub {
+  background-image: url("icons/high-contrast/epub.svg");
+}
+
 .fiv-hct.fiv-icon-eslintignore {
   background-image: url("icons/high-contrast/eslintignore.svg");
 }
@@ -5545,6 +5549,10 @@
 
 .fiv-hct.fiv-icon-html {
   background-image: url("icons/high-contrast/html.svg");
+}
+
+.fiv-hct.fiv-icon-ibooks {
+  background-image: url("icons/high-contrast/ibooks.svg");
 }
 
 .fiv-hct.fiv-icon-icma {
@@ -5651,6 +5659,10 @@
   background-image: url("icons/high-contrast/key.svg");
 }
 
+.fiv-hct.fiv-icon-kf8 {
+  background-image: url("icons/high-contrast/kf8.svg");
+}
+
 .fiv-hct.fiv-icon-kit {
   background-image: url("icons/high-contrast/kit.svg");
 }
@@ -5677,6 +5689,10 @@
 
 .fiv-hct.fiv-icon-list {
   background-image: url("icons/high-contrast/list.svg");
+}
+
+.fiv-hct.fiv-icon-lit {
+  background-image: url("icons/high-contrast/lit.svg");
 }
 
 .fiv-hct.fiv-icon-lnk {
@@ -5765,6 +5781,10 @@
 
 .fiv-hct.fiv-icon-mo {
   background-image: url("icons/high-contrast/mo.svg");
+}
+
+.fiv-hct.fiv-icon-mobi {
+  background-image: url("icons/high-contrast/mobi.svg");
 }
 
 .fiv-hct.fiv-icon-mod {
@@ -6033,6 +6053,10 @@
 
 .fiv-hct.fiv-icon-rsa {
   background-image: url("icons/high-contrast/rsa.svg");
+}
+
+.fiv-hct.fiv-icon-rss {
+  background-image: url("icons/high-contrast/rss.svg");
 }
 
 .fiv-hct.fiv-icon-rtf {
