@@ -1,3 +1,4 @@
+[![Looking for Remote Work](https://f001.backblazeb2.com/file/hendricks/tmp/autumn-theme_looking-for-work.jpg)](https://www.danhendricks.com/contact/ "Looking for Remote Work")
 [![Author](https://img.shields.io/badge/author-Daniel%20M.%20Hendricks-lightgrey.svg?colorB=9900cc )](https://www.danhendricks.com?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=dmhendricks%2Ffile-icon-vectors)
 [![Icon Count](https://img.shields.io/badge/icon%20count-1170-red.svg)](https://fileicons.org/?utm_source=github.com&utm_medium=referral&utm_content=button&utm_campaign=dmhendricks%2Ffile-icon-vectors)
 [![Release](https://img.shields.io/github/release/dmhendricks/file-icon-vectors.svg)](https://github.com/dmhendricks/file-icon-vectors/releases)
@@ -26,6 +27,14 @@ Currently, there are three icon sets in the `dist/icons` directory:
 * **Vivid** - Inspired by [Erlen Masson](https://www.sketchappsources.com/svg-resource/1856-vector-file-type-icons-sketch-freebie-resource.html?utm_source=github.com&utm_medium=referral&utm_content=link&utm_campaign=dmhendricks%2Ffile-icon-vectors)
 * **Square Outline** (in progress) - Modified from and inspired by [Cotne Nazarashvili](https://github.com/thecotne/square-file-icons)
 
+**Next release:**
+
+- Over 500 new icons
+- A new set for dark backgrounds ([preview](https://fileicons.org/?branch=develop&view=high-contrast))
+- CDNJS hosting
+
+Once that is released, I'd like to focus on a webfont, ideally where you can create your own file icons with stacking, just like Font Awesome.
+
 ## Installation
 
 ### NPM
@@ -40,13 +49,15 @@ npm install file-icon-vectors
 bower install file-icon-vectors
 ```
 
-**NB!** Due to a versioning issue, the current release is not available from Bower. It will be corrected with the next release.
+:rotating_light: **NB!** Because I didn't use semver, the current release is not available from Bower. It will be corrected with the next release.
 
 ### Composer
 
 ```bash
 composer require dmhendricks/file-icon-vectors
 ```
+
+(I know, it doesn't below on Packagist, but 15% of my downloads are coming from there, so some people must prefer it.)
 
 ## Quick Start
 
@@ -154,6 +165,7 @@ For example, [fileicons.org](https://fileicons.org/) reads this file to dynamica
 
 Generic icons include `blank.svg`, `folder.svg`, `image.svg`.
 
+:rotating_light: **BREAKING CHANGE:** I will be removing the generic `folder.svg` from each collection in favor of the upcoming ["Extra"](https://fileicons.org/?branch=develop&view=extra) set. Follow this repo if you'd like to be notified when that happens.
 
 ## Special Thanks
 
