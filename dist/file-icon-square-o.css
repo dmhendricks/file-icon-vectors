@@ -572,6 +572,10 @@
   background-image: url("icons/square-o/gpg.svg");
 }
 
+.fiv-sqo.fiv-icon-gpl {
+  background-image: url("icons/square-o/gpl.svg");
+}
+
 .fiv-sqo.fiv-icon-gradle {
   background-image: url("icons/square-o/gradle.svg");
 }

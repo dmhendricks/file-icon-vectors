@@ -572,6 +572,10 @@
   background-image: url("icons/vivid/gpg.svg");
 }
 
+.fiv-viv.fiv-icon-gpl {
+  background-image: url("icons/vivid/gpl.svg");
+}
+
 .fiv-viv.fiv-icon-gradle {
   background-image: url("icons/vivid/gradle.svg");
 }

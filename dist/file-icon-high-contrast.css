@@ -508,6 +508,10 @@
   background-image: url("icons/high-contrast/gpg.svg");
 }
 
+.fiv-hct.fiv-icon-gpl {
+  background-image: url("icons/high-contrast/gpl.svg");
+}
+
 .fiv-hct.fiv-icon-gradle {
   background-image: url("icons/high-contrast/gradle.svg");
 }

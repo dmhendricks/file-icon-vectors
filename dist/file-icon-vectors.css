@@ -674,6 +674,10 @@
   background-image: url("icons/classic/gpg.svg");
 }
 
+.fiv-cla.fiv-icon-gpl {
+  background-image: url("icons/classic/gpl.svg");
+}
+
 .fiv-cla.fiv-icon-gradle {
   background-image: url("icons/classic/gradle.svg");
 }
@@ -2263,6 +2267,10 @@
 
 .fiv-viv.fiv-icon-gpg {
   background-image: url("icons/vivid/gpg.svg");
+}
+
+.fiv-viv.fiv-icon-gpl {
+  background-image: url("icons/vivid/gpl.svg");
 }
 
 .fiv-viv.fiv-icon-gradle {
@@ -3856,6 +3864,10 @@
   background-image: url("icons/square-o/gpg.svg");
 }
 
+.fiv-sqo.fiv-icon-gpl {
+  background-image: url("icons/square-o/gpl.svg");
+}
+
 .fiv-sqo.fiv-icon-gradle {
   background-image: url("icons/square-o/gradle.svg");
 }
@@ -5381,6 +5393,10 @@
 
 .fiv-hct.fiv-icon-gpg {
   background-image: url("icons/high-contrast/gpg.svg");
+}
+
+.fiv-hct.fiv-icon-gpl {
+  background-image: url("icons/high-contrast/gpl.svg");
 }
 
 .fiv-hct.fiv-icon-gradle {
