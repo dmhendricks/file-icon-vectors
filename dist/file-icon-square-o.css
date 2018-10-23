@@ -368,6 +368,10 @@
   background-image: url("icons/square-o/cur.svg");
 }
 
+.fiv-sqo.fiv-icon-dart {
+  background-image: url("icons/square-o/dart.svg");
+}
+
 .fiv-sqo.fiv-icon-dat {
   background-image: url("icons/square-o/dat.svg");
 }

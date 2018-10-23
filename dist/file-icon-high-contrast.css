@@ -372,6 +372,10 @@
   background-image: url("icons/high-contrast/cur.svg");
 }
 
+.fiv-hct.fiv-icon-dart {
+  background-image: url("icons/high-contrast/dart.svg");
+}
+
 .fiv-hct.fiv-icon-dat {
   background-image: url("icons/high-contrast/dat.svg");
 }

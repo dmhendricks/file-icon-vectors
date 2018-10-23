@@ -368,6 +368,10 @@
   background-image: url("icons/classic/cur.svg");
 }
 
+.fiv-cla.fiv-icon-dart {
+  background-image: url("icons/classic/dart.svg");
+}
+
 .fiv-cla.fiv-icon-dat {
   background-image: url("icons/classic/dat.svg");
 }

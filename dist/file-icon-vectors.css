@@ -490,6 +490,10 @@
   background-image: url("icons/classic/cur.svg");
 }
 
+.fiv-cla.fiv-icon-dart {
+  background-image: url("icons/classic/dart.svg");
+}
+
 .fiv-cla.fiv-icon-dat {
   background-image: url("icons/classic/dat.svg");
 }
@@ -2097,6 +2101,10 @@
   background-image: url("icons/vivid/cur.svg");
 }
 
+.fiv-viv.fiv-icon-dart {
+  background-image: url("icons/vivid/dart.svg");
+}
+
 .fiv-viv.fiv-icon-dat {
   background-image: url("icons/vivid/dat.svg");
 }
@@ -3702,6 +3710,10 @@
 
 .fiv-sqo.fiv-icon-cur {
   background-image: url("icons/square-o/cur.svg");
+}
+
+.fiv-sqo.fiv-icon-dart {
+  background-image: url("icons/square-o/dart.svg");
 }
 
 .fiv-sqo.fiv-icon-dat {
@@ -5317,6 +5329,10 @@
 
 .fiv-hct.fiv-icon-cur {
   background-image: url("icons/high-contrast/cur.svg");
+}
+
+.fiv-hct.fiv-icon-dart {
+  background-image: url("icons/high-contrast/dart.svg");
 }
 
 .fiv-hct.fiv-icon-dat {
