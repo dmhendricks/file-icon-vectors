@@ -1,4 +1,3 @@
-[![Looking for Remote Work](https://f001.backblazeb2.com/file/hendricks/tmp/autumn-theme_looking-for-work.jpg)](https://www.danhendricks.com/contact/ "Looking for Remote Work")
 [![Author](https://img.shields.io/badge/author-Daniel%20M.%20Hendricks-lightgrey.svg?colorB=9900cc )](https://www.danhendricks.com?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=dmhendricks%2Ffile-icon-vectors)
 [![Icon Count](https://img.shields.io/badge/icon%20count-1170-red.svg)](https://fileicons.org/?utm_source=github.com&utm_medium=referral&utm_content=button&utm_campaign=dmhendricks%2Ffile-icon-vectors)
 [![Release](https://img.shields.io/github/release/dmhendricks/file-icon-vectors.svg)](https://github.com/dmhendricks/file-icon-vectors/releases)
