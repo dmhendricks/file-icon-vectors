@@ -1088,6 +1088,10 @@
   background-image: url("icons/square-o/php.svg");
 }
 
+.fiv-sqo.fiv-icon-pid {
+  background-image: url("icons/square-o/pid.svg");
+}
+
 .fiv-sqo.fiv-icon-pkg {
   background-image: url("icons/square-o/pkg.svg");
 }

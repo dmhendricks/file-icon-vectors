@@ -1084,6 +1084,10 @@
   background-image: url("icons/classic/php.svg");
 }
 
+.fiv-cla.fiv-icon-pid {
+  background-image: url("icons/classic/pid.svg");
+}
+
 .fiv-cla.fiv-icon-pkg {
   background-image: url("icons/classic/pkg.svg");
 }
