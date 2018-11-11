@@ -672,6 +672,10 @@
   background-image: url("icons/high-contrast/ini.svg");
 }
 
+.fiv-hct.fiv-icon-inv {
+  background-image: url("icons/high-contrast/inv.svg");
+}
+
 .fiv-hct.fiv-icon-iso {
   background-image: url("icons/high-contrast/iso.svg");
 }

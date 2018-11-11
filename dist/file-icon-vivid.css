@@ -696,6 +696,10 @@
   background-image: url("icons/vivid/ini.svg");
 }
 
+.fiv-viv.fiv-icon-inv {
+  background-image: url("icons/vivid/inv.svg");
+}
+
 .fiv-viv.fiv-icon-iso {
   background-image: url("icons/vivid/iso.svg");
 }

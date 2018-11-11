@@ -5,7 +5,13 @@
   "version": "1.0.0",
   "license": "MIT",
   "main": "dist/file-icon-vectors.min.css",
-  "keywords": [ "file", "icons", "vectors", "svg", "css" ],
+  "keywords": [
+    "file",
+    "icons",
+    "vectors",
+    "svg",
+    "css"
+  ],
   "files": [
     "dist/"
   ],

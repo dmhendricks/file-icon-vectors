@@ -696,6 +696,10 @@
   background-image: url("icons/classic/ini.svg");
 }
 
+.fiv-cla.fiv-icon-inv {
+  background-image: url("icons/classic/inv.svg");
+}
+
 .fiv-cla.fiv-icon-iso {
   background-image: url("icons/classic/iso.svg");
 }

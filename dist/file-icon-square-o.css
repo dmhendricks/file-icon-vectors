@@ -696,6 +696,10 @@
   background-image: url("icons/square-o/ini.svg");
 }
 
+.fiv-sqo.fiv-icon-inv {
+  background-image: url("icons/square-o/inv.svg");
+}
+
 .fiv-sqo.fiv-icon-iso {
   background-image: url("icons/square-o/iso.svg");
 }
