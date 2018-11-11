@@ -1312,6 +1312,10 @@
   background-image: url("icons/vivid/sol.svg");
 }
 
+.fiv-viv.fiv-icon-sphinx {
+  background-image: url("icons/vivid/sphinx.svg");
+}
+
 .fiv-viv.fiv-icon-sql {
   background-image: url("icons/vivid/sql.svg");
 }

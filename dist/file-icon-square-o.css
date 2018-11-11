@@ -1316,6 +1316,10 @@
   background-image: url("icons/square-o/sol.svg");
 }
 
+.fiv-sqo.fiv-icon-sphinx {
+  background-image: url("icons/square-o/sphinx.svg");
+}
+
 .fiv-sqo.fiv-icon-sql {
   background-image: url("icons/square-o/sql.svg");
 }
