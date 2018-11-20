@@ -87,6 +87,7 @@
 .fiv-cla.fiv-icon-bpg{background-image:url("icons/classic/bpg.svg")}
 .fiv-cla.fiv-icon-browser{background-image:url("icons/classic/browser.svg")}
 .fiv-cla.fiv-icon-bz2{background-image:url("icons/classic/bz2.svg")}
+.fiv-cla.fiv-icon-bzempty{background-image:url("icons/classic/bzempty.svg")}
 .fiv-cla.fiv-icon-c{background-image:url("icons/classic/c.svg")}
 .fiv-cla.fiv-icon-cab{background-image:url("icons/classic/cab.svg")}
 .fiv-cla.fiv-icon-cad{background-image:url("icons/classic/cad.svg")}
@@ -492,6 +493,7 @@
 .fiv-viv.fiv-icon-bpg{background-image:url("icons/vivid/bpg.svg")}
 .fiv-viv.fiv-icon-browser{background-image:url("icons/vivid/browser.svg")}
 .fiv-viv.fiv-icon-bz2{background-image:url("icons/vivid/bz2.svg")}
+.fiv-viv.fiv-icon-bzempty{background-image:url("icons/vivid/bzempty.svg")}
 .fiv-viv.fiv-icon-c{background-image:url("icons/vivid/c.svg")}
 .fiv-viv.fiv-icon-cab{background-image:url("icons/vivid/cab.svg")}
 .fiv-viv.fiv-icon-cad{background-image:url("icons/vivid/cad.svg")}
@@ -897,6 +899,7 @@
 .fiv-sqo.fiv-icon-bpg{background-image:url("icons/square-o/bpg.svg")}
 .fiv-sqo.fiv-icon-browser{background-image:url("icons/square-o/browser.svg")}
 .fiv-sqo.fiv-icon-bz2{background-image:url("icons/square-o/bz2.svg")}
+.fiv-sqo.fiv-icon-bzempty{background-image:url("icons/square-o/bzempty.svg")}
 .fiv-sqo.fiv-icon-c{background-image:url("icons/square-o/c.svg")}
 .fiv-sqo.fiv-icon-cab{background-image:url("icons/square-o/cab.svg")}
 .fiv-sqo.fiv-icon-cad{background-image:url("icons/square-o/cad.svg")}
@@ -1303,6 +1306,7 @@
 .fiv-hct.fiv-icon-bpg{background-image:url("icons/high-contrast/bpg.svg")}
 .fiv-hct.fiv-icon-browser{background-image:url("icons/high-contrast/browser.svg")}
 .fiv-hct.fiv-icon-bz2{background-image:url("icons/high-contrast/bz2.svg")}
+.fiv-hct.fiv-icon-bzempty{background-image:url("icons/high-contrast/bzempty.svg")}
 .fiv-hct.fiv-icon-c{background-image:url("icons/high-contrast/c.svg")}
 .fiv-hct.fiv-icon-cab{background-image:url("icons/high-contrast/cab.svg")}
 .fiv-hct.fiv-icon-cad{background-image:url("icons/high-contrast/cad.svg")}

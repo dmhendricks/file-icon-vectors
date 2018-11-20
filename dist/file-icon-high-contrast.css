@@ -220,6 +220,10 @@
   background-image: url("icons/high-contrast/bz2.svg");
 }
 
+.fiv-hct.fiv-icon-bzempty {
+  background-image: url("icons/high-contrast/bzempty.svg");
+}
+
 .fiv-hct.fiv-icon-c {
   background-image: url("icons/high-contrast/c.svg");
 }

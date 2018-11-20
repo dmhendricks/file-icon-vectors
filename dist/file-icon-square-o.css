@@ -220,6 +220,10 @@
   background-image: url("icons/square-o/bz2.svg");
 }
 
+.fiv-sqo.fiv-icon-bzempty {
+  background-image: url("icons/square-o/bzempty.svg");
+}
+
 .fiv-sqo.fiv-icon-c {
   background-image: url("icons/square-o/c.svg");
 }

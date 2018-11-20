@@ -220,6 +220,10 @@
   background-image: url("icons/classic/bz2.svg");
 }
 
+.fiv-cla.fiv-icon-bzempty {
+  background-image: url("icons/classic/bzempty.svg");
+}
+
 .fiv-cla.fiv-icon-c {
   background-image: url("icons/classic/c.svg");
 }
