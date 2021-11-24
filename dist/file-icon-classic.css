@@ -1000,6 +1000,10 @@
   background-image: url("icons/classic/odb.svg");
 }
 
+.fiv-cla.fiv-icon-odp {
+  background-image:url("icons/classic/odp.svg");
+}
+
 .fiv-cla.fiv-icon-ods {
   background-image: url("icons/classic/ods.svg");
 }
