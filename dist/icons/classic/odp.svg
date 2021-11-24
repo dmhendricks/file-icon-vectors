@@ -1,0 +1,21 @@
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="528.617 153.994 72.2 98" width="72.2" height="98">
+  <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="31.747" y1="69.935" x2="31.747" y2="69.986" gradientTransform="matrix(1 0 0 -1 0 102)">
+    <stop offset="0" stop-color="#adccdc"></stop>
+    <stop offset="1" stop-color="#4c6c7b"></stop>
+  </linearGradient>
+  <linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="45.324" y1="74.184" x2="58.871" y2="87.731" gradientTransform="matrix(1 0 0 -1 0 102)">
+    <stop offset="0" stop-color="#fff"></stop>
+    <stop offset="0.35" stop-color="#fafbfb"></stop>
+    <stop offset="0.532" stop-color="#edf1f4"></stop>
+    <stop offset="0.675" stop-color="#dde5e9"></stop>
+    <stop offset="0.799" stop-color="#c7d3da"></stop>
+    <stop offset="0.908" stop-color="#adbdc7"></stop>
+    <stop offset="1" stop-color="#92a5b0"></stop>
+  </linearGradient>
+  <path d="M 45.2 1 L 58.75 14.35 L 72.3 27.7 L 72.3 99 L 0.1 99 L 0.1 1 L 45.2 1 Z" transform="matrix(1, 0, 0, 1, 528.516716, 152.994474)" style="fill: rgb(252, 126, 0); fill-opacity: 0.11; paint-order: fill; stroke: rgb(230, 132, 66);"></path>
+  <path d="M31.8 32c-.1.1-.1.1 0 0" fill="url(#SVGID_2_)" transform="matrix(1, 0, 0, 1, 528.516716, 152.994474)"></path>
+  <path d="M 568.317 184.253 L 570.217 184.253 C 573.017 184.453 575.317 185.153 577.517 186.053 C 581.717 184.153 587.817 185.653 591.517 187.053 C 586.717 186.553 581.017 187.053 577.717 188.953 C 574.417 186.253 568.117 185.553 562.217 186.253 C 563.917 185.153 565.917 184.553 568.317 184.253 Z M 566.917 191.653 C 563.517 191.853 560.717 192.953 558.817 194.553 C 553.117 191.953 543.317 193.053 539.617 196.553 C 539.317 196.753 538.917 197.053 539.017 197.353 C 542.217 196.353 546.117 195.553 550.217 195.853 C 554.217 196.153 557.217 197.553 559.517 199.353 C 563.617 195.653 569.717 193.553 577.417 193.653 C 574.717 192.253 570.817 191.253 566.917 191.653 Z" style="fill: rgb(226, 126, 73);"></path>
+  <path d="M45.2 1l27.1 26.7H45.2V1z" fill="url(#SVGID_9_)" transform="matrix(1, 0, 0, 1, 528.516716, 152.994474)"></path>
+  <path d="M45.2 1l27.1 26.7H45.2V1z" fill-opacity="0" stroke-width="2" stroke-linejoin="bevel" transform="matrix(1, 0, 0, 1, 528.516716, 152.994474)" style="stroke: rgb(243, 114, 15); fill: rgb(9, 7, 7); paint-order: fill; stroke-opacity: 0.4;"></path>
+  <text style="fill: rgb(244, 115, 9); font-family: Arial, sans-serif; font-size:34px;font-weight:bold; white-space: pre;letter-spacing: 4px;" transform="matrix(0.70, 0, 0, 0.95, 535, 240)" >ODP</text>
+</svg>
